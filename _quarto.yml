@@ -29,3 +29,5 @@ format:
       - styles.css
     toc: false
     mainfont: "Inter"
+    resources:
+      - googlefcbd9973d8740692.html
