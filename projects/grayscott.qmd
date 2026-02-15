@@ -51,14 +51,9 @@ Near the Turing bifurcation, the amplitude equations provide stability condition
 
 ---
 
-## Paper
+## Journal Article
 
 - H. Rahim, N. Iqbal, C. Cong, and Z. Ding, *Pattern selection of three components Gray–Scott model*, **Journal of Physics: Conference Series** 1324 (2019) 012012.  
   DOI: [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012)
 
 ---
-
-## Code & reproducibility
-
-- Code repository: ADD LINK (if available)
-- Notes / derivations: ADD LINK (if available)
