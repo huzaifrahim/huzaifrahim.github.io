@@ -1,10 +1,11 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   navbar:
     background: "#1a1c2c"
-    container: true  # Use Bootstrap's container, not fluid
+    container: true
     left:
       - href: index.qmd
         text: Home
@@ -24,6 +25,7 @@ website:
 format:
   html:
     theme: minimal
-    css: styles.css
+    css:
+      - styles.css
     toc: false
     mainfont: "Inter"
