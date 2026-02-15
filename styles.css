@@ -105,3 +105,13 @@ h2 {
   border-bottom: none !important;
   padding-bottom: 0 !important;
 }
+
+/* Justify main body text */
+main p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+main li {
+  text-align: justify;
+}
