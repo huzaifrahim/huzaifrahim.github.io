@@ -1,0 +1,63 @@
+---
+title: "Impact of friction and grain shape on the morphology of sheared granular media"
+subtitle: "DEM simulations in a linear split-bottom shear cell (MercuryDPM)"
+---
+
+## Overview
+
+This project investigates how **particle friction** and **grain shape** control the steady-state structure of dense granular flows under shear. Using DEM simulations in a **linear split-bottom shear cell**, I quantified the competition between **alignment-driven compaction** and **friction-driven dilatancy**, and linked these microscopic mechanisms to macroscopic surface morphology.
+
+This work is published in *Physical Review Fluids* (2026), [DOI](https://doi.org/10.1103/z1rz-b4j6).
+
+---
+
+## Key contributions
+
+- Performed DEM simulation of **spheres and elongated particles** (aspect ratio AR = 1–5) under controlled shear.
+- Quantified steady-state macroscopic fields using coarse graining (packing density, velocity, stress).
+- Measured particle alignment inside the shear band using orientation statistics and the nematic order parameter **S**.
+- Connected friction-dependent alignment and stress localization to the observed **surface depressions** above the shear band.
+
+---
+
+## Methods & tools
+
+- **Simulation:** MercuryDPM (multisphere particles, Hertz–Mindlin contact model).
+- **Geometry:** linear split-bottom shear cell with periodic boundary conditions in the flow direction.
+- **Particles:** spheres (AR = 1) and stick-shaped grains built from connected spheres (AR = 2–5).
+- **Parameter range:** friction coefficient µ = 0.01–0.8; aspect ratio AR = 1–5.
+- **Post-processing:** coarse-graining via `MercuryCG`, analysis and plotting in Python / MATLABS.
+
+---
+
+## Results (selected)
+
+### Surface morphology depends strongly on shape
+
+- For **spherical particles**, the surface profile above the shear band remains flat for all studied friction values.
+- For **elongated particles**, shear induces a surface depression above the shear band due to alignment-driven compaction.
+
+### Friction reduces alignment inside the shear band
+
+- The nematic order parameter decreases with friction:
+  - **S ≈ 0.8** at µ = 0.01  
+  - **S ≈ 0.4** at µ = 0.8 :contentReference[oaicite:12]{index=12}
+- The mean orientation angle increases from approximately **0.12π → 0.23π**, indicating weaker alignment at higher friction. :contentReference[oaicite:13]{index=13}
+
+### Alignment-driven compaction vs friction-driven dilatancy
+
+The simulations show two competing effects inside the shear band:
+
+- **Alignment** increases packing density and drives compaction.
+- **Dilatancy** decreases packing density and becomes more pronounced at higher friction.
+
+This explains why the depression becomes **localized** at high friction and **broad** at low friction due to changes in shear-band width and stress localization.
+
+---
+
+## Media
+
+- ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
+
+## Paper
+ - H. Rahim, S. Roy, and T. Pöschel, Impact of friction and grain shape on the morphology of sheared granular media, Physical Review Fluids (2026). [DOI](https://doi.org/10.1103/z1rz-b4j6).

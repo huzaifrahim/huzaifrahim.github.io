@@ -1,0 +1,71 @@
+---
+title: "Dilatancy-Induced Heap Formation in Dense Cohesive Granular Media"
+subtitle: "DEM simulations of wet granular shear flow in a split-bottom cell (MercuryDPM)"
+---
+
+## Overview
+
+This project studies how **cohesion from liquid bridges** changes dilatancy and surface evolution in dense granular shear flow. Using DEM simulations in a **linear split-bottom shear cell**, I show that increasing cohesion strengthens dilatancy inside the shear band and produces a **surface heap** above the shear zone.
+
+The work is available on arXiv and is currently under review at *Physics of Fluids* [DOI](https://doi.org/10.48550/arXiv.2601.01172).
+
+---
+
+## Key contributions
+
+- Demonstrated that cohesion causes a transition from a flat surface (dry case) to **heap formation** under steady shear.
+- Quantified the evolution of the free-surface profile using a **heap area ratio** metric A/A0 computed from particle positions.
+- Identified an **equivalent Bond number** as the primary control parameter governing heap formation across different material densities and surface tensions.
+- Showed that increasing shear rate reduces heap formation because **inertial effects dominate over cohesion** at high shear velocity.
+
+---
+
+## Methods & tools
+
+- **Simulation:** MercuryDPM (DEM), Hertz–Mindlin no-slip contact model. 
+- **Cohesion model:** capillary bridge forces using the Willett approximation; cohesion controlled via surface tension γ.
+- **Geometry:** linear split-bottom shear cell (LSC), system size (Lx, Ly, Lz) = (20, 80, 25) dp, filling height H ≈ 20 dp.
+- **Particles:** polydisperse spheres with uniform size distribution (to avoid Gaussian bias).
+- **Cohesion range:** surface tension γ ∈ {0, 0.020, 0.040, 0.060, 0.080, 0.160} N/m.
+- **Shear rates:** Vshear = 0.016 m/s and 0.16 m/s.
+- **Post-processing:** packing density fields using `mercurycg` coarse graining in the y–z plane.
+
+---
+
+## Results (selected)
+
+### Cohesion produces heap formation
+
+- **Dry / cohesionless case (γ = 0):** the free surface remains flat during shear.
+- **Cohesive case (γ = 0.160 N/m):** a clear heap forms above the shear band.
+
+### Cohesion enhances dilatancy inside the shear band
+
+Packing density maps show that increasing surface tension increases the size of the dilated low-density region inside the shear band, producing a dome-shaped dilated zone and a corresponding heap at the surface.
+
+### Heap evolution saturates in time
+
+The heap area ratio A/A0 increases during shear and approaches a steady plateau. Higher cohesion produces larger steady-state values of A/A0.
+
+### Equivalent Bond number controls heap formation
+
+Heap formation is observed in systems with very different material density and surface tension, as long as the **equivalent Bond number** is the same (example: Bog = 6.35). This shows that heap evolution is controlled by the ratio of cohesive to gravitational forces, not by surface tension alone.
+
+### High shear rates suppress heap formation
+
+At higher shear velocity (Vshear = 0.16 m/s), heap formation is weaker for all cohesion levels. This indicates that inertial effects reduce the influence of cohesion on dilatancy.
+
+---
+
+## Media
+
+- ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
+
+---
+
+## Preprint
+
+- H. Rahim, T. Pöschel, and S. Roy, *Dilatancy-induced heap formation in dense cohesive granular media* (arXiv, submitted to *Physics of Fluids*). 
+  [DOI](https://doi.org/10.48550/arXiv.2601.01172)
+
+---

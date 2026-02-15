@@ -1,0 +1,22 @@
+---
+title: "Automated DEM Pipeline (Python + MercuryDPM)"
+toc: true
+---
+
+## Overview
+This project focuses on building a reproducible workflow for DEM simulations.
+
+## What I built
+- Automated simulation setup generation
+- Batch runs on Linux / HPC
+- Python post-processing scripts
+- Automated plotting and report generation
+
+## Features
+- Clean folder structure
+- Parameter sweeps
+- Export plots + videos
+- Reproducible results
+
+## Links
+- 💻 GitHub: [repository](https://github.com/)

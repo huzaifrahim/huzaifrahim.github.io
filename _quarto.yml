@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: "#1a1c2c"
+    container: true  # Use Bootstrap's container, not fluid
+    left:
+      - href: index.qmd
+        text: Home
+      - href: portfolio.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: videos.qmd
+        text: Videos
+      - href: education.qmd
+        text: Education
+      - href: experience.qmd
+        text: Experience
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: minimal
+    css: styles.css
+    toc: false
+    mainfont: "Inter"

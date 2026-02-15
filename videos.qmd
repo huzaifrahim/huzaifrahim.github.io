@@ -1,0 +1,206 @@
+---
+title: "Videos"
+toc: false
+---
+
+## DEM Simulations & Animations
+
+<!-- 1 -->
+### Elongated Particle Deposition & Shearing (Linear Split-Bottom Cell) | DEM
+DEM simulation of elongated particles (multisphere sticks) deposited into a linear split-bottom shear cell under gravity.
+After settling, the two bottom plates move in opposite directions, generating a localized shear band near the split (y = 0).
+Coordinates: shear direction x, lateral direction y, vertical direction z.
+#DEM #MercuryDPM #GranularFlow
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/uyvkjn-veRE"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 2 -->
+### Shear-Induced Surface Depression (Elongated Particles, DEM)
+DEM simulation of elongated particles sheared in a linear split-bottom shear cell.
+At intermediate friction (µ = 0.3), particle alignment inside the shear band leads to local compaction and a surface depression above the split region (y = 0).
+Colors show the streamwise velocity Vx (m/s).
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/qbfITq_k9xE"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 6 -->
+### Elongated particles under shear: mixing near the shear band (MercuryDPM, DEM)
+DEM simulation of elongated particles in a linear shear cell.
+Particles are colored by their initial y-position to visualize mixing across the shear zone. Mixing is observed mainly near the shear band, while regions outside remain nearly static.
+#DEM #GranularFlow #MercuryDPM #MercuryCG
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/6ovue8FsIio?si=UaKHWCkcKuGcHnbN"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 3 -->
+### Shear-Induced Dilatancy at High Friction (Elongated Particles, DEM)
+DEM simulation of elongated particles sheared in a linear split-bottom shear cell.
+At high friction (µ = 0.8), shear-induced dilatancy becomes pronounced inside the shear band, producing a localized surface uplift near the split region (y = 0).
+Colors show the streamwise velocity Vx (m/s).
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/Qt5Lj9j-FhY?si=EVJFVpklKsGSLdZz"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 4 -->
+### Wide Surface Depression at Low Friction (µ = 0.01) | Elongated Particles (DEM)
+DEM simulation of elongated particles sheared in a linear split-bottom shear cell (LSC).
+At low friction (µ = 0.01), particles reorient easily and align with the shear direction, leading to strong compaction.
+The shear band becomes wide and delocalized, causing a broad surface depression across the system.
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/6WEgjT4H0aA?si=JbCH78Fo9kAxdxl3"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 5 -->
+### Packing Density Field at Large Friction (µ = 0.8) | Elongated Particles (DEM)
+Packing density field φ(y, z) (averaged along the x-direction), computed using MercuryCG, for elongated particles in a linear split-bottom shear cell.
+At high friction (µ = 0.8), shear localizes into a narrow shear band, and particle rearrangement is hindered, enhancing shear-induced dilatancy and surface uplift near the split (y = 0).
+The colorbar shows the packing density φ, and the simulation time is displayed at the top of the frame.
+#DEM #GranularFlow #MercuryDPM #MercuryCG
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/K-8WBJx4oIM?si=oNNIdeg7Xhg6dwwz"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 6 -->
+### Packing Density Field at Low Friction (µ = 0.01) | Elongated Particles (DEM)
+Packing density field φ(y, z) (averaged along the x-direction), computed using mercuryCG, for elongated particles in a linear split-bottom shear cell.
+At low friction (µ = 0.01), particles rearrange easily, and the shear band becomes wide, leading to relatively uniform packing density across the bulk.
+The colorbar shows the packing density φ, and the time is displayed at the top of the frame.
+#DEM #GranularFlow #MercuryDPM #MercuryCG
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/4BZcJZdncPk?si=mMi1SEvi4yYwZgnc"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 7 -->
+### Particle-Scale Orientation at High Friction (µ = 0.8) | θx (DEM)
+Particle-scale visualization of elongated particle orientations in a linear split-bottom shear cell.
+Each line shows a particle’s principal axis, colored by the orientation angle θx relative to the shear direction (x).
+At high friction (µ = 0.8), shear localizes, and dilatancy becomes pronounced inside the shear band, producing surface uplift near the split. Local rearrangements can create partial alignment and compaction at the surface, leading to a depression on top of the uplifted region.
+Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misalignment. The simulation time is shown at the top of the frame.
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/APRENri_idU?si=F6mGxVE_lGp3tb3P"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!-- 8 -->
+### Particle-Scale Orientation at Low Friction (µ = 0.01) | θx (DEM)
+Particle-scale visualization of elongated particle orientations in a linear split-bottom shear cell.
+Each line shows a particle’s principal axis, colored by the orientation angle θx relative to the shear direction (x).
+At low friction (µ = 0.01), particles align easily inside the wide shear-band region, leading to alignment-induced compaction and a broad surface depression.
+Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misalignment.
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/4jnKFtIL9pM?si=ozAIghRcEo1QVI8M"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+<!--
+### Pressure anisotropy visualization
+Short description here.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/uyvkjn-veRE"
+    title="Linear shear cell — mixing of elongated particles"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+-->
+
+---
+

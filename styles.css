@@ -1,0 +1,107 @@
+/* =========================================================
+   GLOBAL SETTINGS
+   ========================================================= */
+
+
+:root {
+  --site-max-width: 1000px;
+  --site-padding: 14px;
+
+  --nav-bg: #1a1c2c;
+  --nav-text: #ffffff;
+  --nav-hover: #bdc3c7;
+
+  --accent: #3498db;
+  --heading: #2c3e50;
+}
+
+/* =========================================================
+   NAVBAR - FINAL FIX
+   ========================================================= */
+
+/* The header background */
+#quarto-header {
+  background-color: var(--nav-bg) !important;
+}
+
+/* The navbar - full width, no constraints */
+#quarto-header .navbar {
+  background-color: var(--nav-bg) !important;
+  padding: 0 !important;
+}
+
+/* The container inside navbar - constrain and center */
+#quarto-header .navbar > .container-fluid,
+#quarto-header .navbar > .container {
+  width: 100% !important;
+  max-width: var(--site-max-width) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: var(--site-padding) !important;
+  padding-right: var(--site-padding) !important;
+  /* Ensure content starts from left within the container */
+  display: flex !important;
+  justify-content: center !important;
+}
+
+/* Navbar text */
+#quarto-header .navbar-brand,
+#quarto-header .nav-link {
+  color: var(--nav-text) !important;
+  font-weight: 500;
+}
+
+/* Hover */
+#quarto-header .nav-link:hover {
+  color: var(--nav-hover) !important;
+}
+
+/* Better alignment */
+#quarto-header .navbar-nav {
+  align-items: center !important;
+}
+
+#quarto-header .navbar-nav .nav-link {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+}
+
+/* =========================================================
+   BODY WIDTH (MAIN CONTENT)
+   ========================================================= */
+
+.quarto-container,
+#quarto-content,
+main.content {
+  max-width: var(--site-max-width) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: var(--site-padding) !important;
+  padding-right: var(--site-padding) !important;
+}
+
+/* =========================================================
+   TITLE + HEADERS
+   ========================================================= */
+
+h1.title {
+  color: var(--heading) !important;
+  font-weight: 800 !important;
+  border-bottom: 2px solid var(--accent) !important;
+  padding-bottom: 10px;
+  margin-top: 40px;
+}
+
+h2, h3 {
+  color: #34495e;
+  font-weight: 600;
+}
+.horizontal-links a {
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}

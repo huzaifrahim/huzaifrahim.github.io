@@ -1,0 +1,36 @@
+---
+title: "About"
+toc: false
+---
+
+## Hi, I'm Huzaif
+
+I am a PhD Researcher in Germany working on **dense granular flow under shear** using **Discrete Element Method (DEM)** simulations in **MercuryDPM**. My research focuses on how **particle shape and friction** influence granular rheology, microstructure, stress anisotropy, and free-surface morphology.
+
+I combine large-scale simulations with **micro–macro analysis**, extracting continuum fields (velocity, strain-rate, stress) using coarse-graining and reproducible Python-based post-processing.
+
+---
+
+## What I work on
+
+- DEM simulations of sheared granular media (spheres and elongated grains)
+- Particle alignment, stress anisotropy, secondary flow, and shear-band structure
+- Free-surface morphology (surface depressions, heap formation)
+- Automated simulation workflows and large dataset analysis in Python
+- Pattern formation in reaction–diffusion PDEs (Turing / Gray–Scott systems)
+
+---
+
+## Tools I use
+
+- **MercuryDPM**, Linux, HPC clusters
+- Python (NumPy, SciPy, Pandas, Matplotlib)
+- Git, Bash, Jupyter, Quarto, LaTeX
+
+---
+
+## What I’m looking for
+
+I am interested in roles in **computational physics / simulation**, **granular materials**, or **scientific computing**, where I can work on modelling, high-performance simulations, and data-driven analysis.
+
+If you'd like to collaborate or discuss opportunities, feel free to reach out via LinkedIn or email.

@@ -1,0 +1,32 @@
+---
+title: "Granular Flow in Linear Shear Cell"
+toc: true
+---
+
+## Overview
+This project studies shear-driven granular flow using **DEM simulations** in **MercuryDPM**.
+
+## What I did
+- Designed simulation cases for controlled shear
+- Ran parameter sweeps (material parameters, shear rate, packing fraction)
+- Post-processed results using Python
+- Generated plots, animations, and videos
+
+## Key outputs
+- Velocity profiles  
+- Stress response and friction coefficient  
+- Solid fraction evolution  
+
+## Links
+- 💻 GitHub: [scripts repository](https://github.com/)
+- 🎥 Videos: (to be added)
+
+---
+
+## Example Video (placeholder)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>

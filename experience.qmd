@@ -1,0 +1,55 @@
+---
+title: Experience
+---
+
+### PhD Researcher — Computational Physics (DEM & HPC)
+**Institute for Multiscale Simulation, FAU Erlangen-Nürnberg**, Erlangen, Germany  
+**2022 – Present** *(thesis submitted)*
+
+- Developed DEM models for granular shear flows, focusing on particle shape and friction effects.
+- Built large-scale simulation workflows in **C++ and Python**, including automation and post-processing.
+- Ran full simulation campaigns on **HPC clusters**, from design to execution.
+- Developed scalable pipelines for processing and visualizing multi-terabyte simulation datasets.
+- Performed sensitivity and stability analysis to validate model behaviour and identify key parameters.
+
+---
+
+## Technical Skills (Simulation & Computing)
+
+- **Simulation:** MercuryDPM, DEM modelling, large parameter sweeps  
+- **Programming:** Python (NumPy, SciPy, Pandas), C++, Linux/Bash, Git  
+- **Analysis:** coarse-graining, continuum field extraction (velocity, strain-rate, stress), visualization  
+- **HPC:** cluster workflows, parallel runs, automation, large-scale data handling  
+
+
+---
+
+## Teaching Experience
+
+### GCSE Physics Teacher
+**IVY Hefei Experimental Academy High School**, Hefei, China  
+**2019 – 2020**
+
+- Delivered GCSE-level physics teaching and supervised lab activities.
+
+### Lecturer in Physics
+**Mardan Model School and College**, Pakistan  
+**2013 – 2015**
+
+- Taught physics and supported students in problem-solving and lab sessions.
+
+---
+
+## Supervision Experience
+
+### Project Supervisor — Projektkurs CBPT/BPT
+**FAU Erlangen-Nürnberg**, Germany — **2024**
+
+- Supervised a Python automation pipeline for robotic arm pattern generation.
+
+### Seminar Supervisor — CEP Advanced Seminar
+**FAU Erlangen-Nürnberg**, Germany — **2024**
+
+- Mentored students on literature review and scientific presentation (Weissenberg effect).
+
+---

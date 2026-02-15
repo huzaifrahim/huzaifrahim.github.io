@@ -1,0 +1,14 @@
+# Quarto output
+_site/
+*_files/
+
+# Quarto caches
+.quarto/
+
+# macOS junk
+.DS_Store
+
+# Large GIFs (too big for GitHub)
+media/CSC1.gif
+media/LSC2.gif
+

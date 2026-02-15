@@ -1,0 +1,53 @@
+---
+title: "Publications"
+toc: false
+---
+
+## Journal Papers
+
+1. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
+   *Impact of Friction and Grain Shape on the Morphology of Sheared Granular Media.*  
+   **Physical Review Fluids**, 2026  
+   [DOI](https://doi.org/10.1103/z1rz-b4j6) · [PDF](#)
+
+2. **Huzaif Rahim**, Vasileios Angelidakis, Sudeshna Roy, Thorsten Pöschel.  
+   *Alignment-Induced De- pression and Shear Thinning in Granular Matter of Nonspherical Particles.*  
+   **Physical Review Fluids**, 2024  
+   [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304) · [PDF](#)
+
+3. **Huzaif Rahim**, Naveed Iqbal, C. Cong, Z.J. Ding.  
+   *Pattern Selection in a Three-Component Gray- Scott Model.*  
+   **Journal of Physics: Conference Series**, 2019  
+   [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](#)
+
+4. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
+   *Shear-Induced Pressure Anisotropy in Shape- Anisotropic Granular Media.*  
+   **(Submitted)**, 2025  
+   [DOI](https://doi.org/10.48550/arXiv.2512.11157) · [PDF](#)
+
+5. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
+   *Dilatancy-induced surface deformation in dense cohesive granular media.*  
+   **Physical Review Fluids**, 2026  
+   [DOI](https://doi.org/10.48550/arXiv.2601.01172) · [PDF](#)
+
+---
+
+## Conferences & Workshops
+
+- DEM9, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, 17–21 Sep, 2023.
+- Society for Mathematical Biology Annual Meeting (SMB-2021), University of California, USA, June 13–17, 2021.
+- The Second International Conference on Physics, Mathematics, and Statistics (ICPMS 2019), Hangzhou, PR China, May 22–24, 2019.
+— DEM9, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany 17–21, 2023.
+- Institute of Mathematics and Its Applications (IMA 2021) – Online Workshop Series, May 25, 2021.
+- Conference on Materials Processing, Characterization, and Properties – Materials Research Laboratory (MRL), University of Peshawar, Pakistan, Mar 2013.
+- National Conference on Material Science, Materials Research Laboratory (MRL), University of Peshawar, Pakistan, 2011.
+— 4th International Workshop on Matter Out of Equilibrium, University of San Luis Potosí, Mexico, Sep 24 - Nov 5, 2021.
+- Physics of Life Workshop: Periodic Patterns, – University of Oxford (Virtual) Nov 18–19, 2021.
+- Modelling Diffusive Systems: Theory & Biological Applications (MoDiS) – ICMS Early Career Researcher Workshop (Virtual) Sep 6–9, 2021.
+— Early Career Research in Biological Physics – Institute of Physics (IOP), Caledonian Road, London,  Dec 8, 2021.
+
+---
+
+## Thesis
+
+- **Master’s Thesis (2019):** *Analysis of Turing Patterns in a Three-Component Reaction–Diffusion System* · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ASvoi8kAAAAJ&citation_for_view=ASvoi8kAAAAJ:2osOgNQ5qMEC)

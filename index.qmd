@@ -1,0 +1,159 @@
+---
+title: "Huzaif Rahim"
+toc: false
+---
+
+<style>
+  /* This ensures all content stays within a neat 1000px container */
+  .main-container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  /* This removes the bullet points and makes links a horizontal row */
+  .horizontal-links a {
+    text-decoration: none;
+    margin-right: 15px;
+  }
+</style>
+
+<div class="main-container">
+
+::: {.columns}
+::: {.column width="65%"}
+
+## PhD Researcher
+<span style="font-size:1.15rem; color:#4b5563;">
+Granular Flow · DEM Simulations · Pattern Formation
+</span>
+
+**Research Focus:** Granular rheology (particle shape & friction), Secondary flow, Shear-induced alignment, Stress anisotropy,  DEM workflows
+
+I investigate rheology and microstructure in sheared granular media with varying particle shape, size and friction, using DEM simulations (MercuryDPM). My work focuses on secondary flow, stress anisotropy, particle alignment, and free-surface morphology, combining micro–macro analysis with continuum fields (velocity, strain-rate, stress) extracted by coarse-graining.
+I develop Python-based post-processing and 3D visualization tools for large simulation datasets.
+
+**Currently:** PhD Researcher (Germany)  
+**Focus:** DEM • granular rheology • scientific computing
+
+### Links
+<div class="horizontal-links">
+  <a href="files/Huzaif_Rahim_CV.pdf">📄 CV</a> ·
+  <a href="https://www.linkedin.com/in/huzaifrahim/">🔗 LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ">📚 Google Scholar</a> ·
+  <a href="https://github.com/huzaifrahim">💻 GitHub</a> ·
+  <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf">🧪 ResearchGate</a>
+</div>
+
+
+<p style="margin-top:10px; margin-bottom:4px; font-weight:600;">
+Institutional pages:
+</p>
+
+<div class="horizontal-links" style="margin-top:0;">
+  <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen</a> ·
+  <a href="https://micro.ustc.edu.cn/index.php?cat=member&abbname=Huzaif&class=grd">Hefei National Lab (USTC, China)</a>
+</div>
+
+
+
+
+
+:::
+
+::: {.column width="35%"}
+
+![](media/myphoto.jpg){width=240 style="aspect-ratio:1/1; border-radius:999px; object-fit:cover; box-shadow:0 8px 20px rgba(0,0,0,0.15); display:block; margin-left:auto; margin-right:auto; margin-bottom:14px;"}
+
+:::
+:::
+
+</div>
+---
+
+## Simulations
+
+```{=html}
+<div style="display: flex; flex-direction: column; gap: 30px; margin-bottom: 40px;">
+
+  <div style="display: flex; gap: 20px; justify-content: flex-start;">
+    <div style="width: 230px;">
+      <img src="media/CSC1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (empty).</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/CSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (with multispheres).</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/LSC1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (empty).</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/LSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (with multispheres).</em></p>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 20px; justify-content: flex-start;">
+    <div style="width: 230px;">
+      <img src="media/RDS1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set A.</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/RDS2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set B.</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/RDS3.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set C.</em></p>
+    </div>
+    <div style="width: 230px;">
+      <img src="media/RDS4.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set D.</em></p>
+    </div>
+  </div>
+</div>
+
+```
+---
+
+## Featured Projects
+
+::: {.columns}
+::: {.column width="50%"}
+
+### Alignment-induced depression and shear thinning in granular matter of nonspherical particles
+DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains.  
+➡️ [Read more →](./projects/shearthinning.qmd)
+
+:::
+
+::: {.column width="50%"}
+
+### Impact of friction and grain shape on the morphology of sheared granular media
+DEM study of how friction and particle shape control alignment, dilatancy, and free-surface morphology in a linear split-bottom shear cell.  
+➡️ [Read more →](./projects/friction-shape-morphology.qmd)
+
+:::
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+
+### Pattern selection in a three-component Gray–Scott model (2019)
+Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.  
+➡️ [Read more →](./projects/grayscott.qmd)
+
+:::
+
+::: {.column width="50%"}
+&nbsp;
+:::
+:::
+
+---
+
+## Keywords
+
+`DEM` `MercuryDPM` `YADE` `MercuryCG` `Granular rheology` `Particle shape` `Shear bands` `Stress anisotropy`
+`Coarse-graining` `Python` `C++` `HPC` `Linux` `Git` `Reaction–diffusion` `Turing patterns`
+`MATLAB` `Numpy` `SciPy` `Pandas` `simulation` `PDEs` `ODEs` 

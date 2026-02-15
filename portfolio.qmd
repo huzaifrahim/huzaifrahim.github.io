@@ -1,0 +1,67 @@
+---
+title: "Projects"
+---
+
+Here are selected projects from my Master's and PhD work, focused on DEM simulations, granular flow, and data analysis.
+
+<!-- 1 -->
+## Impact of friction and grain shape on the morphology of sheared granular media (PhD)
+
+DEM study of how friction and particle shape control alignment, dilatancy, and surface morphology in a linear split-bottom shear cell.
+
+- MercuryDPM simulations with spheres and elongated grains (AR = 1–5, µ = 0.01–0.8)
+- Quantified shear-band packing density, stress ratio (τ/p), and alignment (θx, nematic order S)
+- Linked alignment-driven compaction vs friction-driven dilatancy to surface depressions
+
+[Read more →](./projects/friction-shape-morphology.qmd)
+
+---
+
+<!-- 2 -->
+## Alignment-induced depression and shear thinning in granular matter of nonspherical particles (PhD)
+
+DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains in a linear split-bottom shear cell.
+
+- MercuryDPM simulations with multisphere elongated particles (AR = 1–5)
+- Stress analysis: normal stress differences and macroscopic friction µ(AR)
+- Effective viscosity η(I) shows shear-thinning and pressure-dependent scaling
+
+[Read more →](./projects/shearthinning.qmd)
+
+---
+
+## Shear-induced pressure anisotropy in granular materials of nonspherical particles (PhD)
+
+DEM study of shear-induced pressure localization in a linear split-bottom shear cell, comparing elongated particles to spheres over a wide friction range.
+
+- MercuryDPM simulations: AR = 1 vs AR = 5, µ = 0.01–0.8
+- Coarse-grained pressure and stress fields in the y–z plane
+- Mechanism: alignment-driven packing density increase and normal stress anisotropy
+
+[Read more →](./projects/pressanisotropy.qmd)
+
+---
+
+## Dilatancy-Induced Heap Formation in Dense Cohesive Granular Media (PhD)
+
+DEM study of wet granular shear flow showing how liquid-bridge cohesion amplifies dilatancy and generates heap formation above the shear band.
+
+- MercuryDPM simulations with capillary bridge cohesion (γ = 0–0.160 N/m)
+- Quantified heap evolution using surface area ratio A/A0
+- Identified equivalent Bond number as the main control parameter; high shear rates suppress heap formation
+
+[Read more →](./projects/cohesion.qmd)
+
+---
+
+## Pattern selection of three components Gray-Scott model (2019)
+
+Analytical study of diffusion-driven instability and pattern selection in a three-component reaction–diffusion system.
+
+- Derived Turing instability conditions using Jacobian and Routh–Hurwitz criteria
+- Computed dispersion relations and bifurcation thresholds
+- Derived amplitude equations via weakly nonlinear analysis to classify stripe vs hexagon regimes
+
+[Read more →](./projects/grayscott.qmd)
+
+---

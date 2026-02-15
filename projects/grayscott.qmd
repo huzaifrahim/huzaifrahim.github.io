@@ -1,0 +1,64 @@
+---
+title: "Pattern selection of three components Gray-Scott model"
+subtitle: "Analytical stability conditions and weakly nonlinear analysis (2019)"
+---
+
+## Overview
+
+This project studies **pattern formation (Turing pattern)** in a **three-component Gray–Scott reaction–diffusion system**. I derived analytical conditions for diffusion-driven instability around the homogeneous steady state and used weakly nonlinear analysis to obtain amplitude equations that predict which patterns are stable near the Turing bifurcation.
+
+This work was published in *Journal of Physics: Conference Series* (2019), [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012).
+
+---
+
+## Key contributions
+
+- Derived analytical conditions for **Turing instability** using linear stability analysis and the Routh–Hurwitz criteria. 
+- Obtained the **dispersion relation** and identified how diffusion coefficients control the transition from stable to unstable modes. 
+- Derived the **amplitude equations** near the Turing bifurcation using multiple-scale weakly nonlinear analysis.
+- Used amplitude-equation stability analysis to classify parameter regimes producing:
+  - stripe (labyrinth) patterns
+  - hexagonal (spot) patterns
+  - mixed states :contentReference[oaicite:4]{index=4}
+
+---
+
+## Methods & tools
+
+- **Model:** three-component Gray–Scott reaction–diffusion system (one activator, two inhibitors).
+- **Analysis:**
+  - homogeneous steady states and Jacobian eigenvalue analysis
+  - Routh–Hurwitz stability criteria
+  - diffusion-driven instability (Turing) conditions
+  - weakly nonlinear multiple-scale expansion and Fredholm solvability condition 
+- **Outputs:** analytical instability conditions, dispersion curves, amplitude equations, and pattern stability classification. 
+
+---
+
+## Results (selected)
+
+### Analytical Turing instability conditions
+
+I derived closed-form conditions for when a temporally stable homogeneous steady state becomes unstable due to diffusion, producing stationary spatial patterns.
+
+### Diffusion controls the unstable wavelength band
+
+Dispersion relation analysis shows that decreasing the inhibitor diffusion coefficient can move the system across the Turing boundary and generate a band of unstable wave numbers.
+
+### Amplitude equations predict pattern selection
+
+Near the Turing bifurcation, the amplitude equations provide stability conditions for different planforms and predict transitions between stripe and hexagonal patterns.
+
+---
+
+## Paper
+
+- H. Rahim, N. Iqbal, C. Cong, and Z. Ding, *Pattern selection of three components Gray–Scott model*, **Journal of Physics: Conference Series** 1324 (2019) 012012.  
+  DOI: [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012)
+
+---
+
+## Code & reproducibility
+
+- Code repository: ADD LINK (if available)
+- Notes / derivations: ADD LINK (if available)

@@ -1,0 +1,73 @@
+---
+title: "Alignment-induced depression and shear thinning in granular matter of nonspherical particles"
+subtitle: "Rheology of elongated particles in a linear split-bottom shear cell (DEM, MercuryDPM)"
+---
+
+## Overview
+
+This project investigates how particle aspect ratio influences both the surface morphology and the bulk rheology of dense granular shear flow. Using DEM simulations in a **linear split-bottom shear cell** we show that the shear-induced particle alignment lead to to compaction inside the shear band and the formation of a surface depression. The same microstructural alignment also correlates with a shear-thinning response behavior.
+
+This work is published in *Physical Review Fluids* (2024), [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304).
+
+---
+
+## Key contributions
+
+- Simulated granular shear flow for particles with aspect ratio **AR = 1–5** in a linear split-bottom shear cell.
+- Quantified shear-induced **particle alignment** and its localization inside the shear band.
+- Measured packing density fields showing a transition from **dilatancy (spheres)** to **alignment-driven compaction (elongated grains)**.
+- Performed rheological analysis using stress tensors, normal stress differences, and inertial-number scaling to identify **shear-thinning regimes**.
+
+---
+
+## Methods & tools
+
+- **Simulation:** MercuryDPM, Hertz–Mindlin viscoelastic contact model.
+- **Geometry:** linear split-bottom shear cell (LSC) with periodic boundary conditions in the flow direction.
+- **Shear driving:** two L-shaped walls moving at ±Vx/2, with Vx = 0.038 m/s.
+- **Particles:** multisphere elongated grains using overlapping and non-overlapping sub-spheres, including fractional AR values.
+- **Parameter range:** AR ∈ [1, 5], including AR = 1.2, 1.4, 1.6, 1.8 for overlapping particles
+- **Post-processing:** coarse-grained continuum fields Q(y, z), averaged in x and over steady-state time windows.
+
+---
+
+## Results (selected)
+
+### Shear-induced alignment localizes inside the shear band
+
+Elongated particles align strongly with the flow direction inside the shear band. For AR = 5, the alignment angle decreases from approximately **0.27π** outside the shear band to **0.15π** inside it (≈ 44% reduction).
+
+### Packing density shows compaction for large aspect ratio
+
+- **Spheres (AR = 1):** the shear band dilates (Reynolds dilatancy), producing lower density in the shear band and a flat surface.
+- **Elongated grains (AR = 5):** alignment-driven compaction dominates, resulting in increased density inside and near the shear band region, and a depression at the surface.
+
+### Shape controls macroscopic friction
+
+The macroscopic friction coefficient increases with AR and saturates at larger AR. Overlapping multisphere particles exhibit higher macroscopic friction than non-overlapping particles due to increased contact interactions.
+
+### Effective viscosity reveals shear-thinning across all aspect ratios
+
+The effective viscosity decreases with inertial number, indicating shear-thinning for all AR. At fixed inertial number, viscosity increases with AR. Scaling viscosity by macroscopic friction collapses the data into an approximately AR-independent curve with two branches:
+
+- slope ≈ −1 (high confining pressure, solid-like behavior)
+- slope ≈ −2 (low confining pressure, fluid-like behavior)
+
+---
+
+## Media
+
+- ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
+
+---
+
+## Paper
+
+- H. Rahim, V. Angelidakis, T. Pöschel, and S. Roy, *Alignment-induced depression and shear thinning in granular matter of nonspherical particles*. [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304)
+
+---
+
+
+## Code & reproducibility
+- GitHub (simulation scripts): ADD LINK
+- GitHub (post-processing): ADD LINK
