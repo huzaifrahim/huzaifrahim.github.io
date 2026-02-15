@@ -196,7 +196,7 @@ Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligne
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/gopWs1AYJCA?si=aHlGYWSpJWC86L45"
+    src="https://www.youtube.com/embed/gopWs1AYJCA"
     title="Histogram of Particle Alignment in the Shear Band | DEM"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -215,7 +215,7 @@ This extracted surface can be used to compute surface profiles and global measur
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/SEvb21ys-zY?si=9JeFaWzw_NzS2PSa"
+    src="https://www.youtube-nocookie.com/embed/SEvb21ys-zY"
     title="Extracting the Free Surface in 3D (Granular DEM Post-Processing)"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
