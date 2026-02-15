@@ -9,6 +9,4 @@ _site/
 .DS_Store
 
 # Large GIFs (too big for GitHub)
-media/CSC1.gif
-media/LSC2.gif
 
