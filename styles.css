@@ -106,12 +106,23 @@ h2 {
   padding-bottom: 0 !important;
 }
 
-/* Justify main body text */
-main p {
+/* =========================================================
+   TEXT JUSTIFICATION (FIX)
+   ========================================================= */
+
+/* Default body text */
+p {
   text-align: justify;
   text-justify: inter-word;
 }
 
-main li {
+/* Lists */
+li {
   text-align: justify;
 }
+
+/* Prevent weird justification in titles */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
