@@ -186,6 +186,43 @@ Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misa
 
 ---
 
+<!-- 9 -->
+### Histogram of Particle Alignment in the Shear Band | DEM
+Histogram of elongated particle orientation angles inside the shear band of a linear split-bottom shear cell.  
+Initially, most particles are misaligned, with angles clustered around **90°**. As shear progresses, the distribution shifts toward **0° and 180°**, indicating increasing alignment with the shear direction.  
+Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligned)**.  
+#DEM #GranularFlow #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/gopWs1AYJCA?si=aHlGYWSpJWC86L45"
+    title="Histogram of Particle Alignment in the Shear Band | DEM"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+<!-- 10 -->
+### Extracting the Free Surface in 3D (Granular DEM Post-Processing)
+Post-processing of DEM data to extract the granular free surface using a lattice-based approach.  
+The domain is discretized in **(x, y)**, and for each lattice cell the free surface is defined as the maximum particle height **zmax(x, y)**.  
+This extracted surface can be used to compute surface profiles and global measures such as the area under the surface (**A/A0**).  
+#DEM #GranularFlow #PostProcessing #MercuryDPM
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/SEvb21ys-zY?si=9JeFaWzw_NzS2PSa"
+    title="Extracting the Free Surface in 3D (Granular DEM Post-Processing)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 <!--
 ### Pressure anisotropy visualization
 Short description here.
