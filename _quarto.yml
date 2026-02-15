@@ -3,6 +3,7 @@ project:
   output-dir: _site
 
 website:
+  site-url: "https://huzaifrahim.github.io"
   navbar:
     background: "#1a1c2c"
     container: true
@@ -31,3 +32,4 @@ format:
     mainfont: "Inter"
     resources:
       - googlefcbd9973d8740692.html
+      - sitemap.xml
