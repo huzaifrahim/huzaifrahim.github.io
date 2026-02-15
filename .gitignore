@@ -10,3 +10,6 @@ _site/
 
 # Large GIFs (too big for GitHub)
 
+
+/.quarto/
+**/*.quarto_ipynb

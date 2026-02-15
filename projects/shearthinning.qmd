@@ -66,8 +66,3 @@ The effective viscosity decreases with inertial number, indicating shear-thinnin
 - H. Rahim, V. Angelidakis, T. Pöschel, and S. Roy, *Alignment-induced depression and shear thinning in granular matter of nonspherical particles*. [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304)
 
 ---
-
-
-## Code & reproducibility
-- GitHub (simulation scripts): ADD LINK
-- GitHub (post-processing): ADD LINK
