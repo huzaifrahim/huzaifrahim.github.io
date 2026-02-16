@@ -127,23 +127,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* =========================================================
-   MOBILE NAVBAR FIX (show hamburger clearly)
-   ========================================================= */
-
-.navbar-toggler {
-  border: 2px solid white !important;
-  padding: 8px 10px !important;
-}
-
-.navbar-toggler-icon {
-  filter: invert(1) !important;
-}
-
 @media (max-width: 991px) {
-  #quarto-header .navbar > .container-fluid,
-  #quarto-header .navbar > .container {
-    justify-content: space-between !important;
+  .navbar-toggler {
+    border: 2px solid white !important;
+    border-radius: 12px !important;
+    padding: 10px 12px !important;
+  }
+
+  .navbar-toggler-icon {
+    filter: invert(1) !important;
+    width: 2rem !important;
+    height: 2rem !important;
   }
 }
 
