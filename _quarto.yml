@@ -27,7 +27,7 @@ format:
   html:
     theme: minimal
     css:
-      - styles.css
+      - styles.css?v=2
     toc: false
     mainfont: "Inter"
     resources:
