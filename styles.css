@@ -141,34 +141,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-@media (max-width: 991px) {
-
-  /* make the hamburger area more visible */
-  .navbar-toggler {
-    display: flex !important;
-    align-items: center !important;
-    gap: 10px !important;
-
-    border: 2px solid white !important;
-    border-radius: 12px !important;
-    padding: 10px 14px !important;
-  }
-
-  /* bigger icon */
-  .navbar-toggler-icon {
-    filter: invert(1) !important;
-    width: 2rem !important;
-    height: 2rem !important;
-  }
-
-  /* add MENU text */
-  .navbar-toggler::after {
-    content: "Menu";
-    color: white;
-    font-weight: 600;
-    font-size: 1rem;
-  }
-}
 
 
 
