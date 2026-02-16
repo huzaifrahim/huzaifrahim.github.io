@@ -165,6 +165,29 @@ Analytical study of diffusion-driven instability and pattern formation in a reac
 
 ## Keywords
 
-`DEM` `MercuryDPM` `YADE` `MercuryCG` `Granular rheology` `Particle shape` `Shear bands` `Stress anisotropy`
-`Coarse-graining` `Python` `C++` `HPC` `Linux` `Git` `Reaction–diffusion` `Turing patterns`
-`MATLAB` `Numpy` `SciPy` `Pandas` `simulation` `PDEs` `ODEs` 
+::: {.keyword-tags}
+<span class="kw">DEM</span>
+<span class="kw">MercuryDPM</span>
+<span class="kw">YADE</span>
+<span class="kw">MercuryCG</span>
+<span class="kw">Granular rheology</span>
+<span class="kw">Particle shape</span>
+<span class="kw">Shear bands</span>
+<span class="kw">Stress anisotropy</span>
+<span class="kw">Coarse-graining</span>
+<span class="kw">Python</span>
+<span class="kw">C++</span>
+<span class="kw">HPC</span>
+<span class="kw">Linux</span>
+<span class="kw">Git</span>
+<span class="kw">Reaction–diffusion</span>
+<span class="kw">Turing patterns</span>
+<span class="kw">MATLAB</span>
+<span class="kw">NumPy</span>
+<span class="kw">SciPy</span>
+<span class="kw">Pandas</span>
+<span class="kw">Simulation</span>
+<span class="kw">PDEs</span>
+<span class="kw">ODEs</span>
+:::
+ 
