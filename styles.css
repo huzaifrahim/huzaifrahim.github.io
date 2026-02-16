@@ -39,9 +39,9 @@
   margin-right: auto !important;
   padding-left: var(--site-padding) !important;
   padding-right: var(--site-padding) !important;
-  /* Ensure content starts from left within the container */
+
   display: flex !important;
-  justify-content: center !important;
+  justify-content: space-between !important;
 }
 
 /* Navbar text */
