@@ -27,7 +27,6 @@ Coordinates: shear direction x, lateral direction y, vertical direction z.
 
 <!-- 2 -->
 ### Shear-Induced Surface Depression (Elongated Particles, DEM)
-DEM simulation of elongated particles sheared in a linear split-bottom shear cell.
 At intermediate friction (µ = 0.3), particle alignment inside the shear band leads to local compaction and a surface depression above the split region (y = 0).
 Colors show the streamwise velocity Vx (m/s).
 #DEM #GranularFlow #MercuryDPM
@@ -47,7 +46,6 @@ Colors show the streamwise velocity Vx (m/s).
 
 <!-- 6 -->
 ### Elongated particles under shear: mixing near the shear band (MercuryDPM, DEM)
-DEM simulation of elongated particles in a linear shear cell.
 Particles are colored by their initial y-position to visualize mixing across the shear zone. Mixing is observed mainly near the shear band, while regions outside remain nearly static.
 #DEM #GranularFlow #MercuryDPM #MercuryCG
 
@@ -66,7 +64,6 @@ Particles are colored by their initial y-position to visualize mixing across the
 
 <!-- 3 -->
 ### Shear-Induced Dilatancy at High Friction (Elongated Particles, DEM)
-DEM simulation of elongated particles sheared in a linear split-bottom shear cell.
 At high friction (µ = 0.8), shear-induced dilatancy becomes pronounced inside the shear band, producing a localized surface uplift near the split region (y = 0).
 Colors show the streamwise velocity Vx (m/s).
 #DEM #GranularFlow #MercuryDPM
@@ -86,7 +83,6 @@ Colors show the streamwise velocity Vx (m/s).
 
 <!-- 4 -->
 ### Wide Surface Depression at Low Friction (µ = 0.01) | Elongated Particles (DEM)
-DEM simulation of elongated particles sheared in a linear split-bottom shear cell (LSC).
 At low friction (µ = 0.01), particles reorient easily and align with the shear direction, leading to strong compaction.
 The shear band becomes wide and delocalized, causing a broad surface depression across the system.
 #DEM #GranularFlow #MercuryDPM
@@ -126,7 +122,6 @@ The colorbar shows the packing density φ, and the simulation time is displayed 
 
 <!-- 6 -->
 ### Packing Density Field at Low Friction (µ = 0.01) | Elongated Particles (DEM)
-Packing density field φ(y, z) (averaged along the x-direction), computed using mercuryCG, for elongated particles in a linear split-bottom shear cell.
 At low friction (µ = 0.01), particles rearrange easily, and the shear band becomes wide, leading to relatively uniform packing density across the bulk.
 The colorbar shows the packing density φ, and the time is displayed at the top of the frame.
 #DEM #GranularFlow #MercuryDPM #MercuryCG
@@ -167,7 +162,6 @@ Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misa
 
 <!-- 8 -->
 ### Particle-Scale Orientation at Low Friction (µ = 0.01) | θx (DEM)
-Particle-scale visualization of elongated particle orientations in a linear split-bottom shear cell.
 Each line shows a particle’s principal axis, colored by the orientation angle θx relative to the shear direction (x).
 At low friction (µ = 0.01), particles align easily inside the wide shear-band region, leading to alignment-induced compaction and a broad surface depression.
 Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misalignment.
@@ -207,7 +201,7 @@ Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligne
 
 <!-- 10 -->
 ### Extracting the Free Surface in 3D (Granular DEM Post-Processing)
-Post-processing of DEM data to extract the granular free surface using a lattice-based approach.  
+Post-processing of DEM data to extract the granular free surface.  
 The domain is discretized in **(x, y)**, and for each lattice cell the free surface is defined as the maximum particle height **zmax(x, y)**.  
 This extracted surface can be used to compute surface profiles and global measures such as the area under the surface (**A/A0**).  
 #DEM #GranularFlow #PostProcessing #MercuryDPM
