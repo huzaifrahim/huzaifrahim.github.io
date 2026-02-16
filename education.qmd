@@ -8,6 +8,7 @@ title: Education
 **Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
+
 **Supervisor:** Prof. Dr. Thorsten Pöschel
 
 - Developed high-fidelity numerical models using the **Discrete Element Method (DEM)**.
@@ -25,6 +26,7 @@ title: Education
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **GPA:** 3.3/4.0  
 **Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*
+
 **Supervisor:** Prof. Dr. Ding Zejun
 
 ---
