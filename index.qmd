@@ -166,8 +166,8 @@ Analytical study of diffusion-driven instability and pattern formation in a reac
 ## Keywords
 
 ::: {.keyword-tags}
-<span class="kw">DEM</span>
-<span class="kw">MercuryDPM</span>
+<span class="kw">DEM</span>,
+<span class="kw">MercuryDPM</span>,
 <span class="kw">YADE</span>
 <span class="kw">MercuryCG</span>
 <span class="kw">Granular rheology</span>
