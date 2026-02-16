@@ -9,8 +9,8 @@ title: Education
 
 - **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
 
-- **Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel 
-- **Co-supervisor:** Dr. Sudeshna Roy
+- Supervisor: Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel 
+- Co-supervisor: Dr. Sudeshna Roy
 
 - Developed high-fidelity numerical models using the **Discrete Element Method (DEM)**.
 - Performed stability, transient response, and parameter sensitivity analyses.
