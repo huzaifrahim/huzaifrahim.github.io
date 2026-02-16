@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - styles.css
+    - googlefcbd9973d8740692.html
 
 website:
-  site-url: "https://huzaifrahim.github.io"
   navbar:
     background: "#1a1c2c"
     container: true
@@ -27,9 +29,6 @@ format:
   html:
     theme: minimal
     css:
-      - styles.css
+      - styles.css?v=10
     toc: false
     mainfont: "Inter"
-    resources:
-      - googlefcbd9973d8740692.html
-      - sitemap.xml
