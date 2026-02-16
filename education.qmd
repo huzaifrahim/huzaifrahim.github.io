@@ -5,16 +5,16 @@ title: Education
 ## PhD
 
 ### PhD Researcher — Computational Physics (2022–Present; thesis submitted)
-**Institute for Multiscale Simulation, FAU Erlangen-Nürnberg**, Erlangen, Germany
+**Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
 
 - Developed high-fidelity numerical models using the **Discrete Element Method (DEM)**.
-- Performed stability, transient response, and parameter sensitivity analysis.
-- Developed and executed large-scale parallel simulation codes in **C++ and Python**.
+- Performed stability, transient response, and parameter sensitivity analyses.
+- Developed and executed large-scale simulation workflows in **C++ and Python**.
 - Managed full-cycle simulation campaigns on **HPC clusters**, from design to execution.
 - Built scalable data processing pipelines for **multi-terabyte simulation outputs**.
-- Conducted stability and sensitivity analyses to identify critical system parameters and validate model performance.
+- Conducted sensitivity analyses to identify critical system parameters and validate model performance.
 
 ---
 
@@ -25,7 +25,7 @@ title: Education
 **GPA:** 3.3/4.0  
 **Supervisor:** Prof. Ding Zejun
 
-**Thesis:** *Analysis of Turing Patterns in Three-Component Reaction-Diffusion System*
+**Thesis:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*
 
 ---
 
@@ -48,7 +48,7 @@ title: Education
 ## Additional Training & Certifications
 
 ### Intensive German Integration Course (BAMF) (2025–2026)
-**bfz GmbH**, Erlangen, Germany
+**bfz gGmbH**, Erlangen, Germany
 
 - Full-time language and orientation program
 
@@ -62,3 +62,24 @@ title: Education
 
 ### Diploma in Computer Science (2006–2007)
 **Frontier College of Information Technology**, Charsadda, KP, Pakistan
+
+---
+
+### Certificates (selected)
+
+- **C++ Software Design** — Erlangen National High Performance Computing (HPC) Center, FAU Germany  
+- **Computers, Waves, Simulations: Numerical Methods Using Python** — LMU / Coursera  
+- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera  
+- **Numerical Methods for Engineers** — HKUST / Coursera (Prof. Jeffrey Chasnov)
+
+<details>
+<summary><strong>More certificates</strong></summary>
+
+- Python Data Structures — University of Michigan / Coursera (Prof. Charles Severance)  
+- Python for Data Science, AI & Development — IBM / Coursera  
+- Computational Physics: Scientific Programming with Python — Udemy  
+- C++ Professional Course & Python for Data Science — SoloLearn  
+- AI for Everyone — DeepLearning.AI / Coursera (Andrew Ng)  
+- Introduction to Project Management — IBM / Coursera  
+
+</details>
