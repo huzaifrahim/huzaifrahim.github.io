@@ -9,8 +9,8 @@ title: Education
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
 
-**Supervisor:** [Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel](https://www.cbi.tf.fau.de/person/prof-dr-rer-nat-dr-ing-thorsten-poeschel/)  
-**Co-supervisor:** [Dr. Sudeshna Roy](https://msssrv08.mss.uni-erlangen.de/people/single/roy-dr-sudeshna/)
+**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel 
+**Co-supervisor:** Dr. Sudeshna Roy
 
 - Developed high-fidelity numerical models using the **Discrete Element Method (DEM)**.
 - Performed stability, transient response, and parameter sensitivity analyses.
@@ -28,7 +28,7 @@ title: Education
 **GPA:** 3.3/4.0  
 **Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*
 
-**Supervisor:** [Prof. Ding Zejun](https://micro.ustc.edu.cn/Members/zjding.htm)
+**Supervisor:** Prof. Ding Zejun
 
 ---
 
