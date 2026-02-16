@@ -34,6 +34,17 @@ I develop Python-based post-processing and 3D visualization tools for large simu
 **Currently:** PhD Researcher (Germany)  
 **Focus:** DEM • granular rheology • scientific computing
 
+<div class="home-quick-nav" aria-label="Quick navigation">
+  <a class="home-nav-btn" href="./index.html">🏠 Home</a>
+  <a class="home-nav-btn" href="./portfolio.html">🧩 Projects</a>
+  <a class="home-nav-btn" href="./publications.html">📄 Publications</a>
+  <a class="home-nav-btn" href="./videos.html">🎥 Videos</a>
+  <a class="home-nav-btn" href="./education.html">🎓 Education</a>
+  <a class="home-nav-btn" href="./experience.html">💼 Experience</a>
+  <a class="home-nav-btn" href="./about.html">👤 About</a>
+</div>
+
+
 ### Links
 <div class="horizontal-links">
   <a href="files/Huzaif_Rahim_CV.pdf">📄 CV</a> ·

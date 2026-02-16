@@ -170,6 +170,53 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* =========================
+   Homepage quick navigation
+   ========================= */
+
+.home-quick-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0 10px 0;
+}
+
+.home-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px 14px;
+  border-radius: 999px;
+
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1;
+
+  border: 1px solid rgba(0,0,0,0.12);
+  background: rgba(255,255,255,0.9);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.home-nav-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.12);
+}
+
+.home-nav-btn:active {
+  transform: translateY(0px);
+}
+
+@media (max-width: 600px) {
+  .home-nav-btn {
+    flex: 1 1 calc(50% - 10px);
+    text-align: center;
+  }
+}
+
 
 
 
