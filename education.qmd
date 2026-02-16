@@ -4,7 +4,7 @@ title: Education
 
 ## PhD
 
-### PhD Researcher — Computational Physics (2022–Present; thesis submitted)
+**PhD Researcher — Computational Physics (2022–Present; thesis submitted)**  
 **Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
@@ -20,7 +20,7 @@ title: Education
 
 ## Master’s Degrees
 
-### M.S. Physics (2016–2019)
+**M.S. Physics (2016–2019)**  
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **GPA:** 3.3/4.0  
 **Supervisor:** Prof. Ding Zejun
@@ -29,7 +29,7 @@ title: Education
 
 ---
 
-### M.Sc. Physics (With Distinction) (2010–2013)
+**M.Sc. Physics (With Distinction) (2010–2013)**  
 **University of Peshawar**, KP, Pakistan
 
 **Project:** *Theoretical Study of Reverse Compton Effect*
@@ -38,7 +38,7 @@ title: Education
 
 ## Bachelor’s Degree
 
-### B.Sc. (With Distinction) — Physics, Mathematics, Electronics (2008–2010)
+**B.Sc. (With Distinction) — Physics, Mathematics, Electronics (2008–2010)**  
 **University of Peshawar**, Pakistan
 
 - Coursework: applied electronics, signal processing, network analysis, electronic communication
@@ -47,20 +47,20 @@ title: Education
 
 ## Additional Training & Certifications
 
-### Intensive German Integration Course (BAMF) (2025–2026)
+**Intensive German Integration Course (BAMF) (2025–2026)**  
 **bfz gGmbH**, Erlangen, Germany
 
 - Full-time language and orientation program
 
 ---
 
-### Chinese Language Certification (With Distinction) (2015–2016)
+**Chinese Language Certification (With Distinction) (2015–2016)**  
 **Anhui Normal University**, Wuhu, PR China  
 **Level:** HSK4
 
 ---
 
-### Diploma in Computer Science (2006–2007)
+**Diploma in Computer Science (2006–2007)**  
 **Frontier College of Information Technology**, Charsadda, KP, Pakistan
 
 ---
