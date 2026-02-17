@@ -24,6 +24,8 @@ website:
         text: Experience
       - href: about.qmd
         text: About
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
