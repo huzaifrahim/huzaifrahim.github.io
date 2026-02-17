@@ -2,7 +2,8 @@
 title: Contact
 ---
 
-- **Location:** Erlangen–Nürnberg, Germany  
+- **Location:** Erlangen–Nürnberg, Germany 
+ 
 - **Email (preferred):** <huzaif.rahim@gmail.com>  
 - **Academic email:** <huzaif.rahim@fau.de>
 
