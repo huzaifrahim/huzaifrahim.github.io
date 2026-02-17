@@ -257,5 +257,28 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
+/* Professional profile links */
+
+.horizontal-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+.horizontal-links a {
+  text-decoration: none;
+  color: #2c3e50;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: rgba(0,0,0,0.02);
+  transition: all 0.15s ease;
+}
+
+.horizontal-links a:hover {
+  background: rgba(0,0,0,0.06);
+}
 
 
