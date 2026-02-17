@@ -15,4 +15,3 @@ title: Contact
 - [GitHub](https://github.com/huzaifrahim)
 - [ResearchGate](https://www.researchgate.net/profile/Huzaif-Rahim)
 - [MSS FAU](https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/)
-- [USTC China](https://micro.ustc.edu.cn/index.php?cat=member&abbname=Huzaif&class=grd)
