@@ -44,24 +44,24 @@ I work in computational granular physics using discrete element simulations. My 
 
 
 <div class="home-quick-nav" aria-label="Quick navigation">
-  <a class="home-nav-btn" href="./index.html">🏠 Home</a>
-  <a class="home-nav-btn" href="./portfolio.html">🧩 Projects</a>
-  <a class="home-nav-btn" href="./publications.html">📄 Publications</a>
-  <a class="home-nav-btn" href="./videos.html">🎥 Videos</a>
-  <a class="home-nav-btn" href="./education.html">🎓 Education</a>
-  <a class="home-nav-btn" href="./experience.html">💼 Experience</a>
-  <a class="home-nav-btn" href="./about.html">👤 About</a>
-  <a class="home-nav-btn" href="./contact.html">✉️ Contact</a>
+  <a class="home-nav-btn" href="./index.html"> Home</a>
+  <a class="home-nav-btn" href="./portfolio.html"> Projects</a>
+  <a class="home-nav-btn" href="./publications.html"> Publications</a>
+  <a class="home-nav-btn" href="./videos.html"> Videos</a>
+  <a class="home-nav-btn" href="./education.html"> Education</a>
+  <a class="home-nav-btn" href="./experience.html"> Experience</a>
+  <a class="home-nav-btn" href="./about.html"> About</a>
+  <a class="home-nav-btn" href="./contact.html"> Contact</a>
 </div>
 
 ### Links
 
 <div class="horizontal-links">
-  <a href="files/Huzaif_Rahim_CV.pdf">📄 CV</a> ·
-  <a href="https://www.linkedin.com/in/huzaifrahim/">🔗 LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ">📚 Google Scholar</a> ·
+  <a href="files/Huzaif_Rahim_CV.pdf"> CV</a> ·
+  <a href="https://www.linkedin.com/in/huzaifrahim/"> LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ"> Google Scholar</a> ·
   <a href="https://github.com/huzaifrahim">💻 GitHub</a> ·
-  <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf">🧪 ResearchGate</a>
+  <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf"> ResearchGate</a>
 </div>
 
 <p style="margin-top:10px; font-weight:600;">Institutional pages:</p>
