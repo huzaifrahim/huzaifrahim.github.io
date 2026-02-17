@@ -62,7 +62,7 @@ I work in computational granular physics using discrete element simulations. My 
   <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ"> Google Scholar</a> ·
   <a href="https://github.com/huzaifrahim"> GitHub</a> ·
   <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf"> ResearchGate</a> ·
-  <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen .
+  <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen</a> .
 </div>
 
 ---
