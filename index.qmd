@@ -178,3 +178,4 @@ Analytical study of diffusion-driven instability and pattern formation in a reac
 <span class="kw">ODEs</span>
 :::
  
+</div>
