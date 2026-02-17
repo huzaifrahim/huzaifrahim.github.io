@@ -31,7 +31,6 @@ I work in computational granular physics using DEM simulations. My research focu
 My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing.
 
 **Currently:** PhD Researcher (Germany)  
-**Focus:** DEM • granular rheology • scientific computing
 
 <div class="home-quick-nav" aria-label="Quick navigation">
   <a class="home-nav-btn" href="./index.html">🏠 Home</a>
