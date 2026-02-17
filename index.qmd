@@ -50,8 +50,8 @@ I work in computational granular physics using discrete element simulations. My 
   <a class="home-nav-btn" href="./videos.html"> Videos</a>
   <a class="home-nav-btn" href="./education.html"> Education</a>
   <a class="home-nav-btn" href="./experience.html"> Experience</a>
-  <a class="home-nav-btn" href="./about.html"> About</a>
   <a class="home-nav-btn" href="./contact.html"> Contact</a>
+  <a class="home-nav-btn" href="./about.html"> About</a>
 </div>
 
 ### Links
