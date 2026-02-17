@@ -57,7 +57,6 @@ I work in computational granular physics using discrete element simulations. My 
 ### Links
 
 <div class="horizontal-links">
-  <a href="files/Huzaif_Rahim_CV.pdf"> CV</a> ·
   <a href="https://www.linkedin.com/in/huzaifrahim/"> LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ"> Google Scholar</a> ·
   <a href="https://github.com/huzaifrahim"> GitHub</a> ·
