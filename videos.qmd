@@ -10,7 +10,6 @@ toc: false
 DEM simulation of elongated particles (multisphere sticks) deposited into a linear split-bottom shear cell under gravity.
 After settling, the two bottom plates move in opposite directions, generating a localized shear band near the split (y = 0).
 Coordinates: shear direction x, lateral direction y, vertical direction z.
-#DEM #MercuryDPM #GranularFlow
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -118,7 +117,7 @@ The colorbar shows the packing density φ, and the simulation time is displayed 
 <!-- 6 -->
 ### Packing Density Field at Low Friction (µ = 0.01) | Elongated Particles (DEM)
 At low friction (µ = 0.01), particles rearrange easily, and the shear band becomes wide, leading to relatively uniform packing density across the bulk.
-The colorbar shows the packing density φ, and the time is displayed at the top of the frame.
+The colorbar shows the packing density φ, and the simulation time is displayed at the top of the frame.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
