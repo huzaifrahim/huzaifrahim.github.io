@@ -22,7 +22,7 @@ toc: false
 
 4. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
    *Dilatancy-induced surface deformation in dense cohesive granular media.*  
-   **Physics of Fluids**, 2026  
+   **(Submitted)**, 2026  
    [arXiv](https://doi.org/10.48550/arXiv.2601.01172) · [Preprint](https://arxiv.org/pdf/2601.01172)
 
 5. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
