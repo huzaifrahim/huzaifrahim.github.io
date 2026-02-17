@@ -60,7 +60,7 @@ I work in computational granular physics using discrete element simulations. My 
   <a href="files/Huzaif_Rahim_CV.pdf"> CV</a> ·
   <a href="https://www.linkedin.com/in/huzaifrahim/"> LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=ASvoi8kAAAAJ"> Google Scholar</a> ·
-  <a href="https://github.com/huzaifrahim">💻 GitHub</a> ·
+  <a href="https://github.com/huzaifrahim"> GitHub</a> ·
   <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf"> ResearchGate</a>
 </div>
 
