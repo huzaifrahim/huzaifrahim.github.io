@@ -29,7 +29,6 @@ Coordinates: shear direction x, lateral direction y, vertical direction z.
 ### Shear-Induced Surface Depression (Elongated Particles, DEM)
 At intermediate friction (µ = 0.3), particle alignment inside the shear band leads to local compaction and a surface depression above the split region (y = 0).
 Colors show the streamwise velocity Vx (m/s).
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -47,7 +46,6 @@ Colors show the streamwise velocity Vx (m/s).
 <!-- 6 -->
 ### Elongated particles under shear: mixing near the shear band (MercuryDPM, DEM)
 Particles are colored by their initial y-position to visualize mixing across the shear zone. Mixing is observed mainly near the shear band, while regions outside remain nearly static.
-#DEM #GranularFlow #MercuryDPM #MercuryCG
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -66,7 +64,6 @@ Particles are colored by their initial y-position to visualize mixing across the
 ### Shear-Induced Dilatancy at High Friction (Elongated Particles, DEM)
 At high friction (µ = 0.8), shear-induced dilatancy becomes pronounced inside the shear band, producing a localized surface uplift near the split region (y = 0).
 Colors show the streamwise velocity Vx (m/s).
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -85,7 +82,6 @@ Colors show the streamwise velocity Vx (m/s).
 ### Wide Surface Depression at Low Friction (µ = 0.01) | Elongated Particles (DEM)
 At low friction (µ = 0.01), particles reorient easily and align with the shear direction, leading to strong compaction.
 The shear band becomes wide and delocalized, causing a broad surface depression across the system.
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -105,7 +101,6 @@ The shear band becomes wide and delocalized, causing a broad surface depression 
 Packing density field φ(y, z) (averaged along the x-direction), computed using MercuryCG, for elongated particles in a linear split-bottom shear cell.
 At high friction (µ = 0.8), shear localizes into a narrow shear band, and particle rearrangement is hindered, enhancing shear-induced dilatancy and surface uplift near the split (y = 0).
 The colorbar shows the packing density φ, and the simulation time is displayed at the top of the frame.
-#DEM #GranularFlow #MercuryDPM #MercuryCG
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -124,7 +119,6 @@ The colorbar shows the packing density φ, and the simulation time is displayed 
 ### Packing Density Field at Low Friction (µ = 0.01) | Elongated Particles (DEM)
 At low friction (µ = 0.01), particles rearrange easily, and the shear band becomes wide, leading to relatively uniform packing density across the bulk.
 The colorbar shows the packing density φ, and the time is displayed at the top of the frame.
-#DEM #GranularFlow #MercuryDPM #MercuryCG
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -145,7 +139,6 @@ Particle-scale visualization of elongated particle orientations in a linear spli
 Each line shows a particle’s principal axis, colored by the orientation angle θx relative to the shear direction (x).
 At high friction (µ = 0.8), shear localizes, and dilatancy becomes pronounced inside the shear band, producing surface uplift near the split. Local rearrangements can create partial alignment and compaction at the surface, leading to a depression on top of the uplifted region.
 Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misalignment. The simulation time is shown at the top of the frame.
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -165,7 +158,6 @@ Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misa
 Each line shows a particle’s principal axis, colored by the orientation angle θx relative to the shear direction (x).
 At low friction (µ = 0.01), particles align easily inside the wide shear-band region, leading to alignment-induced compaction and a broad surface depression.
 Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misalignment.
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -185,7 +177,6 @@ Colors represent θx scaled from 0 to 1: 0 = perfect alignment, 1 = perfect misa
 Histogram of elongated particle orientation angles inside the shear band of a linear split-bottom shear cell.  
 Initially, most particles are misaligned, with angles clustered around **90°**. As shear progresses, the distribution shifts toward **0° and 180°**, indicating increasing alignment with the shear direction.  
 Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligned)**.  
-#DEM #GranularFlow #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
@@ -204,7 +195,6 @@ Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligne
 Post-processing of DEM data to extract the granular free surface.  
 The domain is discretized in **(x, y)**, and for each lattice cell the free surface is defined as the maximum particle height **zmax(x, y)**.  
 This extracted surface can be used to compute surface profiles and global measures such as the area under the surface (**A/A0**).  
-#DEM #GranularFlow #PostProcessing #MercuryDPM
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
