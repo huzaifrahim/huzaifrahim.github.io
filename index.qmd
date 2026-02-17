@@ -26,10 +26,11 @@ toc: false
 Granular Flow · DEM Simulations · Pattern Formation
 </span>
 
-**Research Focus:** Granular rheology (particle shape & friction), Secondary flow, Shear-induced alignment, Stress anisotropy,  DEM workflows
+**Research Focus:** Granular rheology, secondary flow, shear-induced alignment, stress anisotropy, and discrete element simulation workflows.
 
-I investigate rheology and microstructure in sheared granular media with varying particle shape, size and friction, using DEM simulations (MercuryDPM). My work focuses on secondary flow, stress anisotropy, particle alignment, and free-surface morphology, combining micro–macro analysis with continuum fields (velocity, strain-rate, stress) extracted by coarse-graining.
-I develop Python-based post-processing and 3D visualization tools for large simulation datasets.
+I work in computational granular physics using discrete element simulations (MercuryDPM). My research examines how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular systems. I combine simulations with coarse-grained continuum analysis (MercuryCG) to relate microstructure to macroscopic behavior.
+
+My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing for computational modeling.
 
 **Currently:** PhD Researcher (Germany)  
 **Focus:** DEM • granular rheology • scientific computing
