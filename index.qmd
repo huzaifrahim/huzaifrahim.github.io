@@ -4,16 +4,17 @@ toc: false
 ---
 
 <style>
-  /* This ensures all content stays within a neat 1000px container */
-  .main-container {
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-  /* This removes the bullet points and makes links a horizontal row */
-  .horizontal-links a {
-    text-decoration: none;
-    margin-right: 15px;
-  }
+.main-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.horizontal-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
 </style>
 
 <div class="main-container">
@@ -26,10 +27,21 @@ toc: false
 Granular Flow · DEM Simulations · Pattern Formation
 </span>
 
-I work in computational granular physics using discrete element simulations. My research examines how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular flows. I analyze simulation data through coarse-graining to relate microstructure to macroscopic behavior.
-My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing.
+I work in computational granular physics using discrete element simulations. My research examines how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular flows. I analyze simulation data through coarse-graining to relate microstructure to macroscopic behavior. My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing.
 
-**Currently:** PhD Researcher (Germany) 
+**Currently:** PhD Researcher (Germany)
+
+:::
+
+::: {.column width="35%"}
+
+![](media/myphotov2.jpg){width=240 style="aspect-ratio:1/1; border-radius:999px; object-fit:cover; box-shadow:0 8px 20px rgba(0,0,0,0.15); display:block; margin-left:auto; margin-right:auto;"}
+
+:::
+:::
+
+<!-- END OF TWO-COLUMN SECTION -->
+
 
 <div class="home-quick-nav" aria-label="Quick navigation">
   <a class="home-nav-btn" href="./index.html">🏠 Home</a>
@@ -42,8 +54,8 @@ My work includes scientific programming, data analysis and visualization, machin
   <a class="home-nav-btn" href="./contact.html">✉️ Contact</a>
 </div>
 
-
 ### Links
+
 <div class="horizontal-links">
   <a href="files/Huzaif_Rahim_CV.pdf">📄 CV</a> ·
   <a href="https://www.linkedin.com/in/huzaifrahim/">🔗 LinkedIn</a> ·
@@ -52,27 +64,15 @@ My work includes scientific programming, data analysis and visualization, machin
   <a href="https://www.researchgate.net/profile/Huzaif-Rahim?ev=hdr_xprf">🧪 ResearchGate</a>
 </div>
 
+<p style="margin-top:10px; font-weight:600;">Institutional pages:</p>
 
-<p style="margin-top:10px; margin-bottom:4px; font-weight:600;">
-Institutional pages:
-</p>
-
-<div class="horizontal-links" style="margin-top:0;">
+<div class="horizontal-links">
   <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen</a> ·
   <a href="https://micro.ustc.edu.cn/index.php?cat=member&abbname=Huzaif&class=grd">Hefei National Lab (USTC, China)</a>
 </div>
 
-
-:::
-
-::: {.column width="35%"}
-
-![](media/myphotov2.jpg){width=240 style="aspect-ratio:1/1; border-radius:999px; object-fit:cover; box-shadow:0 8px 20px rgba(0,0,0,0.15); display:block; margin-left:auto; margin-right:auto; margin-bottom:14px;"}
-
-:::
-:::
-
 </div>
+
 ---
 
 ## Simulations
