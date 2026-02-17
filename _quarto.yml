@@ -22,10 +22,10 @@ website:
         text: Education
       - href: experience.qmd
         text: Experience
-      - href: about.qmd
-        text: About
       - href: contact.qmd
         text: Contact
+      - href: about.qmd
+        text: About
 
 format:
   html:
