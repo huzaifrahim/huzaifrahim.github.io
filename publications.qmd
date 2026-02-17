@@ -8,27 +8,27 @@ toc: false
 1. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
    *Impact of Friction and Grain Shape on the Morphology of Sheared Granular Media.*  
    **Physical Review Fluids**, 2026  
-   [DOI](https://doi.org/10.1103/z1rz-b4j6) · [PDF](#)
+   [DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)
 
 2. **Huzaif Rahim**, Vasileios Angelidakis, Sudeshna Roy, Thorsten Pöschel.  
    *Alignment-Induced De- pression and Shear Thinning in Granular Matter of Nonspherical Particles.*  
    **Physical Review Fluids**, 2024  
-   [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304) · [PDF](#)
+   [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304) · [Preprint](https://arxiv.org/pdf/2404.11830)
 
 3. **Huzaif Rahim**, Naveed Iqbal, C. Cong, Z.J. Ding.  
    *Pattern Selection in a Three-Component Gray- Scott Model.*  
    **Journal of Physics: Conference Series**, 2019  
-   [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](#)
+   [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012012/pdf)
 
-4. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
-   *Shear-Induced Pressure Anisotropy in Shape- Anisotropic Granular Media.*  
-   **(Submitted)**, 2025  
-   [DOI](https://doi.org/10.48550/arXiv.2512.11157) · [PDF](#)
-
-5. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
+4. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
    *Dilatancy-induced surface deformation in dense cohesive granular media.*  
    **Physics of Fluids**, 2026  
-   [DOI](https://doi.org/10.48550/arXiv.2601.01172) · [PDF](#)
+   [DOI](https://doi.org/10.48550/arXiv.2601.01172) · [Preprint](https://arxiv.org/pdf/2601.01172)
+
+5. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
+   *Shear-Induced Pressure Anisotropy in Shape- Anisotropic Granular Media.*  
+   **(Submitted)**, 2025  
+   [DOI](https://doi.org/10.48550/arXiv.2512.11157) · [Preprint](https://arxiv.org/pdf/2512.11157)
 
 ---
 
