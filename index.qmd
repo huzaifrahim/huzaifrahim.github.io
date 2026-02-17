@@ -65,7 +65,6 @@ I work in computational granular physics using discrete element simulations. My 
   <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen .
 </div>
 
-</div>
 ---
 
 ## Simulations
