@@ -39,6 +39,7 @@ My work includes scientific programming, data analysis and visualization, machin
   <a class="home-nav-btn" href="./education.html">🎓 Education</a>
   <a class="home-nav-btn" href="./experience.html">💼 Experience</a>
   <a class="home-nav-btn" href="./about.html">👤 About</a>
+  <a class="home-nav-btn" href="./contact.html">✉️ Contact</a>
 </div>
 
 
@@ -60,9 +61,6 @@ Institutional pages:
   <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen</a> ·
   <a href="https://micro.ustc.edu.cn/index.php?cat=member&abbname=Huzaif&class=grd">Hefei National Lab (USTC, China)</a>
 </div>
-
-
-
 
 
 :::
