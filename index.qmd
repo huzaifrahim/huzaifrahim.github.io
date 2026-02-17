@@ -68,7 +68,6 @@ I work in computational granular physics using discrete element simulations. My 
 
 <div class="horizontal-links">
   <a href="https://msssrv08.mss.uni-erlangen.de/people/single/rahim-huzaif-m-sc/">MSS FAU Erlangen</a> ·
-  <a href="https://micro.ustc.edu.cn/index.php?cat=member&abbname=Huzaif&class=grd">Hefei National Lab (USTC, China)</a>
 </div>
 
 </div>
