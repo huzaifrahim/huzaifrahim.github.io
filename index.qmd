@@ -26,7 +26,7 @@ toc: false
 Granular Flow · DEM Simulations · Pattern Formation
 </span>
 
-**Research Focus:** I work in computational granular physics using DEM simulations. My research focuses on how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular flows. I analyze simulation data using coarse-graining to obtain continuum fields and relate microstructure to bulk behavior.
+I work in computational granular physics using DEM simulations. My research focuses on how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular flows. I analyze simulation data using coarse-graining to obtain continuum fields and relate microstructure to bulk behavior.
 
 My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing.
 
