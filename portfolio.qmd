@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-Here are selected projects from my Master's and PhD work, focused on DEM simulations, granular flow, and data analysis.
+Here are selected projects from my Master's and PhD work, focused on DEM simulations, granular flow, and pattern fomrmation in a reaction-diffusion system.
 
 <!-- 1 -->
 ## Impact of friction and grain shape on the morphology of sheared granular media (PhD)
