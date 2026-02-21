@@ -39,11 +39,11 @@ toc: false
 - The Second International Conference on Physics, Mathematics, and Statistics (ICPMS 2019), Hangzhou, PR China, May 22–24, 2019.  
 - Institute of Mathematics and Its Applications (IMA 2021) – Online Workshop Series, May 25, 2021.  
 - Conference on Materials Processing, Characterization, and Properties – Materials Research Laboratory (MRL), University of Peshawar, Pakistan, Mar 2013.  
-- National Conference on Material Science, Materials Research Laboratory (MRL), University of Peshawar, Pakistan, 2011.  
-— 4th International Workshop on Matter Out of Equilibrium, University of San Luis Potosí, Mexico, Sep 24 - Nov 5, 2021.  
+- National Conference on Material Science, Materials Research Laboratory (MRL), University of Peshawar, Pakistan, 2011.
+- 4th International Workshop on Matter Out of Equilibrium, University of San Luis Potosí, Mexico, Sep 24 - Nov 5, 2021.  
 - Physics of Life Workshop: Periodic Patterns, – University of Oxford (Virtual) Nov 18–19, 2021.  
 - Modelling Diffusive Systems: Theory & Biological Applications (MoDiS) – ICMS Early Career Researcher Workshop (Virtual) Sep 6–9, 2021.  
-— Early Career Research in Biological Physics – Institute of Physics (IOP), Caledonian Road, London,  Dec 8, 2021.  
+- Early Career Research in Biological Physics – Institute of Physics (IOP), Caledonian Road, London,  Dec 8, 2021.  
 
 ---
 
