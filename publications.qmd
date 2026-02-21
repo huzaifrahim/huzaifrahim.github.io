@@ -42,7 +42,7 @@ toc: false
 - National Conference on Material Science, Materials Research Laboratory (MRL), University of Peshawar, Pakistan, 2011.
 - 4th International Workshop on Matter Out of Equilibrium, University of San Luis Potosí, Mexico, Sep 24 - Nov 5, 2021.  
 - Physics of Life Workshop: Periodic Patterns, – University of Oxford (Virtual) Nov 18–19, 2021.  
-- Modelling Diffusive Systems: Theory & Biological Applications (MoDiS) – ICMS Early Career Researcher Workshop (Virtual) Sep 6–9, 2021.  
+- Modelling Diffusive Systems: Theory & Biological Applications (MoDiS) – ICMS (Virtual) Sep 6–9, 2021.  
 - Early Career Research in Biological Physics – Institute of Physics (IOP), Caledonian Road, London,  Dec 8, 2021.  
 
 ---
