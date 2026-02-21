@@ -12,8 +12,7 @@ My work combines large-scale DEM simulations with rigorous micro–macro analysi
 My research addresses fundamental questions in granular rheology:  
 How do microscopic interactions give rise to stress anisotropy, shear localization, secondary flow, dilatancy and compaction, and evolving surface profiles under shear?
 
-I extract continuum fields (velocity, strain-rate, stress) via coarse-graining and systematic post-processing of particle-scale data.
-
+I extract continuum fields — including velocity, strain-rate, and the full stress tensor — via coarse-graining and systematic post-processing of particle-scale data.  
 ---
 
 ## What I Do
