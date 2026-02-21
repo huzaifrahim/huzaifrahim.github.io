@@ -34,10 +34,11 @@ My expertise includes:
 ## Technical Expertise
 
 - **Simulation & HPC:** MercuryDPM, Linux environments, high-performance computing clusters  
-- **Scientific Computing:** Python (NumPy, SciPy, Pandas, Matplotlib)  
-- **Reproducible Research:** Git, Bash, Jupyter, Quarto, LaTeX  
+- **Scientific Computing & Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB  
+- **Data & Modeling:** Data analysis, statistical fitting, parameter estimation, machine learning fundamentals  
+- **Reproducible Workflows:** Git, GitHub, Bash, Jupyter, Quarto, LaTeX  
 
-I focus on building **reproducible, automated, and scalable simulation pipelines** that bridge physics and data science.
+I build reproducible, automated, and scalable simulation pipelines that connect particle-scale physics with data-driven analysis.
 
 ---
 
