@@ -33,7 +33,8 @@ My expertise includes:
 
 ## Technical Expertise
 
-- **Simulation & HPC:** MercuryDPM, Linux environments, high-performance computing clusters  
+- **Particle-Based Simulation:** DEM modeling (MercuryDPM, YADE), Linux environments, high-performance computing clusters  
+- **Continuum & PDE Modeling:** Reaction–diffusion systems (Turing pattern formation), numerical solution of nonlinear PDEs  
 - **Scientific Computing & Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB  
 - **Data & Modeling:** Data analysis, statistical fitting, parameter estimation, machine learning fundamentals  
 - **Reproducible Workflows:** Git, GitHub, Bash, Jupyter, Quarto, LaTeX  
