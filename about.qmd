@@ -5,32 +5,50 @@ toc: false
 
 ## Hi, I'm Huzaif
 
-I am a PhD Researcher in Germany working on **dense granular flow under shear** using **Discrete Element Method (DEM)** simulations in **MercuryDPM**. My research focuses on how **particle shape and friction** influence granular rheology, microstructure, stress anisotropy, and free-surface morphology.
+I am a PhD Researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg Germany specializing in **computational modeling of dense granular flow** using **Discrete Element Method (DEM)** simulations. combines **large-scale Discrete Element Method (DEM) simulations** with rigorous micro–macro analysis to understand how **particle geometrical and material parameters govern macroscopic material behavior**.
 
-I combine large-scale simulations with **micro–macro analysis**, extracting continuum fields (velocity, strain-rate, stress) using coarse-graining and reproducible Python-based post-processing.
-
----
-
-## What I work on
-
-- DEM simulations of sheared granular media (spheres and elongated grains)
-- Particle alignment, stress anisotropy, secondary flow, and shear-band structure
-- Free-surface morphology (surface depressions, heap formation)
-- Automated simulation workflows and large dataset analysis in Python
-- Pattern formation in reaction–diffusion PDEs (Turing / Gray–Scott systems)
+My research addresses fundamental questions in granular rheology:  
+How do microscopic interactions give rise to stress anisotropy, shear localization, secondary flow, and free-surface morphology?  
+I combine large-scale simulations with **micro–macro analysis**, extracting continuum fields (velocity, strain-rate, stress) using coarse-graining and post-processing.
 
 ---
 
-## Tools I use
+## What I Do
 
-- **MercuryDPM**, Linux, HPC clusters
-- Python (NumPy, SciPy, Pandas, Matplotlib)
-- Git, Bash, Jupyter, Quarto, LaTeX
+I design and run DEM simulations of sheared granular systems, and translate particle-scale dynamics into continuum-scale insights.
+
+My expertise includes:
+
+- Shear-band formation and secondary flow analysis  
+- Particle alignment, stress anisotropy, secondary flow, and shear-band structure 
+- Free-surface evolution  
+- Coarse-graining techniques for extracting velocity, strain-rate, and stress fields  
+- Automated simulation workflows and large-scale data analysis in Python/MATLAB  
+- Pattern formation in reaction–diffusion PDE systems (Turing pattern)
 
 ---
 
-## What I’m looking for
+## Technical Expertise
 
-I am interested in roles in **computational physics / simulation**, **granular materials**, or **scientific computing**, where I can work on modelling, high-performance simulations, and data-driven analysis.
+- **Simulation & HPC:** MercuryDPM, Linux environments, high-performance computing clusters  
+- **Scientific Computing:** Python (NumPy, SciPy, Pandas, Matplotlib)  
+- **Reproducible Research:** Git, Bash, Jupyter, Quarto, LaTeX  
 
-If you'd like to collaborate or discuss opportunities, feel free to reach out via LinkedIn or email.
+I focus on building **reproducible, automated, and scalable simulation pipelines** that bridge physics and data science.
+
+---
+
+## Professional Interests
+
+I am seeking opportunities in:
+
+- Computational physics and particle-based simulation  
+- Granular and complex materials modeling  
+- Scientific computing and high-performance simulation  
+- Data-driven modeling in physics and engineering  
+
+I am particularly motivated by roles where rigorous physical modeling meets large-scale computation and meaningful real-world applications.
+
+---
+
+If you are interested in collaboration, research discussion, or professional opportunities, feel free to connect via LinkedIn or email.
