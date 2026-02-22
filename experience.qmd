@@ -16,10 +16,12 @@ title: Experience
 
 ## Technical Skills (Simulation & Computing)
 
-- **Simulation:** MercuryDPM, DEM modelling, large parameter sweeps  
-- **Programming:** Python (NumPy, SciPy, Pandas), C++, Linux/Bash, Git  
-- **Analysis:** coarse-graining, continuum field extraction (velocity, strain-rate, stress), visualization  
-- **HPC:** cluster workflows, parallel runs, automation, large-scale data handling  
+- **Numerical Simulation:** DEM (MercuryDPM, YADE), reaction–diffusion PDE models, large parameter  
+- **Programming:** C++, Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, Linux/Bash  
+- **Scientific Computing:** ODE/PDE solvers, stability analysis, coarse-graining, continuum field extraction  
+- **Data & Analysis:** statistical analysis, data fitting, visualization, image processing (pixel-based density analysis)  
+- **Reproducible Workflows:** Git, GitHub, Jupyter, Quarto, LaTeX  
+- **HPC & Automation:** cluster workflows, parallel runs, automated data-processing pipelines  
 
 ---
 
