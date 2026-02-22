@@ -29,12 +29,14 @@ title: Experience
 ### Project Supervisor — Projektkurs CBPT/BPT
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
-- Supervised a Python automation pipeline for robotic arm pattern generation.
+- Led development of a Python-based control system for an automated robotic arm.  
+- Implemented object recognition and selection logic based on geometric and color attributes.  
+- Automated the full pick-and-place workflow for structured pattern generation.  
 
 ### Seminar Supervisor — CEP Advanced Seminar
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
-- Mentored students on literature review and scientific presentation (Weissenberg effect).
+- Supervised a student group on a literature review of the Weissenberg effect in viscoelastic fluids and mentored them in scientific writing and presentation.
 
 ---
 
