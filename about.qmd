@@ -33,11 +33,10 @@ My expertise includes:
 
 ## Technical Expertise
 
-- **Particle-Based Simulation:** DEM modeling (MercuryDPM, YADE), Linux environments, high-performance computing clusters  
-- **Continuum & PDE Modeling:** Reaction–diffusion systems (Turing pattern formation), numerical solution of nonlinear PDEs  
-- **Scientific Computing & Analysis:** Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB  
-- **Data & Modeling:** Data analysis, statistical fitting, parameter estimation, machine learning fundamentals  
-- **Reproducible Workflows:** Git, GitHub, Bash, Jupyter, Quarto, LaTeX  
+- **Particle-Based Simulation:** Discrete Element modeling of granular systems  
+- **Continuum & PDE Modeling:** Nonlinear reaction–diffusion systems and stability analysis  
+- **Scientific Computing:** Numerical modeling, data analysis, and visualization  
+- **Computational Workflows:** Reproducible research, automation, and high-performance computing  
 
 I build reproducible, automated, and scalable simulation pipelines that connect particle-scale physics with data-driven analysis.
 
