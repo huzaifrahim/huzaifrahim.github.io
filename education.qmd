@@ -10,7 +10,7 @@ title: Education
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles*  
 **Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
 
-**Research focus:**
+**Research focus:**  
 - Studied shear-induced deformation and surface evolution in dense granular materials using DEM.  
 - Quantified stress fields, localization, and volumetric response via coarse-graining and parameter studies.  
 - Implemented and modified simulation code in C++ and Python; performed ODE/PDE integration and stability analysis.  
