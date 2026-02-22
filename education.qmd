@@ -5,17 +5,17 @@ title: Education
 ## PhD
 
 **PhD Researcher — Computational Physics (2022–Present; thesis submitted)**  
-**Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany
+**Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany  
 
-- **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles.*
-- **Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
+**Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles*  
+**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
 
-- Developed high-fidelity numerical models using the **Discrete Element Method (DEM)**.
-- Performed stability, transient response, and parameter sensitivity analyses.
-- Developed and executed large-scale simulation workflows in **C++ and Python**.
-- Managed full-cycle simulation campaigns on **HPC clusters**, from design to execution.
-- Built scalable data processing pipelines for **multi-terabyte simulation outputs**.
-- Conducted sensitivity analyses to identify critical system parameters and validate model performance.
+**Research focus:**
+- DEM simulations of sheared granular systems with non-spherical particles  
+- Analysis of stress fields, shear localization, dilatancy, and surface evolution  
+- Systematic parameter studies on particle geometry and friction  
+- Implementation of simulation and post-processing tools in C++ and Python  
+- Large-scale data analysis on Linux-based computing systems
 
 ---
 
