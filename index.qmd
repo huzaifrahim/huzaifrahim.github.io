@@ -27,7 +27,9 @@ toc: false
 Granular Flow · DEM Simulations · Pattern Formation
 </span>
 
-I work in computational granular physics using discrete element simulations. My research examines how particle shape and friction govern rheology, alignment, secondary flow, and stress anisotropy in dense granular flows. I analyze simulation data through coarse-graining to relate microstructure to macroscopic behavior. My work includes scientific programming, data analysis and visualization, machine learning, and high-performance computing.
+I am a computational physicist specializing in dense granular flow and particle-based simulation. Using large-scale Discrete Element Method (DEM) models, I study how particle geometry and contact mechanics govern stress transmission, shear localization, dilatancy, and evolving surface profiles in sheared granular systems. Coarse-graining techniques are used to extract continuum fields — velocity, strain-rate, and the full stress tensor — relating particle-scale interactions to macroscopic behavior.
+
+I also study pattern formation and emergent phenomena in complex systems, including reaction–diffusion models exhibiting Turing instabilities, both numerically and analytically. My research involves numerical modeling, scientific programming, and systematic data analysis in high-performance computing environments.
 
 **Currently:** PhD Researcher (FAU Germany)
 
