@@ -118,7 +118,7 @@ p {
 
 /* Lists */
 li {
-  text-align: left;
+  text-align: justify;
 }
 
 /* Prevent weird justification in titles */
