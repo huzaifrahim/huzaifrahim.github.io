@@ -26,7 +26,7 @@ title: Experience
 
 ## Supervision Experience
 
-** Project Supervisor — Projektkurs CBPT/BPT**  
+**Project Supervisor — Projektkurs CBPT/BPT**  
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
 - Led development of a Python-based control system for an automated robotic arm.  
