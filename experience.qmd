@@ -24,6 +24,20 @@ title: Experience
 
 ---
 
+## Supervision Experience
+
+### Project Supervisor — Projektkurs CBPT/BPT
+**FAU Erlangen-Nürnberg**, Germany — **2024**
+
+- Supervised a Python automation pipeline for robotic arm pattern generation.
+
+### Seminar Supervisor — CEP Advanced Seminar
+**FAU Erlangen-Nürnberg**, Germany — **2024**
+
+- Mentored students on literature review and scientific presentation (Weissenberg effect).
+
+---
+
 ## Teaching Experience
 
 ### GCSE Physics Teacher
@@ -37,19 +51,5 @@ title: Experience
 **2013 – 2015**
 
 - Taught physics and supported students in problem-solving and lab sessions.
-
----
-
-## Supervision Experience
-
-### Project Supervisor — Projektkurs CBPT/BPT
-**FAU Erlangen-Nürnberg**, Germany — **2024**
-
-- Supervised a Python automation pipeline for robotic arm pattern generation.
-
-### Seminar Supervisor — CEP Advanced Seminar
-**FAU Erlangen-Nürnberg**, Germany — **2024**
-
-- Mentored students on literature review and scientific presentation (Weissenberg effect).
 
 ---
