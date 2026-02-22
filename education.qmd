@@ -11,8 +11,8 @@ title: Education
 **Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
 
 **Research focus:**  
-- Studied shear-induced surface evolution in dense granular materials using DEM.  
-- Quantified stress fields, localization, and volumetric response via coarse-graining.  
+- Studied shear-induced deformation and surface evolution in dense granular materials using DEM.  
+- Quantified stress fields, shear localization, and volumetric response via coarse-graining.  
 - Implemented and modified simulation code in C++ and Python.  
 - Automated simulation and post-processing workflows using Bash and Python on Linux-based HPC systems.  
 - Performed statistical analysis, data fitting, and visualization of large simulation datasets.  
