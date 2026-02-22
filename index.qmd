@@ -80,7 +80,7 @@ I study pattern formation and emergent phenomena in complex systems, including r
     </div>
     <div style="width: 230px;">
       <img src="media/CSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (with multispheres particles).</em></p>
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (with clump particles).</em></p>
     </div>
     <div style="width: 230px;">
       <img src="media/LSC1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
@@ -88,7 +88,7 @@ I study pattern formation and emergent phenomena in complex systems, including r
     </div>
     <div style="width: 230px;">
       <img src="media/LSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (with multispheres particles).</em></p>
+      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (with clump particles).</em></p>
     </div>
   </div>
 
