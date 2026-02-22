@@ -21,7 +21,6 @@ title: Experience
 - **Analysis:** coarse-graining, continuum field extraction (velocity, strain-rate, stress), visualization  
 - **HPC:** cluster workflows, parallel runs, automation, large-scale data handling  
 
-
 ---
 
 ## Supervision Experience
