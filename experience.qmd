@@ -33,7 +33,7 @@ title: Experience
 - Implemented object recognition and selection logic based on geometric and color attributes.  
 - Automated the full pick-and-place workflow for structured pattern generation.  
 
-### Seminar Supervisor — CEP Advanced Seminar
+**Seminar Supervisor — CEP Advanced Seminar**
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
 - Supervised a student group on a literature review of the Weissenberg effect in viscoelastic fluids and mentored them in scientific writing and presentation.
@@ -42,13 +42,13 @@ title: Experience
 
 ## Teaching Experience
 
-### GCSE Physics Teacher
+**GCSE Physics Teacher**
 **IVY Hefei Experimental Academy High School**, Hefei, China  
 **2019 – 2020**
 
 - Delivered GCSE-level physics teaching and supervised lab activities.
 
-### Lecturer in Physics
+**Lecturer in Physics**
 **Mardan Model School and College**, Pakistan  
 **2013 – 2015**
 
