@@ -25,9 +25,14 @@ title: Education
 **M.S. Physics (2016–2019)**  
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **GPA:** 3.3/4.0  
-**Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*
+**Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*  
+**Supervisor:** Prof. Ding Zejun 
 
-**Supervisor:** Prof. Ding Zejun
+**Research focus:**  
+- Analytical and numerical modeling of nonlinear reaction–diffusion systems.  
+- Derived instability conditions using bifurcation and stability analysis.  
+- Implemented PDE simulations in C++ to study stripe, spot, and mixed pattern formation.  
+- Performed analytical computation, data analysis, and visualization in MATLAB and Mathematica.  
 
 ---
 
