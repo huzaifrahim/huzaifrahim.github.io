@@ -11,7 +11,7 @@ toc: false
    [DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)
 
 2. **Huzaif Rahim**, Vasileios Angelidakis, Sudeshna Roy, Thorsten Pöschel.  
-   *Alignment-Induced De- pression and Shear Thinning in Granular Matter of Nonspherical Particles.*  
+   *Alignment-Induced Depression and Shear Thinning in Granular Matter of Nonspherical Particles.*  
    **Physical Review Fluids**, 2024  
    [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304) · [Preprint](https://arxiv.org/pdf/2404.11830)
 
