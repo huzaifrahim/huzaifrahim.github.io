@@ -14,9 +14,9 @@ title: Experience
 
 ---
 
-## Technical Skills (Simulation & Computing)
+## Technical Skills
 
-- **Numerical Simulation:** DEM (MercuryDPM, YADE), reaction–diffusion PDE models, large parameter  
+- **Numerical Simulation:** DEM (MercuryDPM, YADE), reaction–diffusion PDE models, large parameter studies  
 - **Programming:** C++, Python (NumPy, SciPy, Pandas, Matplotlib), MATLAB, Linux/Bash  
 - **Scientific Computing:** ODE/PDE solvers, stability analysis, coarse-graining, continuum field extraction  
 - **Data & Analysis:** statistical analysis, data fitting, visualization, image processing (pixel-based density analysis)  
