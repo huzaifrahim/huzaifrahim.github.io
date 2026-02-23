@@ -5,7 +5,7 @@ toc: false
 
 ## Hi, I'm Huzaif
 
-I am a PhD Researcher (with thesis submitted) at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany, specializing in **computational modeling of dense granular flow** using the **Discrete Element Method (DEM)**. 
+I am a PhD Researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany, (thesis submitted) specializing in **computational modeling of dense granular flow** using the **Discrete Element Method (DEM)**. 
 
 My work combines large-scale DEM simulations with rigorous micro–macro analysis to understand how **particle geometry and contact properties govern macroscopic material behavior**.
 
