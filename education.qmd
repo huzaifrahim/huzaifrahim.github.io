@@ -4,7 +4,7 @@ title: Education
 
 ## PhD
 
-**PhD Researcher (Dr.-Ing. candidate, thesis submitted) — Computational Physics**  
+**PhD Researcher (Dr.-Ing. candidate) — Computational Physics (2022–Present; thesis submitted)**  
 **Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany  
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles*  
