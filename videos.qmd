@@ -206,6 +206,27 @@ This extracted surface can be used to compute surface profiles and global measur
   </iframe>
 </div>
 
+<!-- 11 -->
+### Robotic Arm Pattern Formation (Yin–Yang Mosaic) | Python Automation
+Python-controlled robotic arm performing automated pick-and-place to create a predefined pattern.
+A vacuum end-effector is used to grasp and position colored spherical particles to form a Yin–Yang mosaic.
+The same control framework was applied to irregular particles (e.g., rice grains), demonstrating stable manipulation across different particle geometries.
+
+The suction system generates a controlled pressure differential for particle gripping. The outlet was sealed to prevent air leakage, ensuring consistent holding force and placement stability.
+
+#Robotics #Automation #Python  
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/cmjnTRVrHNA?si=TPXYjgwZlQZE2hsp"
+    title="Python automation of robotic arm"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 <!--
 ### Pressure anisotropy visualization
 Short description here.
