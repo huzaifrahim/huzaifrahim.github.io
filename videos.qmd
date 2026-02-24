@@ -61,7 +61,7 @@ Particles are colored by their initial y-position to visualize mixing across the
 
 <!-- 3 -->
 ### Shear-Induced Dilatancy at High Friction (Elongated Particles, DEM)
-At high friction (µ = 0.8), shear-induced dilatancy becomes pronounced inside the shear band, producing a localized surface uplift near the split region (y = 0).
+At high friction (µ = 0.8), shear-induced dilatancy becomes pronounced inside the shear band for a dense granular packing, producing a localized surface uplift near the split region (y = 0).
 Colors show the streamwise velocity Vx (m/s).
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
