@@ -347,3 +347,42 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================
+   TYPOGRAPHY IMPROVEMENTS
+   ========================= */
+
+/* Better paragraph readability */
+p {
+  line-height: 1.75;
+  font-size: 1.03rem;
+}
+
+/* Limit line width for readability */
+.main-container {
+  max-width: 960px;
+}
+
+/* Headings spacing */
+h2 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-bottom: 8px;
+}
+
+/* Slightly stronger section titles */
+.section-soft h2 {
+  font-weight: 700;
+}
+
+.project-card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
