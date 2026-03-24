@@ -386,3 +386,41 @@ h3 {
 .project-card a:hover {
   text-decoration: underline;
 }
+
+/* =========================
+   HERO BUTTONS
+   ========================= */
+
+.hero-buttons {
+  margin-top: 15px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.btn-secondary {
+  background: white;
+  color: var(--accent);
+  border: 1px solid rgba(0,0,0,0.15);
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+.btn-secondary:hover {
+  background: rgba(0,0,0,0.03);
+}

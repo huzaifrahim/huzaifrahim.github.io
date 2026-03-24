@@ -24,16 +24,31 @@ toc: false
 ::: {.columns}
 ::: {.column width="65%"}
 
+# Computational Physicist — Granular Matter & DEM Simulations
+
 ## PhD Researcher
 <span style="font-size:1.15rem; color:#4b5563;">
 Granular Flow · DEM Simulations · Pattern Formation
 </span>
 
-I am a computational physicist specializing in dense granular flow and particle-based simulation. Using large-scale Discrete Element Method (DEM) models, I study how particle geometry and contact mechanics govern stress distribution and transmission, shear localization, dilatancy and compaction, and surface morphology in sheared granular systems. I use coarse-graining techniques to extract continuum fields — velocity, strain-rate, and the full stress tensor — relating particle-scale interactions to macroscopic behavior.
+I am a computational physicist specializing in dense granular flow and particle-based simulation.
 
-I study pattern formation and emergent phenomena in complex systems, including reaction–diffusion models exhibiting Turing and Hopf instabilities, both numerically and analytically. My research involves numerical modeling, scientific programming, and systematic data analysis in high-performance computing environments.
+Using large-scale Discrete Element Method (DEM) models, I study how particle geometry and contact mechanics govern:
+- stress distribution and transmission  
+- shear localization  
+- dilatancy and compaction  
+- surface morphology in sheared granular systems  
+
+I use coarse-graining techniques to extract continuum fields — velocity, strain-rate, and the full stress tensor — linking particle-scale interactions to macroscopic behavior.
+
+I also study pattern formation in complex systems, including reaction–diffusion models exhibiting Turing and Hopf instabilities.
 
 **Currently:** PhD Researcher (FAU Germany)
+
+<div class="hero-buttons">
+  <a href="./files/CV.pdf" class="btn-primary">Download CV</a>
+  <a href="./portfolio.html" class="btn-secondary">View Projects</a>
+</div>
 
 :::
 
