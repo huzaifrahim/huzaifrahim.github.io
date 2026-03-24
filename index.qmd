@@ -25,9 +25,9 @@ toc: false
 ::: {.column width="65%"}
 
 ## PhD Researcher
-<span style="font-size:1.15rem; color:#4b5563;">
-Granular Flow · DEM Simulations · Pattern Formation
-</span>
+<div class="hero-specialization">
+  Granular Flow · DEM Simulations · Pattern Formation
+</div>
 
 I am a computational physicist specializing in dense granular flow and particle-based simulation.
 

@@ -450,3 +450,15 @@ p {
   }
 
 }
+
+/* =========================
+   HERO SPECIALIZATION
+   ========================= */
+
+.hero-specialization {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent);
+
+  margin: 8px 0 14px 0;
+}
