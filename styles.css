@@ -308,24 +308,18 @@ h1, h2, h3, h4, h5, h6 {
   padding: 18px 18px;
   border-radius: 14px;
 
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  /* NEW: subtle border */
+  border: 1px solid rgba(0,0,0,0.06);
+
+  /* improved shadow */
+  box-shadow: 0 8px 22px rgba(0,0,0,0.06);
+
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 
   height: 100%;
 }
 
-/* Hover effect */
 .project-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 14px 30px rgba(0,0,0,0.12);
-}
-
-/* Fix spacing */
-.project-card h3 {
-  margin-top: 0;
-  font-size: 1.05rem;
-}
-
-.project-card p {
-  margin-bottom: 10px;
+  box-shadow: 0 16px 34px rgba(0,0,0,0.12);
 }
