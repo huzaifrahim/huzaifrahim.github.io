@@ -424,3 +424,29 @@ h3 {
 .btn-secondary:hover {
   background: rgba(0,0,0,0.03);
 }
+
+/* ===== SAFE FIX: MOBILE READABILITY ===== */
+
+/* remove ugly justification everywhere */
+p {
+  text-align: left;
+}
+
+/* improve spacing + readability */
+@media (max-width: 768px) {
+
+  .main-container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+}
