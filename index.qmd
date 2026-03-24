@@ -24,8 +24,6 @@ toc: false
 ::: {.columns}
 ::: {.column width="65%"}
 
-# Computational Physicist — Granular Matter & DEM Simulations
-
 ## PhD Researcher
 <span style="font-size:1.15rem; color:#4b5563;">
 Granular Flow · DEM Simulations · Pattern Formation
