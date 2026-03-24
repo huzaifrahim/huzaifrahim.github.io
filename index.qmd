@@ -70,6 +70,8 @@ I study pattern formation and emergent phenomena in complex systems, including r
 
 ---
 
+<div class="section-soft">
+
 ## Simulations
 
 ```{=html}
@@ -115,7 +117,10 @@ I study pattern formation and emergent phenomena in complex systems, including r
 </div>
 
 ```
+</div>
 ---
+
+<div class="section-soft">
 
 ## Featured Projects
 
@@ -151,6 +156,7 @@ Analytical study of diffusion-driven instability and pattern formation in a reac
 :::
 :::
 
+</div>
 ---
 
 ## Keywords
