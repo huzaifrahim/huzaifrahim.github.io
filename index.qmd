@@ -31,7 +31,7 @@ Granular Flow · DEM Simulations · Pattern Formation
 
 I am a computational physicist specializing in dense granular flow and particle-based simulation.
 
-Using large-scale Discrete Element Method (DEM) models, I study how particle geometry and contact mechanics govern:
+Using large-scale Discrete Element Method (DEM) models, I study how particle geometry and contact mechanics govern:  
 - stress distribution and transmission  
 - shear localization  
 - dilatancy and compaction  
