@@ -469,3 +469,16 @@ p {
 
   margin: 8px 0 14px 0;
 }
+
+/* ===== FORCE PROJECT GRID ALWAYS 2 COLUMNS ===== */
+
+.section-soft .projects-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  gap: 16px;
+}
+
+/* prevent parent layout from interfering */
+.section-soft {
+  display: block !important;
+}
