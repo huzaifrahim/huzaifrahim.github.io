@@ -259,3 +259,31 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+/* =========================
+   HERO SECTION (Homepage)
+   ========================= */
+
+.hero-section {
+  padding: 40px 30px;
+  border-radius: 18px;
+
+  background: linear-gradient(
+    135deg,
+    rgba(52, 152, 219, 0.08),
+    rgba(155, 89, 182, 0.06)
+  );
+
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+/* Improve spacing inside hero */
+.hero-section h2 {
+  margin-top: 0;
+}
+
+/* Slightly larger intro text */
+.hero-section p {
+  font-size: 1.02rem;
+  line-height: 1.7;
+}

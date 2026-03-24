@@ -19,6 +19,8 @@ toc: false
 
 <div class="main-container">
 
+<div class="hero-section">
+
 ::: {.columns}
 ::: {.column width="65%"}
 
@@ -43,7 +45,7 @@ I study pattern formation and emergent phenomena in complex systems, including r
 :::
 
 <!-- END OF TWO-COLUMN SECTION -->
-
+</div>
 
 <div class="home-quick-nav" aria-label="Quick navigation">
   <a class="home-nav-btn" href="./index.html"> Home</a>
