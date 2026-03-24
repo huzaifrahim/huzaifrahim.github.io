@@ -145,9 +145,19 @@ DEM study of shear-induced alignment, surface depression formation, and shear-th
 
 ::: {.column width="50%"}
 
-### Impact of friction and grain shape on the morphology of sheared granular media
-DEM study of how friction and particle shape control alignment, dilatancy, and free-surface morphology in a linear split-bottom shear cell.  
-➡️ [Read more →](./projects/friction-shape-morphology.qmd)
+<div class="project-card">
+
+<h3>Impact of friction and grain shape on the morphology of sheared granular media</h3>
+
+<p>
+DEM study of how friction and particle shape control alignment, dilatancy, and free-surface morphology in a linear split-bottom shear cell.
+</p>
+
+<p>
+<a href="./projects/friction-shape-morphology.qmd">Read more →</a>
+</p>
+
+</div>
 
 :::
 :::
@@ -155,9 +165,19 @@ DEM study of how friction and particle shape control alignment, dilatancy, and f
 ::: {.columns}
 ::: {.column width="50%"}
 
-### Pattern selection in a three-component Gray–Scott model (2019)
-Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.  
-➡️ [Read more →](./projects/grayscott.qmd)
+<div class="project-card">
+
+<h3>Pattern selection in a three-component Gray–Scott model (2019)</h3>
+
+<p>
+Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.
+</p>
+
+<p>
+<a href="./projects/grayscott.qmd">Read more →</a>
+</p>
+
+</div>
 
 :::
 
