@@ -334,13 +334,6 @@ h1, h2, h3, h4, h5, h6 {
   gap: 20px;
 }
 
-/* 👇 FORCE 2 columns even on small screens */
-@media (max-width: 700px) {
-  .projects-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-  }
-}
-
 /* Make cards consistent height */
 .project-card {
   display: flex;
@@ -348,12 +341,6 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
 }
 
-/* Responsive */
-@media (max-width: 700px) {
-  .projects-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
 
 /* =========================
    TYPOGRAPHY IMPROVEMENTS
@@ -481,4 +468,8 @@ p {
 /* prevent parent layout from interfering */
 .section-soft {
   display: block !important;
+}
+
+.projects-grid > * {
+  min-width: 0;
 }

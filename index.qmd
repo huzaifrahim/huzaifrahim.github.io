@@ -136,7 +136,7 @@ I also study pattern formation in complex systems, including reaction–diffusio
 
 ## Featured Projects
 
-<div class="projects-grid">
+<div class="projects-grid" style="display:grid; grid-template-columns: repeat(2, 1fr); gap:16px;">
 
 <div class="project-card">
 <h3>Alignment-induced depression and shear thinning in granular matter of nonspherical particles</h3>
