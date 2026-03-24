@@ -194,9 +194,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.95rem;
   line-height: 1;
 
-  border: 1px solid rgba(0,0,0,0.12);
+  border: 1px solid rgba(0,0,0,0.10);
   background: rgba(255,255,255,0.9);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.05);
 
   transition: transform 0.12s ease, box-shadow 0.12s ease;
 }
@@ -320,8 +320,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .project-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 16px 34px rgba(0,0,0,0.12);
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0,0,0,0.12);
 }
 
 /* =========================
