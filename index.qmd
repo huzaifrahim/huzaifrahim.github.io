@@ -46,8 +46,7 @@ I also study pattern formation in complex systems, including reaction–diffusio
 **Currently:** PhD Researcher (FAU Germany)
 
 <div class="hero-buttons">
-  <a href="./files/CV.pdf" class="btn-primary">Download CV</a>
-  <a href="./portfolio.html" class="btn-secondary">View Projects</a>
+  <a href="./portfolio.html" class="btn-primary">View Projects</a>
 </div>
 
 :::
