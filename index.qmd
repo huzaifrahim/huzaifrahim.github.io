@@ -124,67 +124,25 @@ I study pattern formation and emergent phenomena in complex systems, including r
 
 ## Featured Projects
 
-::: {.columns}
-::: {.column width="50%"}
+<div class="projects-grid">
 
 <div class="project-card">
-
 <h3>Alignment-induced depression and shear thinning in granular matter of nonspherical particles</h3>
-
-<p>
-DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains.
-</p>
-
-<p>
-<a href="./projects/shearthinning.qmd">Read more →</a>
-</p>
-
+<p>DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains.</p>
+<p><a href="./projects/shearthinning.qmd">Read more →</a></p>
 </div>
 
-:::
-
-::: {.column width="50%"}
-
 <div class="project-card">
-
 <h3>Impact of friction and grain shape on the morphology of sheared granular media</h3>
-
-<p>
-DEM study of how friction and particle shape control alignment, dilatancy, and free-surface morphology in a linear split-bottom shear cell.
-</p>
-
-<p>
-<a href="./projects/friction-shape-morphology.qmd">Read more →</a>
-</p>
-
+<p>DEM study of how friction and particle shape control alignment, dilatancy, and free-surface morphology in a linear split-bottom shear cell.</p>
+<p><a href="./projects/friction-shape-morphology.qmd">Read more →</a></p>
 </div>
-
-:::
-:::
-
-::: {.columns}
-::: {.column width="50%"}
 
 <div class="project-card">
-
 <h3>Pattern selection in a three-component Gray–Scott model (2019)</h3>
-
-<p>
-Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.
-</p>
-
-<p>
-<a href="./projects/grayscott.qmd">Read more →</a>
-</p>
-
+<p>Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.</p>
+<p><a href="./projects/grayscott.qmd">Read more →</a></p>
 </div>
-
-:::
-
-::: {.column width="50%"}
-&nbsp;
-:::
-:::
 
 </div>
 ---
