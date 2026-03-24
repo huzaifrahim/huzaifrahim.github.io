@@ -127,9 +127,19 @@ I study pattern formation and emergent phenomena in complex systems, including r
 ::: {.columns}
 ::: {.column width="50%"}
 
-### Alignment-induced depression and shear thinning in granular matter of nonspherical particles
-DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains.  
-➡️ [Read more →](./projects/shearthinning.qmd)
+<div class="project-card">
+
+<h3>Alignment-induced depression and shear thinning in granular matter of nonspherical particles</h3>
+
+<p>
+DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains.
+</p>
+
+<p>
+<a href="./projects/shearthinning.qmd">Read more →</a>
+</p>
+
+</div>
 
 :::
 
