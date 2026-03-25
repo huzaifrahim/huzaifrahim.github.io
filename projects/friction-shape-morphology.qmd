@@ -21,7 +21,7 @@ Using DEM simulations, I show how these microscopic mechanisms directly control 
 
 ## System (visual)
 
-![](../media/LSC1.gif){width=300 style="display:block; margin:auto;"}
+![](../media/LSC2.gif){width=300 style="display:block; margin:auto;"}
 
 <p style="text-align:center; font-size:0.9em;">
 Linear split-bottom shear cell with elongated particles (DEM simulation).  
