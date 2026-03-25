@@ -74,8 +74,8 @@
 #quarto-content,
 main.content {
   max-width: var(--site-max-width) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin-left: calc((100% - var(--site-max-width)) / 2 - 10px) !important;
+  margin-right: calc((100% - var(--site-max-width)) / 2 + 10px) !important;
   padding-left: var(--site-padding) !important;
   padding-right: var(--site-padding) !important;
 }
