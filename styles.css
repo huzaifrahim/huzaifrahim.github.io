@@ -503,3 +503,13 @@ p {
   }
 }
 
+/* ===== FIX NAVBAR ALIGNMENT ===== */
+
+#quarto-header .navbar .container-fluid {
+  max-width: var(--site-max-width) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+
+  padding-left: var(--site-padding) !important;
+  padding-right: var(--site-padding) !important;
+}
