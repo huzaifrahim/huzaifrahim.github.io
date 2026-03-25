@@ -5,40 +5,39 @@ toc: false
 
 ## Hi, I'm Huzaif
 
-I am a PhD Researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany, (thesis submitted) specializing in **computational modeling of dense granular flow** using the **Discrete Element Method (DEM)**. 
+I am a PhD researcher at Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany (thesis submitted), specializing in **computational modeling of dense granular flow** using the **Discrete Element Method (DEM)**.
 
-My work combines large-scale DEM simulations with rigorous micro–macro analysis to understand how **particle geometry and contact properties govern macroscopic material behavior**.
+My work focuses on how **particle-scale interactions (shape, friction, contact mechanics)** determine macroscopic behavior such as:
 
-My research addresses fundamental questions in granular rheology:  
-How do microscopic interactions give rise to stress anisotropy, shear localization, secondary flow, dilatancy and compaction, and evolving surface profiles under shear?
+- stress transmission and anisotropy  
+- shear localization and secondary flow  
+- dilatancy, compaction, and surface evolution  
 
-I extract continuum fields — including velocity, strain-rate, and the full stress tensor — via coarse-graining and systematic post-processing of particle-scale data.  
+I combine large-scale DEM simulations with **coarse-graining and micro–macro analysis** to extract continuum fields (velocity, strain-rate, stress tensor) and uncover the physical mechanisms governing granular flow.
 
 ---
 
 ## What I Do
 
-I design and run high-resolution DEM simulations of sheared granular systems and translate particle-scale dynamics into continuum-scale insights.
+I develop and analyze high-resolution simulations of sheared granular systems, connecting particle-scale dynamics to continuum-scale behavior.
 
-My expertise includes:
+My work includes:
 
-- Shear-band formation and secondary flow analysis  
-- Particle alignment and stress anisotropy quantification  
+- Shear-band formation and localization  
+- Particle alignment and stress anisotropy  
 - Free-surface evolution under shear  
 - Coarse-graining techniques for continuum field extraction  
-- Automated simulation workflows and large-scale data analysis in Python/MATLAB  
-- Pattern formation in reaction–diffusion PDE systems (Turing pattern formation)
+- Automated simulation workflows and large-scale data analysis (Python / MATLAB)  
+- Pattern formation in reaction–diffusion systems (Turing patterns)  
 
 ---
 
 ## Technical Expertise
 
-- **Particle-Based Simulation:** Discrete Element modeling of granular systems  
-- **Continuum & PDE Modeling:** Nonlinear reaction–diffusion systems and stability analysis  
-- **Scientific Computing:** Numerical modeling, data analysis, and visualization  
-- **Computational Workflows:** Reproducible research, automation, and high-performance computing  
-
-I build reproducible, automated, and scalable simulation pipelines that connect particle-scale physics with data-driven analysis.
+- **DEM Simulation:** Large-scale particle-based modeling (MercuryDPM, YADE)  
+- **Continuum Analysis:** Stress tensors, rheology, and micro–macro transitions  
+- **Scientific Computing:** Python, MATLAB, data analysis and visualization  
+- **High-Performance Computing:** simulation workflows, reproducibility, automation  
 
 ---
 
@@ -46,13 +45,13 @@ I build reproducible, automated, and scalable simulation pipelines that connect 
 
 I am seeking opportunities in:
 
-- Computational physics and particle-based simulation  
+- Computational physics and simulation  
 - Granular and complex materials modeling  
 - Scientific computing and high-performance simulation  
 - Data-driven modeling in physics and engineering  
 
-I am particularly motivated by roles where rigorous physical modeling meets large-scale computation and real-world applications.
+I am particularly interested in roles where **physical modeling, computation, and real-world applications intersect**.
 
 ---
 
-If you are interested in collaboration, research discussion, or professional opportunities, feel free to connect via LinkedIn or email.
+If you're interested in collaboration or opportunities, feel free to connect via LinkedIn or email.
