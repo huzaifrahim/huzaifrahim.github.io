@@ -223,7 +223,7 @@ Cohesion is introduced via liquid bridges between particles. In the cohesive cas
 </div>
 
 <!-- 12 -->
-### Robotic Arm Pattern Formation (Yin–Yang Mosaic) | Python Automation
+### Robotic Arm Pattern Formation (Yin–Yang Mosaic) | Python Automation (students project)
 
 Python-controlled robotic arm performing automated pick-and-place to generate a predefined pattern.  
 A vacuum end-effector is used to grasp and position colored spherical particles to form a Yin–Yang mosaic.  
