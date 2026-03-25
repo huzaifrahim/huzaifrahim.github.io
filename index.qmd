@@ -159,6 +159,10 @@ I also study pattern formation in complex systems, including reaction–diffusio
 </div>
 ---
 
+---
+
+<div class="section-soft">
+
 ## Keywords
 
 ::: {.keyword-tags}
@@ -186,5 +190,5 @@ I also study pattern formation in complex systems, including reaction–diffusio
 <span class="kw">PDEs</span>
 <span class="kw">ODEs</span>
 :::
- 
+
 </div>
