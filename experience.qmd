@@ -42,7 +42,7 @@ title: Experience
 
 ## Media
 
-- ▶️ Video: [Watch on the Videos page](../videos.qmd)
+- ▶️ Video: [Watch on the Videos page](../videos.html)
 
 
 ---
