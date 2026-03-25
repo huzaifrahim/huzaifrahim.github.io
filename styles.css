@@ -514,9 +514,12 @@ p {
   padding-right: 0 !important;
 }
 
-/* ===== FINAL NAV ALIGN FIX ===== */
+/* ===== TRUE NAV ALIGNMENT FIX ===== */
 
-#quarto-header .navbar {
-  padding-left: calc((100% - 960px) / 2 + 14px) !important;
-  padding-right: calc((100% - 960px) / 2 + 14px) !important;
+#quarto-header .navbar-nav {
+  margin-left: calc((100% - 960px) / 2 + 14px) !important;
+}
+
+#quarto-header .navbar .quarto-navbar-tools {
+  margin-right: calc((100% - 960px) / 2 + 14px) !important;
 }
