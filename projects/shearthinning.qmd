@@ -3,55 +3,95 @@ title: "Alignment-induced depression and shear thinning in granular matter of no
 subtitle: "Rheology of elongated particles in a linear split-bottom shear cell (DEM, MercuryDPM)"
 ---
 
-## Overview
+## Key insight
 
-This project investigates how particle aspect ratio influences both the surface morphology and the bulk rheology of dense granular shear flow. Using DEM simulations in a **linear split-bottom shear cell** we show that the shear-induced particle alignment lead to to compaction inside the shear band and the formation of a surface depression. The same microstructural alignment also correlates with a shear-thinning response behavior.
+Particle shape simultaneously controls **surface morphology** and **bulk rheology** in granular shear flow:
 
-This work is published in *Physical Review Fluids* (2024), [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304).
+- **Spheres (AR = 1)** → dilatancy inside the shear band → flat surface  
+- **Elongated particles (AR > 1)** → alignment-driven compaction → surface depression  
+
+The same alignment mechanism also governs rheology:
+
+- Increased alignment → higher packing density  
+- Modified contact network → **shear-thinning behavior**  
+
+This shows that **microstructure (alignment) directly links morphology and flow resistance**.
 
 ---
 
-## Key contributions
+## System (visual)
 
-- Simulated granular shear flow for particles with aspect ratio **AR = 1–5** in a linear split-bottom shear cell.
-- Quantified shear-induced **particle alignment** and its localization inside the shear band.
-- Measured packing density fields showing a transition from **dilatancy (spheres)** to **alignment-driven compaction (elongated grains)**.
-- Performed rheological analysis using stress tensors, normal stress differences, and inertial-number scaling to identify **shear-thinning regimes**.
+![](../media/LSC2.gif){width=300 style="display:block; margin:auto;"}
+
+<p style="text-align:center; font-size:0.9em;">
+Linear split-bottom shear cell with elongated particles (DEM simulation).  
+<a href="../videos.html">See full simulations →</a>
+</p>
+
+This work is published in *Physical Review Fluids (2024)*.  
+[DOI](https://doi.org/10.1103/PhysRevFluids.9.114304)
+
+---
+
+## What I did
+
+- Simulated granular shear flow for **aspect ratios AR = 1–5**  
+- Quantified **particle alignment** and its localization inside the shear band  
+- Computed packing density fields to distinguish **dilatancy vs compaction regimes**  
+- Performed rheological analysis using **stress tensor, normal stress differences, and inertial number scaling**  
 
 ---
 
 ## Methods & tools
 
-- **Simulation:** MercuryDPM, Hertz–Mindlin viscoelastic contact model.
-- **Geometry:** linear split-bottom shear cell (LSC) with periodic boundary conditions in the flow direction.
-- **Shear driving:** two L-shaped walls moving at ±Vx/2, with Vx = 0.038 m/s.
-- **Particles:** multisphere elongated grains using overlapping and non-overlapping sub-spheres, including fractional AR values.
-- **Parameter range:** AR ∈ [1, 5], including AR = 1.2, 1.4, 1.6, 1.8 for overlapping particles
-- **Post-processing:** coarse-grained continuum fields Q(y, z), averaged in x and over steady-state time windows.
+- **Simulation:** MercuryDPM, Hertz–Mindlin viscoelastic contact model  
+- **Geometry:** linear split-bottom shear cell (LSC), periodic in flow direction  
+- **Driving:** two L-shaped walls moving at ±Vx/2 (Vx = 0.038 m/s)  
+- **Particles:** multisphere elongated grains (overlapping and non-overlapping), AR = 1–5  
+- **Parameter range:** AR = 1–5 (including fractional AR for overlapping particles)  
+- **Post-processing:** coarse-grained continuum fields Q(y, z), averaged in x and steady state  
 
 ---
 
-## Results (selected)
+## Key results
 
-### Shear-induced alignment localizes inside the shear band
+### 1. Alignment localizes inside the shear band
 
-Elongated particles align strongly with the flow direction inside the shear band. For AR = 5, the alignment angle decreases from approximately **0.27π** outside the shear band to **0.15π** inside it (≈ 44% reduction).
+- Strong alignment develops within the shear band  
+- For AR = 5: orientation decreases from **0.27π → 0.15π** (~44% reduction)  
 
-### Packing density shows compaction for large aspect ratio
+---
 
-- **Spheres (AR = 1):** the shear band dilates (Reynolds dilatancy), producing lower density in the shear band and a flat surface.
-- **Elongated grains (AR = 5):** alignment-driven compaction dominates, resulting in increased density inside and near the shear band region, and a depression at the surface.
+### 2. Shape controls dilatancy vs compaction
 
-### Shape controls macroscopic friction
+- **Spheres (AR = 1)** → dilatancy → lower density in shear band → flat surface  
+- **Elongated particles (AR = 5)** → alignment-driven compaction → higher density → surface depression  
 
-The macroscopic friction coefficient increases with AR and saturates at larger AR. Overlapping multisphere particles exhibit higher macroscopic friction than non-overlapping particles due to increased contact interactions.
+---
 
-### Effective viscosity reveals shear-thinning across all aspect ratios
+### 3. Shape increases macroscopic friction
 
-The effective viscosity decreases with inertial number, indicating shear-thinning for all AR. At fixed inertial number, viscosity increases with AR. Scaling viscosity by macroscopic friction collapses the data into an approximately AR-independent curve with two branches:
+- Macroscopic friction increases with aspect ratio  
+- Saturation occurs at larger AR  
+- Overlapping particles show higher friction due to enhanced contact interactions  
 
-- slope ≈ −1 (high confining pressure, solid-like behavior)
-- slope ≈ −2 (low confining pressure, fluid-like behavior)
+---
+
+### 4. Shear-thinning emerges across all aspect ratios
+
+- Effective viscosity decreases with inertial number → **shear-thinning behavior**  
+- At fixed inertial number: viscosity increases with AR  
+- Rescaling by macroscopic friction collapses data into two regimes:
+  - slope ≈ −1 → solid-like behavior  
+  - slope ≈ −2 → fluid-like behavior  
+
+---
+
+## Takeaway
+
+Particle alignment is the key mechanism linking **structure, surface morphology, and rheology** in granular flow.
+
+This work shows how **microstructural evolution controls both compaction and shear-thinning behavior** in dense granular systems.
 
 ---
 
@@ -61,8 +101,11 @@ The effective viscosity decreases with inertial number, indicating shear-thinnin
 
 ---
 
-## Journal Article
+## Publication
 
-- H. Rahim, V. Angelidakis, T. Pöschel, and S. Roy, *Alignment-induced depression and shear thinning in granular matter of nonspherical particles*. [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304)
+H. Rahim, V. Angelidakis, T. Pöschel, and S. Roy  
+*Alignment-induced depression and shear thinning in granular matter of nonspherical particles*  
+**Physical Review Fluids (2024)**  
+[DOI](https://doi.org/10.1103/PhysRevFluids.9.114304)
 
 ---
