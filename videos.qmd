@@ -228,13 +228,9 @@ The outlet was sealed to prevent air leakage, ensuring consistent holding force 
 </div>
 
 <!-- 12 -->
-### Cohesion-induced heap formation in a shear cell (DEM)
-
-DEM simulation of spherical particles in a linear shear cell (MercuryDPM).
+### Dilatancy-induced surface deformation in dense cohesive granular media (DEM)
 
 Cohesion is introduced via liquid bridges between particles. In the cohesive case, dilatancy in the shear band leads to surface elevation and heap formation. Without cohesion, the surface remains nearly flat.
-
-Based on: Dilatancy-induced surface deformation in dense cohesive granular media.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
