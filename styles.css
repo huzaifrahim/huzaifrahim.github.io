@@ -299,6 +299,11 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 60ch;
 }
 
+/* prevent override of specialization line */
+.hero-section .hero-specialization {
+  color: var(--accent) !important;
+}
+
 .hero-section strong {
   font-weight: 700;
   color: var(--heading);
@@ -471,10 +476,10 @@ p {
    HERO SPECIALIZATION
    ========================= */
 
-.hero-specialization {
+.hero-section .hero-specialization {
   font-size: 1.15rem;
   font-weight: 600;
-  color: var(--accent) !important;
+  color: var(--accent);
 
   margin: 8px 0 14px 0;
 }
