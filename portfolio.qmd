@@ -2,29 +2,29 @@
 title: "Projects"
 ---
 
-Here are selected projects from my Master's and PhD work, focused on DEM simulations, granular flow, and pattern fomrmation in a reaction-diffusion system.
+Selected research projects from my Master's and PhD work, focused on **granular flow, DEM simulations, and pattern formation**.
 
-<!-- 1 -->
+---
+
 ## Impact of friction and grain shape on the morphology of sheared granular media (PhD)
 
-DEM study of how friction and particle shape control alignment, dilatancy, and surface morphology in a linear split-bottom shear cell.
+**How particle shape and friction determine surface morphology in granular shear flow**
 
-- MercuryDPM simulations with spheres and elongated grains (AR = 1–5, µ = 0.01–0.8)
-- Quantified shear-band packing density, stress ratio (τ/p), and alignment (θx, nematic order S)
-- Linked alignment-driven compaction vs friction-driven dilatancy to surface depressions
+- Spheres → flat surface; elongated particles → pronounced surface depression  
+- Competition between **alignment-driven compaction** and **friction-driven dilatancy**  
+- Links microstructure (alignment) to macroscopic surface evolution  
 
 [Read more →](./projects/friction-shape-morphology.qmd)
 
 ---
 
-<!-- 2 -->
 ## Alignment-induced depression and shear thinning in granular matter of nonspherical particles (PhD)
 
-DEM study of shear-induced alignment, surface depression formation, and shear-thinning rheology of elongated grains in a linear split-bottom shear cell.
+**How particle alignment simultaneously controls compaction and rheology**
 
-- MercuryDPM simulations with multisphere elongated particles (AR = 1–5)
-- Stress analysis: normal stress differences and macroscopic friction µ(AR)
-- Effective viscosity η(I) shows shear-thinning and pressure-dependent scaling
+- Alignment inside shear band drives **surface depression**  
+- Transition from dilatancy (spheres) to **alignment-induced compaction**  
+- Reveals **shear-thinning behavior** via inertial-number scaling  
 
 [Read more →](./projects/shearthinning.qmd)
 
@@ -32,11 +32,11 @@ DEM study of shear-induced alignment, surface depression formation, and shear-th
 
 ## Shear-induced pressure anisotropy in granular materials of nonspherical particles (PhD)
 
-DEM study of shear-induced pressure localization in a linear split-bottom shear cell, comparing elongated particles to spheres over a wide friction range.
+**How particle shape generates localized pressure through stress anisotropy**
 
-- MercuryDPM simulations: AR = 1 vs AR = 5, µ = 0.01–0.8
-- Coarse-grained pressure and stress fields in the y–z plane
-- Mechanism: alignment-driven packing density increase and normal stress anisotropy
+- Elongated particles develop a **pressure peak inside the shear band**  
+- Caused by alignment → higher packing density → normal stress anisotropy  
+- Spheres remain nearly isotropic under identical conditions  
 
 [Read more →](./projects/pressanisotropy.qmd)
 
@@ -44,11 +44,11 @@ DEM study of shear-induced pressure localization in a linear split-bottom shear 
 
 ## Dilatancy-Induced Heap Formation in Dense Cohesive Granular Media (PhD)
 
-DEM study of wet granular shear flow showing how liquid-bridge cohesion amplifies dilatancy and generates heap formation above the shear band.
+**How cohesion transforms dilatancy into surface heap formation**
 
-- MercuryDPM simulations with capillary bridge cohesion (γ = 0–0.160 N/m)
-- Quantified heap evolution using surface area ratio A/A0
-- Identified equivalent Bond number as the main control parameter; high shear rates suppress heap formation
+- Dry systems → flat surface; cohesive systems → **heap formation**  
+- Controlled by balance of **capillary forces, gravity, and shear rate**  
+- Identified **Bond number** as governing parameter  
 
 [Read more →](./projects/cohesion.qmd)
 
@@ -56,11 +56,11 @@ DEM study of wet granular shear flow showing how liquid-bridge cohesion amplifie
 
 ## Pattern selection of three components Gray-Scott model (2019)
 
-Analytical study of diffusion-driven instability and pattern selection in a three-component reaction–diffusion system.
+**How diffusion and nonlinear interactions select spatial patterns**
 
-- Derived Turing instability conditions using Jacobian and Routh–Hurwitz criteria
-- Computed dispersion relations and bifurcation thresholds
-- Derived amplitude equations via weakly nonlinear analysis to classify stripe vs hexagon regimes
+- Derived conditions for **Turing instability**  
+- Predicted unstable wavelength bands via dispersion analysis  
+- Showed how nonlinear effects determine **stripes vs hexagonal patterns**  
 
 [Read more →](./projects/grayscott.qmd)
 
