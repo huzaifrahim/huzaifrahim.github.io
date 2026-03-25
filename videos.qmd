@@ -207,6 +207,22 @@ This extracted surface can be used to compute surface profiles and global measur
 </div>
 
 <!-- 11 -->
+### Dilatancy-induced surface deformation in dense cohesive granular media (DEM)
+
+Cohesion is introduced via liquid bridges between particles. In the cohesive case, dilatancy in the shear band leads to surface elevation and heap formation. Without cohesion, the surface remains nearly flat.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/IN8LwHz6eWg?si=Izo2yN6LDUdPF9I6"
+    title="Heap formation in cohesive granular flow (DEM, MercuryDPM)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<!-- 12 -->
 ### Robotic Arm Pattern Formation (Yin–Yang Mosaic) | Python Automation
 
 Python-controlled robotic arm performing automated pick-and-place to generate a predefined pattern.  
@@ -221,22 +237,6 @@ The outlet was sealed to prevent air leakage, ensuring consistent holding force 
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
     src="https://www.youtube.com/embed/ruZ7ExJnHZo"
     title="Python automation of robotic arm"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<!-- 12 -->
-### Dilatancy-induced surface deformation in dense cohesive granular media (DEM)
-
-Cohesion is introduced via liquid bridges between particles. In the cohesive case, dilatancy in the shear band leads to surface elevation and heap formation. Without cohesion, the surface remains nearly flat.
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
-  <iframe
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/IN8LwHz6eWg?si=Izo2yN6LDUdPF9I6"
-    title="Heap formation in cohesive granular flow (DEM, MercuryDPM)"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
