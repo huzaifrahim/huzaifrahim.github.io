@@ -34,3 +34,6 @@ format:
       - styles.css?v=10
     toc: false
     mainfont: "Inter"
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
