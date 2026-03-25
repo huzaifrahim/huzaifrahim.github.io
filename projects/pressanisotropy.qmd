@@ -3,54 +3,98 @@ title: "Shear-Induced Pressure Anisotropy in Granular Flows of Nonspherical Part
 subtitle: "DEM study in a linear split-bottom shear cell (MercuryDPM)"
 ---
 
-## Overview
+## Key insight
 
-This project investigates how **particle shape** and **interparticle friction** control the development of a **shear-induced pressure difference** in dense granular flows. Using DEM simulations in a **linear split-bottom shear cell**, I show that elongated particles develop a localized pressure increase inside the shear band, while spherical particles maintain an almost uniform pressure field.
+Particle shape fundamentally changes how stress is distributed in granular flow:
 
-The work is available on arXiv and is currently under review at *Physical Review E*.
+- **Spherical particles (AR = 1)** → nearly uniform and isotropic pressure field  
+- **Elongated particles (AR = 5)** → localized pressure increase inside the shear band  
+
+This pressure buildup is driven by:
+
+- **Shear-induced alignment** → particles orient with flow  
+- **Packing density increase** → reduced void space  
+- **Normal stress anisotropy** → σyy, σzz > σxx  
+
+The result is a **localized pressure peak** — a granular analogue of normal-stress-driven effects.
 
 ---
 
-## Key contributions
+## System (visual)
 
-- Demonstrated a **localized pressure increase** inside the shear band for elongated particles under steady shear.
-- Quantified the link between **particle alignment**, **packing density increase**, and **normal stress anisotropy**. 
-- Compared elongated particles (AR = 5) and spheres (AR = 1) over a wide friction range µ ∈ [0.01, 0.8]. 
-- Interpreted the observed behavior as a granular analogue of the **Weissenberg effect** (normal-stress-driven pressure gradients).
+![](../media/LSC2.gif){width=300 style="display:block; margin:auto;"}
+
+<p style="text-align:center; font-size:0.9em;">
+Linear split-bottom shear cell with nonspherical particles (DEM simulation).  
+<a href="../videos.html">See full simulations →</a>
+</p>
+
+This work is available as a preprint and is under review at *Physical Review E*.  
+[arXiv](https://doi.org/10.48550/arXiv.2512.11157)
+
+---
+
+## What I did
+
+- Performed DEM simulations comparing **spheres (AR = 1)** and **elongated particles (AR = 5)**  
+- Computed coarse-grained **pressure and stress tensor fields** in the y–z plane  
+- Quantified the relationship between **alignment, packing density, and stress anisotropy**  
+- Systematically varied friction (µ = 0.01–0.8) to study shear-band localization  
 
 ---
 
 ## Methods & tools
 
-- **Simulation:** Discrete Element Method (MercuryDPM), Hertz–Mindlin viscoelastic contact model.
-- **Geometry:** linear split-bottom shear cell (LSC), periodic boundary in the flow direction.
-- **Shear driving:** two L-shaped walls moving at ±V0/2 (V0 = 0.038 m/s).
+- **Simulation:** MercuryDPM (DEM), Hertz–Mindlin viscoelastic contact model  
+- **Geometry:** linear split-bottom shear cell (LSC), periodic in flow direction  
+- **Driving:** two L-shaped walls moving at ±V₀/2 (V₀ = 0.038 m/s)  
 - **Particles:**
-  - spheres (AR = 1)
-  - elongated multisphere particles (AR = 5, chain of five non-overlapping spheres) 
-- **System size:** (Lx, Ly, Lz) = (25, 25, 20) dp, with N ≈ 4500 particles and ±20% size polydispersity.
-- **Parameter range:** friction coefficient µ = 0.01–0.8.
-- **Post-processing:** coarse-grained fields in the y–z plane, averaged in x and over steady-state time windows, using MercuryCG.
+  - spheres (AR = 1)  
+  - elongated multisphere particles (AR = 5)  
+- **System size:** (Lx, Ly, Lz) = (25, 25, 20) dp, N ≈ 4500, ±20% polydispersity  
+- **Parameter range:** friction coefficient µ = 0.01–0.8  
+- **Post-processing:** coarse-graining via `MercuryCG`, averaged in x and steady state  
 
 ---
 
-## Results (selected)
+## Key results
 
-### Elongated particles develop a shear-induced pressure peak
+### 1. Elongated particles generate a pressure peak
 
-For elongated particles (AR = 5), the pressure is nearly uniform before shearing. Under steady shear, the pressure becomes **higher inside the shear band** than in the surrounding bulk. This pressure difference persists across the bulk depth and is spatially localized around y = 0.
+- Pressure becomes **higher inside the shear band** than in the bulk  
+- The pressure field localizes around the split region (y = 0)  
 
-### Spherical particles remain nearly isotropic
+---
 
-For spherical particles (AR = 1), the pressure remains nearly uniform across the shear cell both before and after shearing, and the stress components remain close to isotropic. :contentReference[oaicite:13]{index=13}
+### 2. Spheres remain nearly isotropic
 
-### Mechanism: alignment → higher packing density → higher normal stresses
+- Pressure stays **uniform across the domain**  
+- Stress components remain close to isotropic  
 
-Inside the shear band, elongated particles align strongly with the shear direction. This alignment reduces interparticle gaps, increases packing density, and produces larger lateral and vertical normal stresses (σyy and σzz) compared to σxx. The result in a large pressure inside the shear band.  
+---
 
-### Friction controls localization
+### 3. Mechanism: alignment → compaction → stress anisotropy
 
-At low friction (µ ≈ 0.01), the shear band is wide and the pressure is nearly uniform across y. As friction increases, the shear band narrows and stress localizes, producing a stronger pressure peak inside the shear band.
+- Particles align with the shear direction  
+- Alignment reduces void space → **higher packing density**  
+- Increased contact forces produce **σyy, σzz > σxx**  
+- This leads to a localized pressure increase  
+
+---
+
+### 4. Friction controls localization
+
+- **Low friction (µ ≈ 0.01)** → wide shear band, weak pressure variation  
+- **High friction (µ ≈ 0.8)** → narrow shear band, strong pressure localization  
+
+---
+
+## Takeaway
+
+Particle shape does not only affect structure —  
+it fundamentally changes how stress is transmitted in granular flow.
+
+This work shows how **alignment-driven packing and stress anisotropy generate localized pressure fields under shear**.
 
 ---
 
@@ -60,13 +104,11 @@ At low friction (µ ≈ 0.01), the shear band is wide and the pressure is nearly
 
 ---
 
-## Preprint
+## Publication
 
-- H. Rahim, S. Roy, and T. Pöschel, *Shear-induced pressure anisotropy in granular materials of nonspherical particles*. (arXiv: [Link](https://doi.org/10.48550/arXiv.2512.11157))
+H. Rahim, S. Roy, and T. Pöschel  
+*Shear-induced pressure anisotropy in granular materials of nonspherical particles*  
+**Under review, Physical Review E**  
+[arXiv](https://doi.org/10.48550/arXiv.2512.11157)
 
 ---
-
-## Code & reproducibility
-
-- GitHub (simulation scripts): ADD LINK
-- GitHub (post-processing): ADD LINK
