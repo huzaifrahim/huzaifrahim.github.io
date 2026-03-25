@@ -207,7 +207,7 @@ This extracted surface can be used to compute surface profiles and global measur
 </div>
 
 <!-- 11 -->
-### Dilatancy-induced surface deformation in dense cohesive granular media (DEM)
+### Dilatancy-induced heap formation in dense cohesive granular media (DEM)
 
 Cohesion is introduced via liquid bridges between particles. In the cohesive case, dilatancy in the shear band leads to surface elevation and heap formation. Without cohesion, the surface remains nearly flat.
 
