@@ -103,6 +103,6 @@ This work shows how **analytical methods can predict not only when patterns form
 H. Rahim, N. Iqbal, C. Cong, and Z. Ding  
 *Pattern selection of three components Gray–Scott model*  
 **Journal of Physics: Conference Series (2019)**  
-[DOI](https://doi.org/10.1088/1742-6596/1324/1/012012)
+[DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012012/pdf)
 
 ---

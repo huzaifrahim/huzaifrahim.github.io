@@ -113,4 +113,4 @@ This work shows how **microscopic alignment mechanisms translate into macroscopi
 H. Rahim, S. Roy, and T. Pöschel  
 *Impact of friction and grain shape on the morphology of sheared granular media*  
 **Physical Review Fluids (2026)**  
-[DOI](https://doi.org/10.1103/z1rz-b4j6)
+[DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)

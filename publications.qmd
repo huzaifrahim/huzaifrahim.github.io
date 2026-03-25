@@ -28,7 +28,7 @@ toc: false
 5. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
    *Shear-Induced Pressure Anisotropy in Shape- Anisotropic Granular Media.*  
    **(Submitted)**, 2025  
-   [arXiv](https://doi.org/10.48550/arXiv.2512.11157) · [Preprint](https://arxiv.org/pdf/2512.11157)
+   [arXiv](https://doi.org/10.48550/arXiv.2512.11157)
 
 ---
 
