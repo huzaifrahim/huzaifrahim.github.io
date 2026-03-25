@@ -34,6 +34,14 @@ title: Experience
 - Implemented object recognition and selection logic based on geometric and color attributes.  
 - Automated the full pick-and-place workflow for structured pattern generation.  
 
+---
+
+## Media
+
+- ▶️ Video: [Watch on the Videos page](../videos.qmd)
+
+---
+
 **Seminar Supervisor — CEP Advanced Seminar**
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
