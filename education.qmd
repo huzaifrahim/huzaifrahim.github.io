@@ -2,13 +2,14 @@
 title: Education
 ---
 
-## PhD
+## Doctoral Studies
 
-**PhD Researcher (Dr.-Ing. candidate) — Computational Physics (2022–Present; thesis submitted)**  
+**PhD in Computational Physics (2022–Present; thesis submitted)**  
 **Institute for Multiscale Simulation, FAU Erlangen–Nürnberg**, Erlangen, Germany  
+(Dr.-Ing. candidate)
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles*  
-**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
+**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel   
 
 **Research focus:**  
 - Studied shear-induced deformation and surface evolution in dense granular materials using DEM.  
