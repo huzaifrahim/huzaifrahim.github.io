@@ -90,43 +90,55 @@ I also study pattern formation in complex systems, including reaction–diffusio
 <div style="display: flex; flex-direction: column; gap: 30px; margin-bottom: 40px;">
 
   <div style="display: flex; gap: 20px; justify-content: flex-start;">
-    <div style="width: 230px;">
-      <img src="media/CSC1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (empty).</em></p>
+    <div class="sim-grid">
+
+      <div class="sim-item">
+        <img src="media/CSC1.gif">
+        <p><em>Split-bottom shear cell (empty).</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/CSC2.gif">
+        <p><em>Split-bottom shear cell (with clump particles).</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/LSC1.gif">
+        <p><em>Linear shear cell (empty).</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/LSC2.gif">
+        <p><em>Linear shear cell (with clump particles).</em></p>
+      </div>
+
     </div>
-    <div style="width: 230px;">
-      <img src="media/CSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Split-bottom shear cell (with clump particles).</em></p>
-    </div>
-    <div style="width: 230px;">
-      <img src="media/LSC1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (empty).</em></p>
-    </div>
-    <div style="width: 230px;">
-      <img src="media/LSC2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Linear shear cell (with clump particles).</em></p>
-    </div>
-  </div>
 
   <div style="display: flex; gap: 20px; justify-content: flex-start;">
-    <div style="width: 230px;">
-      <img src="media/RDS1.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set A.</em></p>
+  
+    <div class="sim-grid">
+
+      <div class="sim-item">
+        <img src="media/RDS1.gif">
+        <p><em>Reaction–diffusion — set A.</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/RDS2.gif">
+        <p><em>Reaction–diffusion — set B.</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/RDS3.gif">
+        <p><em>Reaction–diffusion — set C.</em></p>
+      </div>
+
+      <div class="sim-item">
+        <img src="media/RDS4.gif">
+        <p><em>Reaction–diffusion — set D.</em></p>
+      </div>
+
     </div>
-    <div style="width: 230px;">
-      <img src="media/RDS2.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set B.</em></p>
-    </div>
-    <div style="width: 230px;">
-      <img src="media/RDS3.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set C.</em></p>
-    </div>
-    <div style="width: 230px;">
-      <img src="media/RDS4.gif" style="width:100%; height:160px; object-fit:contain; background:white; border-radius:16px; box-shadow:0 6px 18px rgba(0,0,0,0.15); display:block;">
-      <p style="margin-top:10px; font-size: 0.9em; text-align: left;"><em>Reaction–diffusion — set D.</em></p>
-    </div>
-  </div>
-</div>
 
 ```
 </div>
