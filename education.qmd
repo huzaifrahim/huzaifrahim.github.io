@@ -9,15 +9,14 @@ title: Education
 (Dr.-Ing. candidate)
 
 **Dissertation:** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles*  
-**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel   
+**Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
 
-**Research focus:**  
-- Investigated shear-induced deformation and surface evolution in dense granular materials using DEM.  
-- Quantified stress fields, shear localization, and volumetric response via coarse-graining.  
-- Developed and extended simulation code in C++ and Python.  
-- Automated simulation and post-processing workflows using Bash and Python on Linux-based HPC systems.  
-- Performed statistical analysis, data fitting, and visualization of large-scale simulation data.  
-- Applied image processing (binarization, pixel-density analysis) to quantify surface morphology.   
+**Research focus:**
+- DEM simulations of dense granular flow and shear-induced surface evolution  
+- Quantification of stress, shear localization, and volumetric response via coarse-graining  
+- Development of simulation and analysis tools (C++, Python)  
+- Automated workflows and large-scale data processing on Linux/HPC systems  
+- Statistical analysis, visualization, and image-based surface characterization  
 
 ---
 
@@ -26,19 +25,20 @@ title: Education
 **M.S. Physics (2016–2019)**  
 **University of Science and Technology of China (USTC)**, Hefei, China  
 **GPA:** 3.3/4.0  
-**Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*  
-**Supervisor:** Prof. Ding Zejun 
 
-**Research focus:**  
-- Analytical and numerical modeling of nonlinear reaction–diffusion systems.  
-- Derived instability conditions using bifurcation and stability analysis.  
-- Implemented PDE simulations in C++ to study stripe, spot, and mixed pattern formation.  
-- Performed analytical computation, data analysis, and visualization in MATLAB and Mathematica.  
+**Dissertation:** *Analysis of Turing Patterns in Three-Component Reaction–Diffusion System*  
+**Supervisor:** Prof. Ding Zejun  
+
+**Research focus:**
+- Analytical and numerical modeling of nonlinear reaction–diffusion systems  
+- Stability and bifurcation analysis of diffusion-driven instabilities  
+- PDE simulations (C++) for stripe, spot, and mixed pattern formation  
+- Data analysis and visualization using MATLAB and Mathematica  
 
 ---
 
 **M.Sc. Physics (With Distinction) (2010–2013)**  
-**University of Peshawar**, KP, Pakistan
+**University of Peshawar**, KP, Pakistan  
 
 **Project:** *Theoretical Study of Reverse Compton Effect*
 
@@ -47,50 +47,46 @@ title: Education
 ## Bachelor’s Degree
 
 **B.Sc. (With Distinction) — Physics, Mathematics, Electronics (2008–2010)**  
-**University of Peshawar**, Pakistan
+**University of Peshawar**, Pakistan  
 
-- Coursework: applied electronics, signal processing, network analysis, electronic communication
+- Coursework: electronics, signal processing, communication systems  
 
 ---
 
 ## Additional Training & Certifications
 
 **Intensive German Integration Course (BAMF) (2025–2026)**  
-**bfz GmbH**, Erlangen, Germany
-
-- Full-time language and orientation program  
-- Level: B1-B2
+**bfz GmbH**, Erlangen, Germany  
+- Full-time language and orientation program (B1–B2)  
 
 ---
 
 **Chinese Language Certification (With Distinction) (2015–2016)**  
-**Anhui Normal University**, Wuhu, PR China 
-
-- Full-time language and orientation program  
-- Level: HSK4
+**Anhui Normal University**, Wuhu, PR China  
+- Full-time language program (HSK4)  
 
 ---
 
 **Diploma in Computer Science (2006–2007)**  
-**Frontier College of Information Technology**, Charsadda, KP, Pakistan
+**Frontier College of Information Technology**, Charsadda, KP, Pakistan  
 
 ---
 
 ### Certificates (selected)
 
-- **C++ Software Design** — Erlangen National High Performance Computing (HPC) Center, FAU Germany  
+- **C++ Software Design** — Erlangen National High Performance Computing (HPC) Center, FAU  
 - **Computers, Waves, Simulations: Numerical Methods Using Python** — LMU / Coursera  
 - **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera  
-- **Numerical Methods for Engineers** — HKUST / Coursera (Prof. Jeffrey Chasnov)
+- **Numerical Methods for Engineers** — HKUST / Coursera  
 
 <details>
 <summary><strong>More certificates</strong></summary>
 
-- Python Data Structures — University of Michigan / Coursera (Prof. Charles Severance)  
+- Python Data Structures — University of Michigan / Coursera  
 - Python for Data Science, AI & Development — IBM / Coursera  
 - Computational Physics: Scientific Programming with Python — Udemy  
 - C++ Professional Course & Python for Data Science — SoloLearn  
-- AI for Everyone — DeepLearning.AI / Coursera (Andrew Ng)  
+- AI for Everyone — DeepLearning.AI / Coursera  
 - Introduction to Project Management — IBM / Coursera  
 
 </details>
