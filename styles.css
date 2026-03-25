@@ -293,8 +293,21 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Slightly larger intro text */
 .hero-section p {
-  font-size: 1.02rem;
-  line-height: 1.7;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #2c3e50;
+  max-width: 60ch;
+}
+
+.hero-section strong {
+  font-weight: 700;
+  color: var(--heading);
+}
+
+.hero-section h2 {
+  font-size: 1.8rem;
+  font-weight: 800;
+  line-height: 1.25;
 }
 
 /* =========================
