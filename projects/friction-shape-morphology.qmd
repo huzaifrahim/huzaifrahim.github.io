@@ -3,20 +3,41 @@ title: "Impact of friction and grain shape on the morphology of sheared granular
 subtitle: "DEM simulations in a linear split-bottom shear cell (MercuryDPM)"
 ---
 
-## Overview
+## Key insight
 
-This project investigates how **particle friction** and **grain shape** control the steady-state structure of dense granular flows under shear. Using DEM simulations in a **linear split-bottom shear cell**, I quantified the competition between **alignment-driven compaction** and **friction-driven dilatancy**, and linked these microscopic mechanisms to macroscopic surface morphology.
+Sheared granular materials behave fundamentally differently depending on particle shape:
+
+- **Spherical particles** → no surface deformation  
+- **Elongated particles** → develop a pronounced surface depression  
+
+This transition is governed by a competition between:
+
+- **Alignment-driven compaction** (dominant at low friction)  
+- **Friction-driven dilatancy** (dominant at high friction)  
+
+Using DEM simulations, I show how these microscopic mechanisms directly control **shear-band structure** and **free-surface morphology**.
+
+---
+
+## System (visual)
+
+![](../media/CSC2.gif){width=420 style="display:block; margin:auto;"}
+
+<p style="text-align:center; font-size:0.9em;">
+Linear split-bottom shear cell with elongated particles (DEM simulation).  
+<a href="../videos.html">See full simulations →</a>
+</p>
 
 This work is published in *Physical Review Fluids* (2026), [DOI](https://doi.org/10.1103/z1rz-b4j6).
 
 ---
 
-## Key contributions
+## What I did
 
-- Performed DEM simulation of **spheres and elongated particles** (aspect ratio AR = 1–5) under controlled shear.
-- Quantified steady-state macroscopic fields using coarse graining (packing density, velocity, stress).
-- Measured particle alignment inside the shear band using orientation statistics and the nematic order parameter **S**.
-- Connected friction-dependent alignment and stress localization to the observed **surface depressions** above the shear band.
+- Built DEM simulations of **spheres and elongated particles** (AR = 1–5) in a linear split-bottom shear cell  
+- Computed continuum fields (density, velocity, stress tensor) using coarse-graining  
+- Quantified particle alignment inside the shear band using orientation statistics and nematic order parameter **S**  
+- Systematically varied friction (µ = 0.01–0.8) to isolate its effect on alignment, stress, and surface morphology  
 
 ---
 
@@ -26,32 +47,60 @@ This work is published in *Physical Review Fluids* (2026), [DOI](https://doi.org
 - **Geometry:** linear split-bottom shear cell with periodic boundary conditions in the flow direction.
 - **Particles:** spheres (AR = 1) and stick-shaped grains built from connected spheres (AR = 2–5).
 - **Parameter range:** friction coefficient µ = 0.01–0.8; aspect ratio AR = 1–5.
-- **Post-processing:** coarse-graining via `MercuryCG`, analysis and plotting in Python / MATLABS.
+- **Post-processing:** coarse-graining via `MercuryCG`, analysis and plotting in Python / MATLAB.
 
 ---
 
-## Results (selected)
+## Key results
 
-### Surface morphology depends strongly on shape
+### 1. Shape controls surface morphology
 
-- For **spherical particles**, the surface profile above the shear band remains flat for all studied friction values.
-- For **elongated particles**, shear induces a surface depression above the shear band due to alignment-driven compaction.
+- **Spheres (AR = 1)** → flat surface  
+- **Elongated particles (AR > 1)** → clear surface depression  
 
-### Friction reduces alignment inside the shear band
+This shows that particle geometry alone can fundamentally change macroscopic behavior.
 
-- The nematic order parameter decreases with friction:
-  - **S ≈ 0.8** at µ = 0.01  
-  - **S ≈ 0.4** at µ = 0.8 :contentReference[oaicite:12]{index=12}
-- The mean orientation angle increases from approximately **0.12π → 0.23π**, indicating weaker alignment at higher friction. :contentReference[oaicite:13]{index=13}
+---
 
-### Alignment-driven compaction vs friction-driven dilatancy
+### 2. Friction weakens alignment
 
-The simulations show two competing effects inside the shear band:
+- Strong alignment at low friction → **S ≈ 0.8**
+- Reduced alignment at high friction → **S ≈ 0.4**
 
-- **Alignment** increases packing density and drives compaction.
-- **Dilatancy** decreases packing density and becomes more pronounced at higher friction.
+Higher friction disrupts particle ordering inside the shear band.
 
-This explains why the depression becomes **localized** at high friction and **broad** at low friction due to changes in shear-band width and stress localization.
+---
+
+### 3. Competing mechanisms inside the shear band
+
+Two mechanisms control the system:
+
+- **Alignment → compaction (density increases)**
+- **Dilatancy → expansion (density decreases)**
+
+- Low friction → alignment dominates → broader depression  
+- High friction → dilatancy dominates → localized deformation  
+
+---
+
+### 4. Key physical insight
+
+Surface morphology is not random — it directly emerges from:
+
+- particle shape  
+- friction  
+- shear-induced alignment  
+
+This links **microscopic particle physics → macroscopic flow behavior**.  
+
+---
+
+## Takeaway
+
+Particle shape and friction do not just modify granular flow —  
+they fundamentally determine how shear is localized and how the free surface evolves.
+
+This work shows how **microscopic alignment mechanisms translate into macroscopic morphology**.
 
 ---
 
@@ -59,5 +108,9 @@ This explains why the depression becomes **localized** at high friction and **br
 
 - ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
 
-## Journal Article
- - H. Rahim, S. Roy, and T. Pöschel, Impact of friction and grain shape on the morphology of sheared granular media, Physical Review Fluids (2026). [DOI](https://doi.org/10.1103/z1rz-b4j6).
+## Publication
+
+H. Rahim, S. Roy, and T. Pöschel  
+*Impact of friction and grain shape on the morphology of sheared granular media*  
+**Physical Review Fluids (2026)**  
+[DOI](https://doi.org/10.1103/z1rz-b4j6)
