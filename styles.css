@@ -474,7 +474,7 @@ p {
 .hero-specialization {
   font-size: 1.15rem;
   font-weight: 600;
-  color: var(--accent);
+  color: var(--accent) !important;
 
   margin: 8px 0 14px 0;
 }
