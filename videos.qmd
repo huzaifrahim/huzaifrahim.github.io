@@ -187,6 +187,7 @@ Here, **0°/180° = parallel to shear**, while **90° = perpendicular (misaligne
     allowfullscreen>
   </iframe>
 </div>
+
 ---
 
 <!-- 10 -->
@@ -206,6 +207,10 @@ This extracted surface can be used to compute surface profiles and global measur
   </iframe>
 </div>
 
+
+---
+
+
 <!-- 11 -->
 ### Dilatancy-induced heap formation in dense cohesive granular media (DEM)
 
@@ -221,6 +226,10 @@ Cohesion is introduced via liquid bridges between particles. In the cohesive cas
     allowfullscreen>
   </iframe>
 </div>
+
+
+---
+
 
 <!-- 12 -->
 ### Robotic Arm Pattern Formation (Yin–Yang Mosaic) | Python Automation (students project)
@@ -243,6 +252,8 @@ The outlet was sealed to prevent air leakage, ensuring consistent holding force 
   </iframe>
 </div>
 
+
+---
 
 <!--
 ### Pressure anisotropy visualization
