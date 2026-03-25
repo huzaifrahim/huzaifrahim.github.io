@@ -30,8 +30,8 @@ Linear split-bottom shear cell with cohesive granular material (DEM simulation).
 <a href="../videos.html">See full simulations →</a>
 </p>
 
-This work is available as a preprint and is under review at *Physics of Fluids*.  
-[DOI](https://doi.org/10.48550/arXiv.2601.01172)
+This work is published in *Physics of Fluids (2026)*  
+[DOI](https://doi.org/10.1063/5.0320862) · [Preprint](https://doi.org/10.48550/arXiv.2601.01172)
 
 ---
 
@@ -114,7 +114,7 @@ This work shows that **heap formation emerges from the interplay between capilla
 
 H. Rahim, T. Pöschel, and S. Roy  
 *Dilatancy-induced heap formation in dense cohesive granular media*  
-**Physics of Fluids (under review, 2026)**  
+**Physics of Fluids (2026)**  
 [DOI](https://doi.org/10.1063/5.0320862) · [Preprint](https://arxiv.org/pdf/2601.01172)
 
 ---
