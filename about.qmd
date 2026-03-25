@@ -21,7 +21,7 @@ I combine large-scale DEM simulations with **coarse-graining and micro–macro a
 
 I develop and analyze high-resolution simulations of sheared granular systems, connecting particle-scale dynamics to continuum-scale behavior.
 
-My work includes:
+My work includes analysis of:
 
 - Shear-band formation and localization  
 - Particle alignment and stress anisotropy  
