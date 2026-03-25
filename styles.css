@@ -523,3 +523,12 @@ p {
 #quarto-header .navbar .quarto-navbar-tools {
   margin-right: calc((100% - 960px) / 2 + 14px) !important;
 }
+
+/* ===== FINAL NAV ALIGN (SIMPLE FIX) ===== */
+
+#quarto-header .navbar .container-fluid {
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+}
