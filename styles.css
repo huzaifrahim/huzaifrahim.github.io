@@ -513,3 +513,10 @@ p {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
+
+/* ===== FINAL NAV ALIGN FIX ===== */
+
+#quarto-header .navbar {
+  padding-left: calc((100% - 960px) / 2 + 14px) !important;
+  padding-right: calc((100% - 960px) / 2 + 14px) !important;
+}
