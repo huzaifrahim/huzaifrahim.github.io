@@ -34,14 +34,16 @@ title: Experience
 - Implemented object recognition and selection logic based on geometric and color attributes.  
 - Automated the full pick-and-place workflow for structured pattern generation.  
 
-## Media
-
-- ▶️ Video: [Watch on the Videos page](../videos.qmd)
 
 **Seminar Supervisor — CEP Advanced Seminar**
 **FAU Erlangen-Nürnberg**, Germany — **2024**
 
 - Supervised a student group on a literature review of the Weissenberg effect in viscoelastic fluids and mentored them in scientific writing and presentation.
+
+## Media
+
+- ▶️ Video: [Watch on the Videos page](../videos.qmd)
+
 
 ---
 
