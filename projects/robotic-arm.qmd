@@ -1,0 +1,71 @@
+---
+title: "Robotic Arm Pattern Formation"
+subtitle: "Python-controlled pick-and-place system for particle assembly"
+---
+
+## Key insight
+
+Automated manipulation of discrete particles requires reliable control of:
+
+- positioning  
+- gripping  
+- placement accuracy  
+
+This project demonstrates a simple and robust system for **automated particle assembly using a robotic arm**.
+
+---
+
+## System
+
+- Robotic arm with vacuum end-effector  
+- Python-controlled pick-and-place sequence  
+- Target: generate predefined patterns from individual particles  
+
+---
+
+## What I did
+
+- Developed Python control logic for robotic arm motion  
+- Implemented pick-and-place pipeline using suction-based gripping  
+- Generated structured patterns (e.g., Yin–Yang)  
+- Tested system on spherical and irregular particles  
+
+---
+
+## Methods & tools
+
+- **Control:** Python-based command pipeline  
+- **Actuation:** vacuum suction gripping system  
+- **Task:** discrete particle manipulation and placement  
+
+---
+
+## Key results
+
+### 1. Stable particle manipulation
+
+- Reliable pick-and-place using pressure-based gripping  
+
+---
+
+### 2. Pattern generation
+
+- Successfully reproduced predefined geometric patterns  
+
+---
+
+### 3. Generality
+
+- System works for both regular and irregular particle shapes  
+
+---
+
+## Takeaway
+
+This project shows how simple control systems can enable **automated manipulation of discrete particles**, bridging simulation and physical systems.
+
+---
+
+## Media
+
+- ▶️ Demonstration video: [Watch on the Videos page](../videos.qmd)

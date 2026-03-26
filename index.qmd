@@ -151,15 +151,15 @@ I also study pattern formation in complex systems, including reaction–diffusio
 </div>
 
 <div class="project-card">
-<h3>Pattern selection in a three-component Gray–Scott model (2019)</h3>
-<p>Analytical study of diffusion-driven instability and pattern formation in a reaction–diffusion system.</p>
-<p><a href="./projects/grayscott.qmd">Read more →</a></p>
-</div>
-
-<div class="project-card">
 <h3>Physics-Based Sensor Fusion & Motion Estimation</h3>
 <p>Kalman filter-based state estimation using noisy accelerometer and GPS data, demonstrating multi-sensor fusion and error reduction.</p>
 <p><a href="./projects/sensor-fusion.qmd">Read more →</a></p>
+</div>
+
+<div class="project-card">
+<h3>Robotic Arm Pattern Formation (Python Automation)</h3>
+<p>Python-controlled pick-and-place system for automated particle assembly using a vacuum-based robotic gripper.</p>
+<p><a href="./projects/robotic-arm.qmd">Read more →</a></p>
 </div>
 
 </div>

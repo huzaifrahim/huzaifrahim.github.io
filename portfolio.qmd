@@ -80,3 +80,14 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 [GitHub →](https://github.com/huzaifrahim/physics_sensor_fusion) · [Read more →](./projects/sensor-fusion.qmd)
 
 ---
+
+## Robotic Arm Pattern Formation (Python Automation)
+
+**Automated pick-and-place system for particle arrangement using a robotic arm**
+
+- Developed Python control pipeline for automated positioning  
+- Implemented vacuum-based gripping system for particle handling  
+- Generated predefined patterns (e.g., Yin–Yang) from discrete elements  
+- Demonstrated stable manipulation of both spherical and irregular particles  
+
+[Read more →](./projects/robotic-arm.qmd)
