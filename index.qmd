@@ -152,7 +152,7 @@ I also study pattern formation in complex systems, including reaction–diffusio
 
 <div class="project-card">
 <h3>Sensor Fusion for Accurate Motion Tracking</h3>
-<p>Kalman filter-based state estimation using noisy accelerometer and GPS data, demonstrating multi-sensor fusion and error reduction.</p>
+<p>How do you track motion with noisy sensors? A Kalman filter fuses GPS and accelerometer data into a stable, accurate trajectory.</p>
 <p><a href="./projects/sensor-fusion.qmd">Read more →</a></p>
 </div>
 
