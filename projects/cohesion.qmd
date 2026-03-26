@@ -92,7 +92,19 @@ This work shows that **heap formation emerges from the interplay between capilla
 
 ## Media
 
-- ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/IN8LwHz6eWg?si=Izo2yN6LDUdPF9I6"
+    title="Heap formation in cohesive granular flow (DEM, MercuryDPM)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+- ▶️ More videos: [Watch on the Videos page](../videos.qmd)
 
 ---
 
