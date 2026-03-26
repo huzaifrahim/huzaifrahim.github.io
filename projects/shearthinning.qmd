@@ -108,10 +108,9 @@ This work shows how **microstructural evolution controls both compaction and she
   </iframe>
 </div>
 
-
-
-
-- ▶️ More videos: [Watch on the Videos page](../videos.qmd)
+<p style="margin-top:12px;">
+<a href="../videos.html">▶️ View more simulations →</a>
+</p>
 
 ---
 
