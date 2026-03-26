@@ -157,9 +157,9 @@ I also study pattern formation in complex systems, including reaction–diffusio
 </div>
 
 <div class="project-card">
-<h3>Robotic arm pattern formation (Python automation)</h3>
-<p>Python-controlled pick-and-place system for automated particle assembly using a vacuum-based robotic gripper.</p>
-<p><a href="./projects/robotic-arm.qmd">Read more →</a></p>
+  <h3>Teaching a robot to build patterns</h3>
+  <p>A robot that picks up particles, moves them, and places them to form structured patterns.</p>
+  <p><a href="./projects/robotic-arm.qmd">Read more →</a></p>
 </div>
 
 </div>

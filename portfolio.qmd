@@ -81,13 +81,14 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 
 ---
 
-## Robotic Arm Pattern Formation (Python Automation)
+## Teaching a Robot to Build Patterns
 
-**Automated pick-and-place system for particle arrangement using a robotic arm**
+**A robot that picks, moves, and places particles to form structured designs**
 
-- Developed Python control pipeline for automated positioning  
-- Implemented vacuum-based gripping system for particle handling  
-- Generated predefined patterns (e.g., Yin–Yang) from discrete elements  
-- Demonstrated stable manipulation of both spherical and irregular particles  
+- Programmed robotic arm for precise positioning  
+- Built a pick-and-place loop (detect → pick → move → place)  
+- Used vacuum suction for reliable gripping  
+- Generated patterns (e.g., Yin–Yang) from discrete particles  
+- Works with both spherical and irregular shapes  
 
 [Read more →](./projects/robotic-arm.qmd)
