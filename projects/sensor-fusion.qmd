@@ -1,20 +1,16 @@
 ---
-title: "Physics-Based Sensor Fusion & Motion Estimation"
+title: "Sensor Fusion & Motion Estimation"
 subtitle: "Kalman filter state estimation with noisy multi-rate sensors (Python)"
 ---
 
 ## Key insight
 
-Accurate motion estimation requires combining multiple sensors:
+Estimating motion from real sensors is difficult:
 
 - **Accelerometer** → high-frequency but noisy and drifting  
 - **GPS** → accurate but low-rate and noisy  
 
-A Kalman filter combines both to:
-
-- reduce estimation error  
-- handle uncertainty explicitly  
-- reconstruct smooth and reliable trajectories  
+A Kalman filter combines both to recover a **stable and accurate trajectory**.
 
 ---
 
@@ -23,7 +19,7 @@ A Kalman filter combines both to:
 Simulated 2D motion with:
 
 - ground-truth trajectory  
-- noisy accelerometer measurements  
+- noisy accelerometer data  
 - low-rate GPS updates  
 
 A discrete-time **state-space model** estimates:
@@ -37,42 +33,38 @@ using recursive Kalman filtering.
 
 ## What I did
 
-- Designed a modular Python system for motion simulation and sensor fusion  
+- Built a modular Python system for motion simulation and sensor fusion  
 - Implemented discrete-time state-space model and Kalman filter  
 - Simulated realistic sensor noise and multi-rate measurements  
 - Evaluated estimation accuracy using RMSE  
-- Structured project with modular components (models, sensors, filters, simulation)  
 
 ---
 
 ## Methods & tools
 
 - **Language:** Python  
-- **Core concepts:**  
-  - Kalman filtering  
-  - state-space modeling  
-  - uncertainty propagation  
-- **System design:** modular architecture  
+- **Core:** Kalman filtering, state-space modeling  
+- **Design:** modular architecture  
 - **Evaluation:** trajectory comparison and RMSE  
 
 ---
 
 ## Key results
 
-### 1. Sensor fusion reduces error
+### 1. Reduced estimation error
 
-- Position RMSE reduced by ~20% compared to raw GPS  
-
----
-
-### 2. Smooth trajectory reconstruction
-
-- Noisy signals are filtered into a consistent trajectory  
-- Velocity estimates remain stable  
+- Position RMSE reduced by ~20% vs raw GPS  
 
 ---
 
-### 3. Multi-rate sensor handling
+### 2. Stable trajectory reconstruction
+
+- Noisy measurements filtered into a smooth trajectory  
+- Velocity estimates remain consistent  
+
+---
+
+### 3. Multi-rate sensor fusion
 
 - Combines high-rate accelerometer with low-rate GPS  
 - Handles asynchronous measurements robustly  
@@ -81,7 +73,7 @@ using recursive Kalman filtering.
 
 ## Takeaway
 
-Sensor fusion combines physical models with measurements to estimate hidden system states.
+Sensor fusion combines models with measurements to estimate hidden states.
 
 This project shows how **Kalman filtering improves accuracy and robustness in noisy environments**.
 
@@ -92,14 +84,13 @@ This project shows how **Kalman filtering improves accuracy and robustness in no
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/j2nn5Zy4ILg?si=DXgP2Gsg7t_si-nb"
-    title="Sensor fusion for motion estimation (Kalman filter)"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
+      src="https://www.youtube.com/embed/j2nn5Zy4ILg?si=DXgP2Gsg7t_si-nb"
+      title="Sensor fusion for motion estimation (Kalman filter)"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
   </iframe>
 </div>
-
 
 <br>
 
