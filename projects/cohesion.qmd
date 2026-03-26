@@ -118,3 +118,7 @@ H. Rahim, T. Pöschel, and S. Roy
 [DOI](https://doi.org/10.1063/5.0320862) · [Preprint](https://arxiv.org/pdf/2601.01172)
 
 ---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>
