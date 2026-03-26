@@ -117,7 +117,12 @@ This work shows how **microscopic alignment mechanisms translate into macroscopi
   </iframe>
 </div>
 
-- ▶️ More videos: [Watch on the Videos page](../videos.qmd)
+
+<br>
+
+▶️ [View more simulations →](../videos.html)
+
+---
 
 ## Publication
 
