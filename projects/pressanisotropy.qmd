@@ -112,3 +112,7 @@ H. Rahim, S. Roy, and T. Pöschel
 [arXiv](https://doi.org/10.48550/arXiv.2512.11157)
 
 ---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

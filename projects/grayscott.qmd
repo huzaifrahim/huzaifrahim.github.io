@@ -106,3 +106,7 @@ H. Rahim, N. Iqbal, C. Cong, and Z. Ding
 [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012012/pdf)
 
 ---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

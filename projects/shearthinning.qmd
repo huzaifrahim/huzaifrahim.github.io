@@ -122,3 +122,7 @@ H. Rahim, V. Angelidakis, T. Pöschel, and S. Roy
 [DOI](https://doi.org/10.1103/PhysRevFluids.9.114304) · [Preprint](https://arxiv.org/pdf/2404.11830)
 
 ---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

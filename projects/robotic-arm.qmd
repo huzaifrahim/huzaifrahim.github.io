@@ -82,3 +82,9 @@ This project shows how simple control systems can enable **automated manipulatio
 <br>
 
 ▶️ [View more videos →](../videos.html)  
+
+---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

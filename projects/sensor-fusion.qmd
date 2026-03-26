@@ -110,3 +110,9 @@ This project shows how **Kalman filtering improves accuracy and robustness in no
 ## Code
 
 - GitHub: https://github.com/huzaifrahim/physics_sensor_fusion
+
+---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

@@ -130,3 +130,9 @@ H. Rahim, S. Roy, and T. Pöschel
 *Impact of friction and grain shape on the morphology of sheared granular media*  
 **Physical Review Fluids (2026)**  
 [DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)
+
+---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>
