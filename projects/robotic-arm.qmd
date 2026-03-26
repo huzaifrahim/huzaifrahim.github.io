@@ -1,68 +1,87 @@
 ---
-title: "Robotic Arm Pattern Formation"
-subtitle: "Python-controlled pick-and-place system for particle assembly"
+title: "Teaching a Robot to Build Patterns"
+subtitle: "Autonomous pick-and-place system that assembles particles into structured patterns"
 ---
 
 ## Key insight
 
-Automated manipulation of discrete particles requires reliable control of:
+A robot that builds patterns from individual particles sounds simple — until it has to do it reliably.
 
-- positioning  
-- gripping  
-- placement accuracy  
+Each step must work every time:
 
-This project demonstrates a simple and robust system for **automated particle assembly using a robotic arm**.
+- find the particle  
+- pick it without failure  
+- move precisely  
+- place it exactly where it belongs  
+
+This project turns that sequence into a repeatable, autonomous system.
 
 ---
 
 ## System
 
-- Robotic arm with vacuum end-effector  
-- Python-controlled pick-and-place sequence  
-- Target: generate predefined patterns from individual particles  
+- Robotic arm with vacuum suction end-effector  
+- Python control pipeline for motion and sequencing  
+- Color-based particle detection  
+- Goal: assemble predefined patterns from individual particles  
 
 ---
 
 ## What I did
 
-- Developed Python control logic for robotic arm motion  
-- Implemented pick-and-place pipeline using suction-based gripping  
-- Generated structured patterns (e.g., Yin–Yang)  
-- Tested system on spherical and irregular particles  
+Built a full pick-and-place loop:
+
+- move to particle location  
+- detect particle (color-based)  
+- activate suction and pick  
+- transport to target position  
+- release suction and place  
+
+On top of this:
+
+- generated structured patterns (e.g., Yin–Yang)  
+- tested with particles of different shapes and sizes  
 
 ---
 
 ## Methods & tools
 
-- **Control:** Python-based command pipeline  
-- **Actuation:** vacuum suction gripping system  
+- **Language:** Python  
+- **Control:** sequential command pipeline  
+- **Gripping:** vacuum suction system  
+- **Perception:** color-based detection  
 - **Task:** discrete particle manipulation and placement  
 
 ---
 
 ## Key results
 
-### 1. Stable particle manipulation
+### 1. Reliable manipulation
 
-- Reliable pick-and-place using pressure-based gripping  
-
----
-
-### 2. Pattern generation
-
-- Successfully reproduced predefined geometric patterns  
+- Consistent pick-and-place across repeated trials  
+- Accurate positioning at target locations  
 
 ---
 
-### 3. Generality
+### 2. Pattern formation
 
-- System works for both regular and irregular particle shapes  
+- Successfully assembled predefined designs  
+- Structure emerges from repeated local actions  
+
+---
+
+### 3. Robust behavior
+
+- Works with both spherical and irregular particles  
+- Handles variation without changing the pipeline  
 
 ---
 
 ## Takeaway
 
-This project shows how simple control systems can enable **automated manipulation of discrete particles**, bridging simulation and physical systems.
+Complex structure does not require complex logic.
+
+With a simple perception–action loop, a robot can reliably pick, place, and build organized patterns from discrete particles.
 
 ---
 
@@ -81,7 +100,7 @@ This project shows how simple control systems can enable **automated manipulatio
 
 <br>
 
-▶️ [View more videos →](../videos.html)  
+▶️ [View more videos →](../videos.html)
 
 ---
 
