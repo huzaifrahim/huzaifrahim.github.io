@@ -151,13 +151,13 @@ I also study pattern formation in complex systems, including reaction–diffusio
 </div>
 
 <div class="project-card">
-<h3>Sensor Fusion for Accurate Motion Tracking</h3>
+<h3>Sensor fusion for accurate motion tracking</h3>
 <p>How do you track motion with noisy sensors? A Kalman filter fuses GPS and accelerometer data into a stable, accurate trajectory.</p>
 <p><a href="./projects/sensor-fusion.qmd">Read more →</a></p>
 </div>
 
 <div class="project-card">
-<h3>Robotic Arm Pattern Formation (Python Automation)</h3>
+<h3>Robotic arm pattern formation (Python automation)</h3>
 <p>Python-controlled pick-and-place system for automated particle assembly using a vacuum-based robotic gripper.</p>
 <p><a href="./projects/robotic-arm.qmd">Read more →</a></p>
 </div>
