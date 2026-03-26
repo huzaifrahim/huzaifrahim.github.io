@@ -252,6 +252,26 @@ The outlet was sealed to prevent air leakage, ensuring consistent holding force 
   </iframe>
 </div>
 
+---
+
+<!-- 13 -->
+### Sensor Fusion for Motion Estimation (Kalman Filter, Python)
+
+Simulation of 2D motion with noisy accelerometer and low-rate GPS measurements.  
+A Kalman filter is used to estimate position and velocity by combining both sensors.
+
+The filtered trajectory is smoother and more accurate than raw measurements, demonstrating how model-based estimation reduces noise and drift.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/j2nn5Zy4ILg?si=DXgP2Gsg7t_si-nb"
+    title="Sensor fusion for motion estimation (Kalman filter)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 

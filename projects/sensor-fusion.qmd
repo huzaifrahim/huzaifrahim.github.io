@@ -1,0 +1,98 @@
+---
+title: "Physics-Based Sensor Fusion & Motion Estimation"
+subtitle: "Kalman filter state estimation with noisy multi-rate sensors (Python)"
+---
+
+## Key insight
+
+Accurate motion estimation requires combining multiple sensors:
+
+- **Accelerometer** → high-frequency but noisy and drifting  
+- **GPS** → accurate but low-rate and noisy  
+
+A Kalman filter combines both to:
+
+- reduce estimation error  
+- handle uncertainty explicitly  
+- reconstruct smooth and reliable trajectories  
+
+---
+
+## System
+
+Simulated 2D motion with:
+
+- ground-truth trajectory  
+- noisy accelerometer measurements  
+- low-rate GPS updates  
+
+A discrete-time **state-space model** estimates:
+
+- position  
+- velocity  
+
+using recursive Kalman filtering.
+
+---
+
+## What I did
+
+- Designed a modular Python system for motion simulation and sensor fusion  
+- Implemented discrete-time state-space model and Kalman filter  
+- Simulated realistic sensor noise and multi-rate measurements  
+- Evaluated estimation accuracy using RMSE  
+- Structured project with modular components (models, sensors, filters, simulation)  
+
+---
+
+## Methods & tools
+
+- **Language:** Python  
+- **Core concepts:**  
+  - Kalman filtering  
+  - state-space modeling  
+  - uncertainty propagation  
+- **System design:** modular architecture  
+- **Evaluation:** trajectory comparison and RMSE  
+
+---
+
+## Key results
+
+### 1. Sensor fusion reduces error
+
+- Position RMSE reduced by ~20% compared to raw GPS  
+
+---
+
+### 2. Smooth trajectory reconstruction
+
+- Noisy signals are filtered into a consistent trajectory  
+- Velocity estimates remain stable  
+
+---
+
+### 3. Multi-rate sensor handling
+
+- Combines high-rate accelerometer with low-rate GPS  
+- Handles asynchronous measurements robustly  
+
+---
+
+## Takeaway
+
+Sensor fusion combines physical models with measurements to estimate hidden system states.
+
+This project shows how **Kalman filtering improves accuracy and robustness in noisy environments**.
+
+---
+
+## Media
+
+- ▶️ Simulation video: [Watch on the Videos page](../videos.qmd)
+
+---
+
+## Code
+
+- GitHub: https://github.com/huzaifrahim/physics_sensor_fusion
