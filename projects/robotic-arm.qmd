@@ -78,3 +78,7 @@ This project shows how simple control systems can enable **automated manipulatio
     allowfullscreen>
   </iframe>
 </div>
+
+<br>
+
+▶️ [View more videos →](../videos.html)  

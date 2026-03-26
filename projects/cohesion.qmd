@@ -104,7 +104,9 @@ This work shows that **heap formation emerges from the interplay between capilla
 </div>
 
 
-- ▶️ More videos: [Watch on the Videos page](../videos.qmd)
+<br>
+
+▶️ [View more simulations →](../videos.html)
 
 ---
 
