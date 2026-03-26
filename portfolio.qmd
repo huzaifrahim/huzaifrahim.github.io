@@ -68,9 +68,9 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 
 ## Applied & Engineering Projects
 
-## Sensor Fusion for Motion Estimation (Kalman Filter)
+## Sensor Fusion for Accurate Motion Tracking
 
-**Kalman filter-based state estimation using noisy multi-rate sensors**
+**Fusing noisy GPS and accelerometer data using a Kalman filter**
 
 - Implemented state-space model and Kalman filter  
 - Fused accelerometer and GPS measurements  

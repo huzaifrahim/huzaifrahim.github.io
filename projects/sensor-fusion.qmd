@@ -1,6 +1,6 @@
 ---
-title: "Sensor Fusion for Motion Estimation (Kalman Filter)"
-subtitle: "Combining noisy GPS and accelerometer data to estimate position and velocity"
+title: "Sensor Fusion for Accurate Motion Tracking"
+subtitle: "Fusing noisy GPS and accelerometer data using a Kalman filter"
 ---
 
 ## Key insight
