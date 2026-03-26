@@ -68,7 +68,7 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 
 ## Applied & Engineering Projects
 
-## Physics-Based Sensor Fusion & Motion Estimation
+## Sensor Fusion for Motion Estimation (Kalman Filter)
 
 **Kalman filter-based state estimation using noisy multi-rate sensors**
 

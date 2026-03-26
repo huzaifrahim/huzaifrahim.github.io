@@ -1,6 +1,6 @@
 ---
-title: "Sensor Fusion & Motion Estimation"
-subtitle: "Kalman filter state estimation with noisy multi-rate sensors (Python)"
+title: "Sensor Fusion for Motion Estimation (Kalman Filter)"
+subtitle: "Combining noisy GPS and accelerometer data to estimate position and velocity"
 ---
 
 ## Key insight
