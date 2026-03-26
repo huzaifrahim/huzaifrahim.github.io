@@ -1,6 +1,6 @@
 ---
 title: "Teaching a Robot to Build Patterns"
-subtitle: "Autonomous pick-and-place system that assembles particles into structured patterns"
+subtitle: "A robot that picks, moves, and places particles to build structured patterns"
 ---
 
 ## Key insight
@@ -14,7 +14,7 @@ Each step must work every time:
 - move precisely  
 - place it exactly where it belongs  
 
-This project turns that sequence into a repeatable, autonomous system.
+This project turns that sequence into a repeatable, autonomous loop.
 
 ---
 
@@ -34,7 +34,7 @@ Built a full pick-and-place loop:
 - move to particle location  
 - detect particle (color-based)  
 - activate suction and pick  
-- transport to target position  
+- move to target position  
 - release suction and place  
 
 On top of this:
@@ -81,7 +81,7 @@ On top of this:
 
 Complex structure does not require complex logic.
 
-With a simple perception–action loop, a robot can reliably pick, place, and build organized patterns from discrete particles.
+With a simple perception–action loop, a robot can reliably pick, move, and place particles to build organized patterns.
 
 ---
 
