@@ -65,3 +65,18 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 [Read more →](./projects/grayscott.qmd)
 
 ---
+
+## Applied & Engineering Projects
+
+## Physics-Based Sensor Fusion & Motion Estimation
+
+**Kalman filter-based state estimation using noisy multi-rate sensors**
+
+- Implemented state-space model and Kalman filter  
+- Fused accelerometer and GPS measurements  
+- Reduced position error by ~20%  
+- Modular Python architecture  
+
+[GitHub →](https://github.com/huzaifrahim/physics_sensor_fusion) · [Read more →](./projects/sensor-fusion.qmd)
+
+---
