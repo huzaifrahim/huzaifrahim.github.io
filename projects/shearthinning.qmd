@@ -108,9 +108,9 @@ This work shows how **microstructural evolution controls both compaction and she
   </iframe>
 </div>
 
-<p style="margin-top:12px;">
-<a href="../videos.html">▶️ View more simulations →</a>
-</p>
+<br>
+
+▶️ [View more simulations →](../videos.html)
 
 ---
 
