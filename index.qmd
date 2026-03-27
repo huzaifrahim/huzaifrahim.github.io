@@ -33,7 +33,7 @@ I am a computational physicist working on dense granular flow and particle-based
 
 Using Discrete Element Method (DEM), I study how particle shape and contact mechanics control, stress distribution, shear localization, dilatancy and compaction, surface morphology, and granular rheology. I extract continuum fields (velocity, strain rate, stress tensor) from particle data using coarse-graining, relating particle-scale interactions to macroscopic behavior.  
 
-I also study pattern formation in reaction–diffusion systems, including Turing and Hopf instabilities, producing stripe and spot patterns seen on animal skin (e.g., zebra stripes).  
+I study pattern formation in reaction–diffusion systems, focusing on mechanisms that create stripe and spot patterns, such as those seen on animal skin (e.g., zebra stripes).  
 
 **Currently:** PhD Researcher (FAU Germany)
 
