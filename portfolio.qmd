@@ -68,6 +68,20 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 
 ## Applied & Engineering Projects
 
+## Teaching a Robot to Build Patterns
+
+**A robot that picks, moves, and places particles to form structured designs**
+
+- Programmed robotic arm for precise positioning  
+- Built a pick-and-place loop (detect → pick → move → place)  
+- Used vacuum suction for reliable gripping  
+- Generated patterns (e.g., Yin–Yang) from discrete particles  
+- Works with both spherical and irregular shapes  
+
+[Read more →](./projects/robotic-arm.qmd)
+
+---
+
 ## Sensor Fusion for Accurate Motion Tracking
 
 **Fusing noisy GPS and accelerometer data using a Kalman filter**
@@ -81,14 +95,15 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 
 ---
 
-## Teaching a Robot to Build Patterns
+## Battery Thermal Digital Twin
 
-**A robot that picks, moves, and places particles to form structured designs**
+**Estimating internal temperature from noisy measurements**
 
-- Programmed robotic arm for precise positioning  
-- Built a pick-and-place loop (detect → pick → move → place)  
-- Used vacuum suction for reliable gripping  
-- Generated patterns (e.g., Yin–Yang) from discrete particles  
-- Works with both spherical and irregular shapes  
+- Simulated battery thermal dynamics (heating + cooling)  
+- Added realistic sensor noise  
+- Built a digital twin for state estimation  
+- Compared threshold and exponential degradation models  
 
-[Read more →](./projects/robotic-arm.qmd)
+[GitHub →](https://github.com/huzaifrahim/battery-digital-twin) · [Read more →](./projects/battery-digital-twin.qmd)
+
+---
