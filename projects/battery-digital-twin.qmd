@@ -62,7 +62,7 @@ You still need the true state.
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    src="https://www.youtube.com/embed/soyWxfZJCjI?si=6_Zt0tjzsqtdTZrS"
     title="Battery Digital Twin Simulation"
     frameborder="0"
     allowfullscreen>
