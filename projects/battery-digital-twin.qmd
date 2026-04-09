@@ -1,0 +1,86 @@
+---
+title: "Battery Thermal Digital Twin"
+subtitle: "Estimating internal temperature from noisy measurements"
+---
+
+## Key idea
+
+Battery internal temperature cannot be measured directly.
+
+But it can be estimated.
+
+---
+
+## System
+
+Four parts:
+
+- **Thermal model** → heat generation + cooling  
+- **Sensor** → noisy temperature  
+- **Estimator** → reconstructs true temperature  
+- **Metrics** → efficiency and degradation  
+
+---
+
+## What I did
+
+- Simulated heating from current (I²R)  
+- Added sensor noise  
+- Built a recursive estimator  
+- Compared two degradation models:
+  - threshold  
+  - exponential  
+
+---
+
+## What you see
+
+- True temperature (hidden state)  
+- Noisy sensor signal  
+- Estimated temperature (digital twin)  
+
+---
+
+## Key results
+
+- Estimator recovers smooth temperature from noisy data  
+- Higher current increases temperature and degradation  
+- Model choice changes degradation behavior  
+
+---
+
+## Why it matters
+
+Real systems give noisy data.
+
+You still need the true state.
+
+---
+
+## Media
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+    title="Battery Digital Twin Simulation"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<br>
+
+▶️ [View more videos →](../videos.html)
+
+---
+
+## Code
+
+- GitHub: https://github.com/YOUR_USERNAME/battery-digital-twin
+
+---
+
+<div class="hero-buttons" style="margin-top:30px;">
+  <a href="../portfolio.html" class="btn-primary">← Back to Projects</a>
+</div>

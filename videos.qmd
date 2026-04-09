@@ -275,21 +275,29 @@ The filtered trajectory is smoother and more accurate than raw measurements, dem
 
 ---
 
-<!--
-### Pressure anisotropy visualization
-Short description here.
+
+<!-- 14 -->
+### Battery Digital Twin (Thermal Estimation, Python)
+
+Simulation of a battery thermal system with noisy temperature measurements.  
+A simple digital twin estimates the internal temperature using recursive filtering.
+
+Blue: true temperature  
+Orange: noisy sensor  
+Green: estimated temperature  
+
+The estimator removes noise and tracks the underlying state.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:16px;">
   <iframe
     style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    src="https://www.youtube.com/embed/uyvkjn-veRE"
-    title="Linear shear cell — mixing of elongated particles"
+    src="https://www.youtube.com/embed/soyWxfZJCjI?si=6_Zt0tjzsqtdTZrS"
+    title="Battery digital twin simulation"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
--->
 
 ---
 
