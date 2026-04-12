@@ -14,7 +14,7 @@ title: Education
 **Research focus:**  
 - DEM simulations of dense granular flow and shear-induced surface evolution  
 - Quantification of stress, shear localization, and volumetric response via coarse-graining  
-- Development of simulation and analysis tools (C++, Python)  
+- Development of simulation and analysis tools (C++, Python, MATLAB)  
 - Automated workflows and large-scale data processing on Linux/HPC systems  
 - Statistical analysis, visualization, and image-based surface characterization  
 
