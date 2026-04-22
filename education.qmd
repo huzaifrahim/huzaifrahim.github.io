@@ -12,11 +12,12 @@ title: Education
 **Supervisor:** Prof. Dr. rer. nat. Dr.-Ing. Thorsten Pöschel  
 
 **Research focus:**  
-- DEM simulations of dense granular flow and shear-induced surface evolution  
-- Quantification of stress, shear localization, and volumetric response via coarse-graining  
-- Development of simulation and analysis tools (C++, Python, MATLAB)  
-- Automated workflows and large-scale data processing on Linux/HPC systems  
-- Statistical analysis, visualization, and image-based surface characterization  
+- Developed and optimized C++ DEM simulations (~10^5 particles), using OpenMP, reducing runtime from ~30 to ~16 days on HPC systems  
+- Built Python/Bash pipelines to process TB-scale, time-resolved simulation data (>10^4 timesteps) and extract particle-scale dynamics  
+- Quantified the influence of particle interactions, (contact models, friction, shape) influence bulk stress, deformation, and shear behavior  
+- Established validation workflows by benchmarking simulations against experimental observations  
+- Automated analysis and visualization workflows (plots, videos) for large-scale particle systems  
+- Managed and optimized long-running HPC jobs (scheduling, monitoring, performance tuning)  
 
 ---
 
