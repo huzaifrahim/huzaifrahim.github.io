@@ -11,8 +11,8 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 **How particle shape and friction determine surface morphology in granular shear flow**
 
 - Spheres → flat surface; elongated particles → pronounced surface depression  
-- Competition between **alignment-driven compaction** and **friction-driven dilatancy**  
-- Links microstructure (alignment) to macroscopic surface evolution  
+- Competition between **alignment-induced compaction** and **shear-induced dilatancy**  
+- Links microstructure (particle alignment) to macroscopic surface deformation  
 
 [Read more →](./projects/friction-shape-morphology.qmd)
 
@@ -23,7 +23,7 @@ Selected research projects from my Master's and PhD work, focused on **granular 
 **How particle alignment simultaneously controls compaction and rheology**
 
 - Alignment inside shear band drives **surface depression**  
-- Transition from dilatancy (spheres) to **alignment-induced compaction**  
+- Transition from shear-induced dilatancy (in spheres) to **alignment-induced compaction** (in elongated particles)  
 - Reveals **shear-thinning behavior** via inertial-number scaling  
 
 [Read more →](./projects/shearthinning.qmd)
