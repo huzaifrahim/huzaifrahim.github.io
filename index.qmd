@@ -24,7 +24,7 @@ toc: false
 ::: {.columns}
 ::: {.column width="65%"}
 
-## PhD Researcher
+## Researcher
 <p class="hero-specialization">
   Granular Flow · DEM Simulations · Pattern Formation
 </p>
