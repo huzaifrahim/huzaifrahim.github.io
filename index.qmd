@@ -35,7 +35,6 @@ Using Discrete Element Method (DEM), I study how particle shape and contact mech
 
 I study pattern formation in reaction–diffusion systems, focusing on mechanisms that create stripe and spot patterns, such as those seen on animal skin (e.g., zebra stripes).  
 
-**Currently:** PhD Researcher (FAU Germany)
 
 <div class="hero-buttons">
   <a href="./portfolio.html" class="btn-primary">View Projects</a>
