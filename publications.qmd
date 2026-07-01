@@ -49,5 +49,6 @@ toc: false
 
 ## Thesis
 
-- **PhD Thesis (2026):** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles* · [Open FAU](https://open.fau.de/items/132c380f-13a2-4cf3-ac64-a14ec3941f11)
+- **PhD Thesis (2026):** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles* · [Open FAU](https://open.fau.de/items/132c380f-13a2-4cf3-ac64-a14ec3941f11)  
+
 - **Master's Thesis (2019):** *Analysis of Turing Patterns in a Three-Component Reaction–Diffusion System* · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ASvoi8kAAAAJ&citation_for_view=ASvoi8kAAAAJ:2osOgNQ5qMEC)
