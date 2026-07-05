@@ -371,6 +371,7 @@ p {
 /* Limit line width for readability */
 .main-container {
   max-width: var(--site-max-width);
+  margin: 0 auto;
 }
 
 /* Headings spacing */
