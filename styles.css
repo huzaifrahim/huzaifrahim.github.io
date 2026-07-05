@@ -31,17 +31,11 @@
 }
 
 /* The container inside navbar - constrain and center */
-#quarto-header .navbar > .container-fluid,
-#quarto-header .navbar > .container {
-  width: 100% !important;
+#quarto-header .navbar .navbar-container {
   max-width: var(--site-max-width) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 8px !important;
-  padding-right: 8px !important;
-
-  display: flex !important;
-  justify-content: space-between !important;
+  margin: 0 auto !important;
+  padding-left: var(--site-padding) !important;
+  padding-right: var(--site-padding) !important;
 }
 
 /* Navbar text */
