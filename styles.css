@@ -502,33 +502,3 @@ p {
     border-left-width: 3px;
   }
 }
-
-/* ===== FIX NAVBAR ALIGNMENT ===== */
-
-#quarto-header .navbar .container-fluid {
-  max-width: var(--site-max-width) !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-
-  padding-left: var(--site-padding) !important;
-  padding-right: var(--site-padding) !important;
-}
-
-/* ===== TRUE NAV ALIGNMENT FIX ===== */
-
-#quarto-header .navbar-nav {
-  margin-left: 0 !important;
-}
-
-#quarto-header .navbar .quarto-navbar-tools {
-  margin-right: 0 !important;
-}
-
-/* ===== FINAL NAV ALIGN (SIMPLE FIX) ===== */
-
-#quarto-header .navbar .container-fluid {
-  max-width: var(--site-max-width) !important;
-  margin: 0 auto !important;
-  padding-left: var(--site-padding) !important;
-  padding-right: var(--site-padding) !important;
-}
