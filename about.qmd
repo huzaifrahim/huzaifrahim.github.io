@@ -1,57 +1,52 @@
----
-title: "About"
-toc: false
----
-
 ## Hi, I'm Huzaif
 
-I am a PhD researcher at Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany (thesis submitted), specializing in **computational modeling of dense granular flow** using the **Discrete Element Method (DEM)**.
+I am a computational physicist specializing in dense granular flow, particle-based simulation, and multiscale modeling.
 
-My work focuses on how **particle-scale interactions (shape, friction, contact mechanics)** determine macroscopic behavior such as:
+Using the Discrete Element Method (DEM), I investigate how particle shape and contact mechanics influence granular flow, stress distribution, shear localization, dilatancy, compaction, surface morphology, and rheology. I use coarse-graining to transform particle-scale data into continuum fields (velocity, strain rate, and stress), linking microscopic interactions to macroscopic behavior.
 
-- stress transmission and anisotropy  
-- shear localization and secondary flow  
-- dilatancy, compaction, and surface evolution  
-
-I combine large-scale DEM simulations with **coarse-graining and micro–macro analysis** to extract continuum fields (velocity, strain-rate, stress tensor) and uncover the physical mechanisms governing granular flow.
+I also study pattern formation in reaction–diffusion systems, investigating the mechanisms that generate stripe and spot patterns, such as those observed on animal skin (e.g., zebra stripes).
 
 ---
 
 ## What I Do
 
-I develop and analyze high-resolution simulations of sheared granular systems, connecting particle-scale dynamics to continuum-scale behavior.
+I develop numerical models and large-scale simulations to understand the behavior of complex physical systems.
 
-My work includes analysis of:
+My work includes:
 
-- Shear-band formation and localization  
-- Particle alignment and stress anisotropy  
-- Free-surface evolution under shear  
-- Coarse-graining techniques for continuum field extraction  
-- Automated simulation workflows and large-scale data analysis (Python / MATLAB)  
-- Pattern formation in reaction–diffusion systems (Turing patterns)  
+- Discrete Element Method (DEM) simulations of granular materials
+- Coarse-graining and micro–macro analysis
+- Shear localization, stress anisotropy, and granular rheology
+- High-performance computing and simulation workflows
+- Scientific software development in Python and C++
+- Pattern formation in reaction–diffusion systems
 
 ---
 
 ## Technical Expertise
 
-- **DEM Simulation:** Large-scale particle-based modeling (MercuryDPM, YADE)  
-- **Continuum Analysis:** Stress tensors, rheology, and micro–macro transitions  
-- **Scientific Computing:** Python, MATLAB, data analysis and visualization  
-- **High-Performance Computing:** simulation workflows, reproducibility, automation  
+- **Scientific Computing:** Python, C++, MATLAB, Linux
+- **Simulation:** DEM (MercuryDPM, YADE), computational modeling
+- **Data Analysis:** Numerical methods, visualization, automation
+- **High-Performance Computing:** OpenMP, parallel simulations, reproducible workflows
 
 ---
 
 ## Professional Interests
 
-I am seeking opportunities in:
+I enjoy solving problems that combine physics, mathematics, and software engineering.
 
-- Computational physics and simulation  
-- Granular and complex materials modeling  
-- Scientific computing and high-performance simulation  
-- Data-driven modeling in physics and engineering  
+My interests include:
 
-I am particularly interested in roles where **physical modeling, computation, and real-world applications intersect**.
+- Scientific computing
+- Computational modeling and simulation
+- Algorithm development
+- High-performance computing
+- Robotics and automation
+- Data-driven engineering
+
+I am particularly interested in projects where computational methods help explain or predict the behavior of complex physical systems.
 
 ---
 
-If you're interested in collaboration or opportunities, feel free to connect via LinkedIn or email.
+If you'd like to discuss research, scientific computing, or potential collaborations, feel free to get in touch via LinkedIn or email.
