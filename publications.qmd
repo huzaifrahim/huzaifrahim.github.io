@@ -30,6 +30,14 @@ toc: false
    **Journal of Physics: Conference Series**, 2019  
    [DOI](https://doi.org/10.1088/1742-6596/1324/1/012012) · [PDF](https://iopscience.iop.org/article/10.1088/1742-6596/1324/1/012012/pdf)
 
+---
+
+## Thesis
+
+- **PhD Thesis (2026):** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles* · [Open FAU](https://open.fau.de/items/132c380f-13a2-4cf3-ac64-a14ec3941f11)  
+
+- **Master's Thesis (2019):** *Analysis of Turing Patterns in a Three-Component Reaction–Diffusion System* · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ASvoi8kAAAAJ&citation_for_view=ASvoi8kAAAAJ:2osOgNQ5qMEC)
+
 
 ---
 
@@ -45,11 +53,4 @@ toc: false
 - Physics of Life Workshop: Periodic Patterns, – University of Oxford (Virtual) Nov 18–19, 2021.  
 - Modelling Diffusive Systems: Theory & Biological Applications (MoDiS) – ICMS (Virtual) Sep 6–9, 2021.  
 - Early Career Research in Biological Physics – Institute of Physics (IOP), Caledonian Road, London,  Dec 8, 2021.  
-
----
-
-## Thesis
-
-- **PhD Thesis (2026):** *Multiscale analysis of shear-induced surface deformation in granular materials composed of non-spherical particles* · [Open FAU](https://open.fau.de/items/132c380f-13a2-4cf3-ac64-a14ec3941f11)  
-
-- **Master's Thesis (2019):** *Analysis of Turing Patterns in a Three-Component Reaction–Diffusion System* · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ASvoi8kAAAAJ&citation_for_view=ASvoi8kAAAAJ:2osOgNQ5qMEC)
+  
