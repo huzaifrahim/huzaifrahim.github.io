@@ -3,7 +3,7 @@ title: "Videos"
 toc: false
 ---
 
-## DEM Simulations & Animations
+## DEM Simulations Videos
 
 <!-- 1 -->
 ### Elongated Particle Deposition & Shearing (Linear Split-Bottom Cell) | DEM
