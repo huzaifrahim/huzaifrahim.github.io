@@ -5,21 +5,21 @@ toc: false
 
 ## Journal Papers
 
-1. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
-   *Impact of Friction and Grain Shape on the Morphology of Sheared Granular Media.*  
-   **Physical Review Fluids**, 2026  
-   [DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)
-
-2. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
-   *Shear-induced pressure localization in granular materials of nonspherical particles.*  
-   **Physical Review E**, 2026  
-   [DOI](https://doi.org/10.1103/ft7h-8gb4) ·  [Preprint](https://doi.org/10.48550/arXiv.2512.11157)
-
-3. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
+1. **Huzaif Rahim**, Thorsten Pöschel, Sudeshna Roy.  
    *Dilatancy-induced surface deformation in dense cohesive granular media.*  
    **Physics of Fluids**, 2026  
    [DOI](https://doi.org/10.1063/5.0320862) · [Preprint](https://arxiv.org/pdf/2601.01172)
 
+2. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
+   *Impact of Friction and Grain Shape on the Morphology of Sheared Granular Media.*  
+   **Physical Review Fluids**, 2026  
+   [DOI](https://doi.org/10.1103/z1rz-b4j6) · [Preprint](https://arxiv.org/pdf/2502.13739)
+
+3. **Huzaif Rahim**, Sudeshna Roy, Thorsten Pöschel.  
+   *Shear-induced pressure localization in granular materials of nonspherical particles.*  
+   **Physical Review E**, 2026  
+   [DOI](https://doi.org/10.1103/ft7h-8gb4) ·  [Preprint](https://doi.org/10.48550/arXiv.2512.11157)
+ 
 4. **Huzaif Rahim**, Vasileios Angelidakis, Sudeshna Roy, Thorsten Pöschel.  
    *Alignment-Induced Depression and Shear Thinning in Granular Matter of Nonspherical Particles.*  
    **Physical Review Fluids**, 2024  
